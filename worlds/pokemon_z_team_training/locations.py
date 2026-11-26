@@ -361,10 +361,10 @@ def place_unrandomized_items(world: "PokemonFRLGWorld") -> None:
         update_renewable_to_progression(location.item)
 
     if world.options.shuffle_pokedex == ShufflePokedex.option_vanilla:
-        fill_unrandomized_location(world.get_location("Professor Oak's Lab - Oak Gift 1 (Deliver Parcel)"), False)
+        fill_unrandomized_location(world.get_location("Dr. Brief's Lab - Brief Gift 1 (Deliver Parcel)"), False)
 
     if world.options.shuffle_running_shoes == ShuffleRunningShoes.option_vanilla:
-        fill_unrandomized_location(world.get_location("Pewter City - Gift from Mom"), False)
+        fill_unrandomized_location(world.get_location("Saiyan Realm - Gift from Mom"), False)
 
 
 def place_shop_items(world: "PokemonFRLGWorld") -> None:

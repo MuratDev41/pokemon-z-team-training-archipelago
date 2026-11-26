@@ -39,7 +39,7 @@ m = json.load(open(mpath, encoding="utf-8-sig"))
 m["name"] = "Pokemon Z Team Training Tracker"
 m["game_name"] = "Pokemon Z Team Training"
 m["package_uid"] = "pokemon_z_team_training"
-m["package_version"] = "1.2.0"
+m["package_version"] = "1.3.0"
 m["author"] = "Vyneras, MuratDeveloper"
 m.pop("versions_url", None)   # the upstream URL would offer FRLG updates
 json.dump(m, open(mpath, "w", encoding="utf-8"), indent=2, ensure_ascii=False)

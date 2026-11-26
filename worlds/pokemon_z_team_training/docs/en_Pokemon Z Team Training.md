@@ -45,10 +45,17 @@ Archipelago's logic is built around FireRed's maps, events and scripts, so these
 
 ## Names in Archipelago
 
-Archipelago uses the in-game names: hints, items and locations say `GOKU`, `Pokedex - SSJ GOKU`, `Static BUUHAN`, and
-YAML species lists (starter or legendary blacklists, for example) take the same names. The
-[species names](species_names.md) page maps them to the original Pokémon. Items use the hack's names as well
-(CAPSULE, SENZU, HOLY WATER, DRAGONBALL 1...), except the few items Archipelago itself renames or repurposes.
+Archipelago uses the hack's names everywhere players see them:
+
+- **Species**: `GOKU`, `Pokedex - SSJ GOKU`, `Static BUUHAN`; YAML species lists take the same names.
+  The [species names](species_names.md) page maps them to the original Pokémon.
+- **Items**: real items use their in-game names (CAPSULE, SENZU, HOLY WATER, DRAGONBALL 1...). Archipelago's own
+  items follow the hack's places: `Saiyan Realm Key`, `Fly Unlock (Mount Paozu)`, `Babidi Pass`.
+- **Locations**: places, characters and trainers follow the hack: `Mount Paozu - Brief's Lab Sign Info`,
+  `Capsule Corp. 6F - ...`, `Pilaf Hideout B1F - Team Pilaf Grunt Reward`, `Saiyan Realm Gym - Leader Yajirobe Reward`,
+  `East Kai's Room - King Kai East Kai Reward`.
+
+Use these names in `start_inventory`, `exclude_locations`, `priority_locations` and plando.
 
 ## What does randomization do to this game?
 

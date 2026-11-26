@@ -381,7 +381,7 @@ class PokemonFRLGWorld(World):
 
         if self.options.gym_keys:
             items_to_remove.append(self.create_item("Secret Key"))
-            items_to_add.append(self.create_item("Cinnabar Key"))
+            items_to_add.append(self.create_item("Roshi's Island Key"))
 
         for item in items_to_remove:
             self.itempool.remove(item)

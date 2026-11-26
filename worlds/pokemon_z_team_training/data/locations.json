@@ -1,48 +1,48 @@
 {
   "BADGE_1": {
-    "name": "Pewter Gym - Prize",
+    "name": "Saiyan Realm Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Pewter City", "Pewter Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_2": {
-    "name": "Cerulean Gym - Prize",
+    "name": "Namek Town Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_3": {
-    "name": "Vermilion Gym - Prize",
+    "name": "Red Ribbon Base Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_4": {
-    "name": "Celadon Gym - Prize",
+    "name": "West City Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_5": {
-    "name": "Fuchsia Gym - Prize",
+    "name": "Ginger Town Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_6": {
-    "name": "Saffron Gym - Prize",
+    "name": "Satan City Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_7": {
-    "name": "Cinnabar Gym - Prize",
+    "name": "Roshi's Island Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "BADGE_8": {
-    "name": "Viridian Gym - Prize",
+    "name": "Aru Village Gym - Prize",
     "tags": ["Gym Prizes", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "NPC_GIFT",
     "include": []
@@ -61,19 +61,19 @@
     "include": []
   },
   "NPC_GIFT_GOT_HM03": {
-    "name": "Safari Zone Secret House - Campaign Prize",
+    "name": "Babidi Zone Secret House - Campaign Prize",
     "tags": ["NPC Gifts", "Kanto", "Safari Zone"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_HM04": {
-    "name": "Safari Zone Warden's House - Warden Gift (Return Teeth)",
+    "name": "Babidi Zone Warden's House - Warden Gift (Return Teeth)",
     "tags": ["NPC Gifts", "Kanto", "Fuchsia City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_HM05": {
-    "name": "Route 2 Gate - Oak's Aide Gift (Pokedex Progress)",
+    "name": "Route 2 Gate - Brief's Aide Gift (Pokedex Progress)",
     "tags": ["NPC Gifts", "Pokedex Progress", "Kanto", "Route 2"],
     "category": "NPC_GIFT",
     "include": []
@@ -104,19 +104,19 @@
     "include": []
   },
   "ITEM_SILPH_CO_5F_CARD_KEY": {
-    "name": "Silph Co. 5F - South Hallway Item",
+    "name": "Capsule Corp. 5F - South Hallway Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "NPC_GIFT_GOT_COIN_CASE": {
-    "name": "Celadon Restaurant - Coin Case Man Gift",
+    "name": "West City Restaurant - Coin Case Man Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_FAME_CHECKER": {
-    "name": "Cerulean City - Rival Gift",
+    "name": "Namek Town - Rival Gift",
     "tags": ["NPC Gifts", "Kanto", "Cerulean City"],
     "category": "NPC_GIFT",
     "include": []
@@ -134,25 +134,25 @@
     "include": []
   },
   "NPC_GIFT_GOT_GOOD_ROD": {
-    "name": "Fuchsia Fishing House - Fishing Guru Gift",
+    "name": "Ginger Town Fishing House - Fishing Guru Gift",
     "tags": ["NPC Gifts", "Kanto", "Fuchsia City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "ITEM_SAFARI_ZONE_WEST_GOLD_TEETH": {
-    "name": "Safari Zone West Area - Northeast Item",
+    "name": "Babidi Zone West Area - Northeast Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "NPC_GIFT_GOT_ITEMFINDER": {
-    "name": "Route 11 Gate 2F - Oak's Aide Gift (Pokedex Progress)",
+    "name": "Route 11 Gate 2F - Brief's Aide Gift (Pokedex Progress)",
     "tags": ["NPC Gifts", "Pokedex Progress", "Kanto", "Route 11"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_CAN_USE_ROCKET_HIDEOUT_LIFT": {
-    "name": "Rocket Hideout B4F - Team Rocket Grunt Item",
+    "name": "Pilaf Hideout B4F - Team Pilaf Grunt Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -164,25 +164,25 @@
     "include": []
   },
   "NPC_GIFT_GOT_OAKS_PARCEL": {
-    "name": "Viridian Poke Mart - Delivery for Oak",
+    "name": "Aru Village Poke Mart - Delivery for Brief",
     "tags": ["NPC Gifts", "Kanto", "Viridian City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_OLD_AMBER": {
-    "name": "Pewter Museum 1F - Scientist Gift",
+    "name": "Saiyan Realm Museum 1F - Scientist Gift",
     "tags": ["NPC Gifts", "Kanto", "Pewter City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_OLD_ROD": {
-    "name": "Vermilion Fishing House - Fishing Guru Gift",
+    "name": "Red Ribbon Base Fishing House - Fishing Guru Gift",
     "tags": ["NPC Gifts", "Kanto", "Vermilion City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_POKE_FLUTE": {
-    "name": "Volunteer Pokemon House - Mr. Fuji Gift",
+    "name": "Volunteer Pokemon House - Kami Gift",
     "tags": ["NPC Gifts", "Kanto", "Lavender Town"],
     "category": "NPC_GIFT",
     "include": []
@@ -206,13 +206,13 @@
     "include": []
   },
   "NPC_GIFT_RECOVERED_SAPPHIRE": {
-    "name": "Rocket Warehouse - Recover Stolen Gem",
+    "name": "Pilaf Warehouse - Recover Stolen Gem",
     "tags": ["NPC Gifts", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "NPC_GIFT",
     "include": []
   },
   "ITEM_POKEMON_MANSION_B1F_SECRET_KEY": {
-    "name": "Pokemon Mansion B1F - Northwest Room Item",
+    "name": "Enigma Mansion B1F - Northwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -224,13 +224,13 @@
     "include": []
   },
   "NPC_GIFT_GOT_SILPH_SCOPE": {
-    "name": "Rocket Hideout B4F - Giovanni Item",
+    "name": "Pilaf Hideout B4F - Pilaf Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "NPC_GIFT_GOT_SS_TICKET": {
-    "name": "Sea Cottage - Bill Gift",
+    "name": "Sea Cottage - Leon Gift",
     "tags": ["NPC Gifts", "Kanto", "Route 25"],
     "category": "NPC_GIFT",
     "include": []
@@ -242,13 +242,13 @@
     "include": []
   },
   "NPC_GIFT_GOT_TEA": {
-    "name": "Celadon Condominiums 1F - Tea Woman Gift",
+    "name": "West City Condominiums 1F - Tea Woman Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TEACHY_TV": {
-    "name": "Viridian City - Tutorial Man Gift",
+    "name": "Aru Village - Tutorial Man Gift",
     "tags": ["NPC Gifts", "Kanto", "Viridian City"],
     "category": "NPC_GIFT",
     "include": []
@@ -266,21 +266,21 @@
     "include": []
   },
   "NPC_GIFT_GOT_VS_SEEKER": {
-    "name": "Vermilion Pokemon Center 1F - Vs. Seeker Woman Gift",
+    "name": "Red Ribbon Base Pokemon Center 1F - Vs. Seeker Woman Gift",
     "tags": ["NPC Gifts", "Kanto", "Vermilion City"],
     "category": "NPC_GIFT",
     "include": []
   },
 
   "NPC_GIFT_GOT_RUNNING_SHOES": {
-    "name": "Pewter City - Gift from Mom",
+    "name": "Saiyan Realm - Gift from Mom",
     "tags": ["NPC Gifts", "Kanto", "Pewter City"],
     "category": "NPC_GIFT",
     "include": []
   },
 
   "ITEM_CELADON_CITY_HOUSE_HIDEOUT_KEY": {
-    "name": "Celadon Rocket House - Item",
+    "name": "West City Rocket House - Item",
     "tags": ["Overworld Items", "Kanto", "Celadon City"],
     "category": "OVERWORLD_ITEM",
     "include": ["Extra Key Items"]
@@ -292,32 +292,32 @@
     "include": ["Extra Key Items"]
   },
   "HIDDEN_ITEM_CERULEAN_CITY_GYM_MACHINE_PART": {
-    "name": "Cerulean Gym - Hidden Item in Water",
+    "name": "Namek Town Gym - Hidden Item in Water",
     "tags": ["Hidden Items", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "HIDDEN_ITEM",
     "include": ["Extra Key Items"]
   },
   "NPC_GIFT_GOT_SAFARI_PASS": {
-    "name": "Safari Zone Office - Safari Zone Worker Gift",
+    "name": "Babidi Zone Office - Babidi Zone Worker Gift",
     "tags": ["NPC Gifts", "Kanto", "Fuchsia City"],
     "category": "NPC_GIFT",
     "include": ["Extra Key Items"]
   },
 
   "FLY_UNLOCK_VISITED_CELADON_CITY": {
-    "name": "Celadon City - Unlock Fly Destination",
+    "name": "West City - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Celadon City"],
     "category": "TOWN_VISIT",
     "include": []
   },
   "FLY_UNLOCK_VISITED_CERULEAN_CITY": {
-    "name": "Cerulean City - Unlock Fly Destination",
+    "name": "Namek Town - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Cerulean City"],
     "category": "TOWN_VISIT",
     "include": []
   },
   "FLY_UNLOCK_VISITED_CINNABAR_ISLAND": {
-    "name": "Cinnabar Island - Unlock Fly Destination",
+    "name": "Roshi's Island - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Cinnabar Island"],
     "category": "TOWN_VISIT",
     "include": []
@@ -335,7 +335,7 @@
     "include": []
   },
   "FLY_UNLOCK_VISITED_FUCHSIA_CITY": {
-    "name": "Fuchsia City - Unlock Fly Destination",
+    "name": "Ginger Town - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Fuchsia City"],
     "category": "TOWN_VISIT",
     "include": []
@@ -347,7 +347,7 @@
     "include": []
   },
   "FLY_UNLOCK_VISITED_LAVENDER_TOWN": {
-    "name": "Lavender Town - Unlock Fly Destination",
+    "name": "Makyo Town - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Lavender Town"],
     "category": "TOWN_VISIT",
     "include": []
@@ -359,13 +359,13 @@
     "include": []
   },
   "FLY_UNLOCK_VISITED_PALLET_TOWN": {
-    "name": "Pallet Town - Unlock Fly Destination",
+    "name": "Mount Paozu - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Pallet Town"],
     "category": "TOWN_VISIT",
     "include": []
   },
   "FLY_UNLOCK_VISITED_PEWTER_CITY": {
-    "name": "Pewter City - Unlock Fly Destination",
+    "name": "Saiyan Realm - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Pewter City"],
     "category": "TOWN_VISIT",
     "include": []
@@ -383,7 +383,7 @@
     "include": []
   },
   "FLY_UNLOCK_VISITED_SAFFRON_CITY": {
-    "name": "Saffron City - Unlock Fly Destination",
+    "name": "Satan City - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Saffron City"],
     "category": "TOWN_VISIT",
     "include": []
@@ -413,75 +413,75 @@
     "include": []
   },
   "FLY_UNLOCK_VISITED_VERMILION_CITY": {
-    "name": "Vermilion City - Unlock Fly Destination",
+    "name": "Red Ribbon Base - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Vermilion City"],
     "category": "TOWN_VISIT",
     "include": []
   },
   "FLY_UNLOCK_VISITED_VIRIDIAN_CITY": {
-    "name": "Viridian City - Unlock Fly Destination",
+    "name": "Aru Village - Unlock Fly Destination",
     "tags": ["Town Visits", "Kanto", "Viridian City"],
     "category": "TOWN_VISIT",
     "include": []
   },
 
   "ITEM_SILPH_CO_2F_CARD_KEY_2F": {
-    "name": "Silph Co. 2F - Southeast Room Item",
+    "name": "Capsule Corp. 2F - Southeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_3F_CARD_KEY_5F": {
-    "name": "Silph Co. 3F - East Room Item",
+    "name": "Capsule Corp. 3F - East Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_4F_CARD_KEY_4F": {
-    "name": "Silph Co. 4F - North Room Item",
+    "name": "Capsule Corp. 4F - North Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_6F_CARD_KEY_6F": {
-    "name": "Silph Co. 6F - Center Room Item",
+    "name": "Capsule Corp. 6F - Center Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_7F_CARD_KEY_7F": {
-    "name": "Silph Co. 7F - Northwest Room Item",
+    "name": "Capsule Corp. 7F - Northwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_8F_CARD_KEY_8F": {
-    "name": "Silph Co. 8F - West Room Item",
+    "name": "Capsule Corp. 8F - West Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_9F_CARD_KEY_9F": {
-    "name": "Silph Co. 9F - Northwest Room Item",
+    "name": "Capsule Corp. 9F - Northwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_10F_CARD_KEY_10F": {
-    "name": "Silph Co. 10F - Southeast Room Item",
+    "name": "Capsule Corp. 10F - Southeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
   "ITEM_SILPH_CO_11F_CARD_KEY_11F": {
-    "name": "Silph Co. 11F - West Hallway Item",
+    "name": "Capsule Corp. 11F - West Hallway Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": ["Split Card Key"]
   },
 
   "NPC_GIFT_GOT_ONE_PASS": {
-    "name": "Cinnabar Pokemon Center 1F - Bill Gift",
+    "name": "Roshi's Island Pokemon Center 1F - Leon Gift",
     "tags": ["NPC Gifts", "Kanto", "Cinnabar Island"],
     "category": "NPC_GIFT",
     "include": ["Split Island Passes"]
@@ -499,7 +499,7 @@
     "include": ["Split Island Passes"]
   },
   "NPC_GIFT_GOT_SIX_PASS": {
-    "name": "Icefall Cave Back - Lorelei Gift",
+    "name": "Icefall Cave Back - East Kai Gift",
     "tags": ["NPC Gifts", "Sevii Islands", "Four Island", "Icefall Cave"],
     "category": "NPC_GIFT",
     "include": ["Split Island Passes"]
@@ -512,26 +512,26 @@
   },
 
   "NPC_GIFT_GOT_RED_TEA": {
-    "name": "Celadon Condominiums 1F - Brock Gift",
+    "name": "West City Condominiums 1F - Yajirobe Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": ["Split Teas"]
   },
   "NPC_GIFT_GOT_BLUE_TEA": {
-    "name": "Celadon Condominiums 1F - Misty Gift",
+    "name": "West City Condominiums 1F - Muri Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": ["Split Teas"]
   },
   "NPC_GIFT_GOT_PURPLE_TEA": {
-    "name": "Celadon Condominiums 1F - Erika Gift",
+    "name": "West City Condominiums 1F - Bulma Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": ["Split Teas"]
   },
 
   "ITEM_PEWTER_MUSEUM_2F_PEWTER_KEY": {
-    "name": "Pewter Museum 2F - Item",
+    "name": "Saiyan Realm Museum 2F - Item",
     "tags": ["Overworld Items", "Kanto", "Pewter City"],
     "category": "OVERWORLD_ITEM",
     "include": ["Gym Keys"]
@@ -543,86 +543,86 @@
     "include": ["Gym Keys"]
   },
   "ITEM_DIGLETTS_CAVE_B1F_VERMILION_KEY": {
-    "name": "Diglett's Cave B1F - Item",
+    "name": "R.R.'s Cave B1F - Item",
     "tags": ["Overworld Items", "Kanto", "Diglett's Cave"],
     "category": "OVERWORLD_ITEM",
     "include": ["Gym Keys"]
   },
   "ITEM_CELADON_CITY_HOTEL_CELADON_KEY": {
-    "name": "Celadon Hotel - Item",
+    "name": "West City Hotel - Item",
     "tags": ["Overworld Items", "Kanto", "Celadon City"],
     "category": "OVERWORLD_ITEM",
     "include": ["Gym Keys"]
   },
   "ITEM_SAFARI_ZONE_EAST_RESTHOUSE_FUCHSIA_KEY": {
-    "name": "Safari Zone East Area Rest House - Item",
+    "name": "Babidi Zone East Area Rest House - Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": ["Gym Keys"]
   },
   "ITEM_SAFFRON_CITY_DOJO_SAFFRON_KEY": {
-    "name": "Saffron Dojo - Item (Center)",
+    "name": "Satan City Dojo - Item (Center)",
     "tags": ["Overworld Items", "Kanto", "Saffron City"],
     "category": "OVERWORLD_ITEM",
     "include": ["Gym Keys"]
   },
   "NPC_GIFT_GOT_VIRIDIAN_KEY": {
-    "name": "Viridian City - Old Man Gift",
+    "name": "Aru Village - Old Man Gift",
     "tags": ["NPC Gifts", "Kanto", "Viridian City"],
     "category": "NPC_GIFT",
     "include": ["Gym Keys"]
   },
 
   "ITEM_CELADON_CITY_ETHER": {
-    "name": "Celadon City - Northwest Item",
+    "name": "West City - Northwest Item",
     "tags": ["Overworld Items", "Kanto", "Celadon City"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_1F_FULL_RESTORE": {
-    "name": "Cerulean Cave 1F - Southwest Item",
+    "name": "Imperial Cave 1F - Southwest Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_1F_MAX_ELIXIR": {
-    "name": "Cerulean Cave 1F - East Plateau Item",
+    "name": "Imperial Cave 1F - East Plateau Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_1F_NUGGET": {
-    "name": "Cerulean Cave 1F - West Plateau Item",
+    "name": "Imperial Cave 1F - West Plateau Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_2F_FULL_RESTORE": {
-    "name": "Cerulean Cave 2F - East Item",
+    "name": "Imperial Cave 2F - East Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_2F_PP_UP": {
-    "name": "Cerulean Cave 2F - West Item",
+    "name": "Imperial Cave 2F - West Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_2F_ULTRA_BALL": {
-    "name": "Cerulean Cave 2F - Center Item",
+    "name": "Imperial Cave 2F - Center Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_B1F_MAX_REVIVE": {
-    "name": "Cerulean Cave B1F - Northeast Item",
+    "name": "Imperial Cave B1F - Northeast Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_CERULEAN_CAVE_B1F_ULTRA_BALL": {
-    "name": "Cerulean Cave B1F - East Plateau Item",
+    "name": "Imperial Cave B1F - East Plateau Item",
     "tags": ["Overworld Items", "Kanto", "Cerulean Cave"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -676,25 +676,25 @@
     "include": []
   },
   "ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_BIG_PEARL": {
-    "name": "Rocket Warehouse - Maze South Item",
+    "name": "Pilaf Warehouse - Maze South Item",
     "tags": ["Overworld Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_PEARL": {
-    "name": "Rocket Warehouse - Maze West Item",
+    "name": "Pilaf Warehouse - Maze West Item",
     "tags": ["Overworld Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_TM36": {
-    "name": "Rocket Warehouse - North Room Item",
+    "name": "Pilaf Warehouse - North Room Item",
     "tags": ["Overworld Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_UP_GRADE": {
-    "name": "Rocket Warehouse - Northwest Room Item",
+    "name": "Pilaf Warehouse - Northwest Room Item",
     "tags": ["Overworld Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -730,7 +730,7 @@
     "include": []
   },
   "ITEM_FUCHSIA_CITY_WARDENS_HOUSE_RARE_CANDY": {
-    "name": "Safari Zone Warden's House - Item",
+    "name": "Babidi Zone Warden's House - Item",
     "tags": ["Overworld Items", "Kanto", "Fuchsia City"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -832,217 +832,217 @@
     "include": []
   },
   "ITEM_POKEMON_MANSION_1F_CARBOS": {
-    "name": "Pokemon Mansion 1F - Item Near B1F Stairs",
+    "name": "Enigma Mansion 1F - Item Near B1F Stairs",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_1F_ESCAPE_ROPE": {
-    "name": "Pokemon Mansion 1F - Item Between North Pillars",
+    "name": "Enigma Mansion 1F - Item Between North Pillars",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_1F_PROTEIN": {
-    "name": "Pokemon Mansion 1F - Item Behind Gate",
+    "name": "Enigma Mansion 1F - Item Behind Gate",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_2F_CALCIUM": {
-    "name": "Pokemon Mansion 2F - Northeast Room Item",
+    "name": "Enigma Mansion 2F - Northeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_2F_HP_UP": {
-    "name": "Pokemon Mansion 2F - Item Near East Balcony",
+    "name": "Enigma Mansion 2F - Item Near East Balcony",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_2F_ZINC": {
-    "name": "Pokemon Mansion 2F - West Balcony Item",
+    "name": "Enigma Mansion 2F - West Balcony Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_3F_IRON": {
-    "name": "Pokemon Mansion 3F - Northeast Room Item",
+    "name": "Enigma Mansion 3F - Northeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_3F_MAX_POTION": {
-    "name": "Pokemon Mansion 3F - Southwest Room Item",
+    "name": "Enigma Mansion 3F - Southwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_B1F_FULL_RESTORE": {
-    "name": "Pokemon Mansion B1F - Southwest Hallway Item",
+    "name": "Enigma Mansion B1F - Southwest Hallway Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_B1F_TM14": {
-    "name": "Pokemon Mansion B1F - North Room Item",
+    "name": "Enigma Mansion B1F - North Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_MANSION_B1F_TM22": {
-    "name": "Pokemon Mansion B1F - West Room Item",
+    "name": "Enigma Mansion B1F - West Room Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Mansion"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_3F_ESCAPE_ROPE": {
-    "name": "Pokemon Tower 3F - North Item",
+    "name": "God's Tower 3F - North Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_4F_AWAKENING": {
-    "name": "Pokemon Tower 4F - Center Item (Left)",
+    "name": "God's Tower 4F - Center Item (Left)",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_4F_ELIXIR": {
-    "name": "Pokemon Tower 4F - Center Item (Right)",
+    "name": "God's Tower 4F - Center Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_4F_GREAT_BALL": {
-    "name": "Pokemon Tower 4F - South Item",
+    "name": "God's Tower 4F - South Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_5F_CLEANSE_TAG": {
-    "name": "Pokemon Tower 5F - Healing Area Item",
+    "name": "God's Tower 5F - Healing Area Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_5F_NUGGET": {
-    "name": "Pokemon Tower 5F - Southwest Item",
+    "name": "God's Tower 5F - Southwest Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_6F_RARE_CANDY": {
-    "name": "Pokemon Tower 6F - Southwest Item",
+    "name": "God's Tower 6F - Southwest Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POKEMON_TOWER_6F_X_ACCURACY": {
-    "name": "Pokemon Tower 6F - Southeast Item",
+    "name": "God's Tower 6F - Southeast Item",
     "tags": ["Overworld Items", "Kanto", "Pokemon Tower"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POWER_PLANT_ELIXIR": {
-    "name": "Power Plant - Long Center Room Item (Left)",
+    "name": "Raichi's Labo - Long Center Room Item (Left)",
     "tags": ["Overworld Items", "Kanto", "Power Plant"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POWER_PLANT_MAX_POTION": {
-    "name": "Power Plant - Item Near Entrance",
+    "name": "Raichi's Labo - Item Near Entrance",
     "tags": ["Overworld Items", "Kanto", "Power Plant"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POWER_PLANT_THUNDER_STONE": {
-    "name": "Power Plant - Northeast Room Item (Right)",
+    "name": "Raichi's Labo - Northeast Room Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Power Plant"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POWER_PLANT_TM17": {
-    "name": "Power Plant - Long Center Room Item (Right)",
+    "name": "Raichi's Labo - Long Center Room Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Power Plant"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_POWER_PLANT_TM25": {
-    "name": "Power Plant - Southeast Room Item",
+    "name": "Raichi's Labo - Southeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Power Plant"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B1F_ESCAPE_ROPE": {
-    "name": "Rocket Hideout B1F - West Room Item",
+    "name": "Pilaf Hideout B1F - West Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B1F_HYPER_POTION": {
-    "name": "Rocket Hideout B1F - Southwest Room Item",
+    "name": "Pilaf Hideout B1F - Southwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B2F_MOON_STONE": {
-    "name": "Rocket Hideout B2F - Maze Northwest Item (Left)",
+    "name": "Pilaf Hideout B2F - Maze Northwest Item (Left)",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B2F_SUPER_POTION": {
-    "name": "Rocket Hideout B2F - Maze Southwest Item",
+    "name": "Pilaf Hideout B2F - Maze Southwest Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B2F_TM12": {
-    "name": "Rocket Hideout B2F - Maze Northwest Item (Right)",
+    "name": "Pilaf Hideout B2F - Maze Northwest Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B2F_X_SPEED": {
-    "name": "Rocket Hideout B2F - Maze Northeast Item",
+    "name": "Pilaf Hideout B2F - Maze Northeast Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B3F_BLACK_GLASSES": {
-    "name": "Rocket Hideout B3F - Item Near B4F Stairs",
+    "name": "Pilaf Hideout B3F - Item Near B4F Stairs",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B3F_RARE_CANDY": {
-    "name": "Rocket Hideout B3F - Maze Item",
+    "name": "Pilaf Hideout B3F - Maze Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B3F_TM21": {
-    "name": "Rocket Hideout B3F - East Room Item",
+    "name": "Pilaf Hideout B3F - East Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B4F_CALCIUM": {
-    "name": "Rocket Hideout B4F - Southwest Room Item",
+    "name": "Pilaf Hideout B4F - Southwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B4F_MAX_ETHER": {
-    "name": "Rocket Hideout B4F - West Room Item",
+    "name": "Pilaf Hideout B4F - West Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_ROCKET_HIDEOUT_B4F_TM49": {
-    "name": "Rocket Hideout B4F - Northwest Room Item",
+    "name": "Pilaf Hideout B4F - Northwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Rocket Hideout"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -1156,67 +1156,67 @@
     "include": []
   },
   "ITEM_SAFARI_ZONE_CENTER_NUGGET": {
-    "name": "Safari Zone Center Area - Island Item",
+    "name": "Babidi Zone Center Area - Island Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_EAST_FULL_RESTORE": {
-    "name": "Safari Zone East Area - Item Near Rest House",
+    "name": "Babidi Zone East Area - Item Near Rest House",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_EAST_LEAF_STONE": {
-    "name": "Safari Zone East Area - Southeast Plateau Item",
+    "name": "Babidi Zone East Area - Southeast Plateau Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_EAST_MAX_POTION": {
-    "name": "Safari Zone East Area - Item Near Bush",
+    "name": "Babidi Zone East Area - Item Near Bush",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_EAST_TM11": {
-    "name": "Safari Zone East Area - Tall Grass Item",
+    "name": "Babidi Zone East Area - Tall Grass Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_NORTH_PROTEIN": {
-    "name": "Safari Zone North Area - North Item",
+    "name": "Babidi Zone North Area - North Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_NORTH_QUICK_CLAW": {
-    "name": "Safari Zone North Area - South Item",
+    "name": "Babidi Zone North Area - South Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_NORTH_TM47": {
-    "name": "Safari Zone North Area - Center Item",
+    "name": "Babidi Zone North Area - Center Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_WEST_MAX_POTION": {
-    "name": "Safari Zone West Area - Southwest Item",
+    "name": "Babidi Zone West Area - Southwest Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_WEST_MAX_REVIVE": {
-    "name": "Safari Zone West Area - Southeast Item",
+    "name": "Babidi Zone West Area - Southeast Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SAFARI_ZONE_WEST_TM32": {
-    "name": "Safari Zone West Area - Northwest Item",
+    "name": "Babidi Zone West Area - Northwest Item",
     "tags": ["Overworld Items", "Kanto", "Safari Zone"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -1252,7 +1252,7 @@
     "include": []
   },
   "ITEM_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE_LUCKY_PUNCH": {
-    "name": "Sevault Canyon Chansey House - Item",
+    "name": "Sevault Canyon SSJ VEGETO House - Item",
     "tags": ["Overworld Items", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -1276,97 +1276,97 @@
     "include": []
   },
   "ITEM_SILPH_CO_3F_HYPER_POTION": {
-    "name": "Silph Co. 3F - West Room Item",
+    "name": "Capsule Corp. 3F - West Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_4F_ESCAPE_ROPE": {
-    "name": "Silph Co. 4F - West Room Item (Right)",
+    "name": "Capsule Corp. 4F - West Room Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_4F_FULL_HEAL": {
-    "name": "Silph Co. 4F - West Room Item (Left)",
+    "name": "Capsule Corp. 4F - West Room Item (Left)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_4F_MAX_REVIVE": {
-    "name": "Silph Co. 4F - West Room Item (Middle)",
+    "name": "Capsule Corp. 4F - West Room Item (Middle)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_4F_TM41": {
-    "name": "Silph Co. 4F - Southeast Room Item",
+    "name": "Capsule Corp. 4F - Southeast Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_5F_PROTEIN": {
-    "name": "Silph Co. 5F - Northwest Room Item",
+    "name": "Capsule Corp. 5F - Northwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_5F_TM01": {
-    "name": "Silph Co. 5F - Southwest Room Item",
+    "name": "Capsule Corp. 5F - Southwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_6F_HP_UP": {
-    "name": "Silph Co. 6F - Southwest Room Item (Top)",
+    "name": "Capsule Corp. 6F - Southwest Room Item (Top)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_6F_X_SPECIAL": {
-    "name": "Silph Co. 6F - Southwest Room Item (Bottom)",
+    "name": "Capsule Corp. 6F - Southwest Room Item (Bottom)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_7F_CALCIUM": {
-    "name": "Silph Co. 7F - Southwest Room Item",
+    "name": "Capsule Corp. 7F - Southwest Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_7F_TM08": {
-    "name": "Silph Co. 7F - East Room Item",
+    "name": "Capsule Corp. 7F - East Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_8F_IRON": {
-    "name": "Silph Co. 8F - East Room Item",
+    "name": "Capsule Corp. 8F - East Room Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_10F_CARBOS": {
-    "name": "Silph Co. 10F - Southwest Room Item (Right)",
+    "name": "Capsule Corp. 10F - Southwest Room Item (Right)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_10F_RARE_CANDY": {
-    "name": "Silph Co. 10F - Southwest Room Item (Bottom)",
+    "name": "Capsule Corp. 10F - Southwest Room Item (Bottom)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_10F_ULTRA_BALL": {
-    "name": "Silph Co. 10F - Southwest Room Item (Left)",
+    "name": "Capsule Corp. 10F - Southwest Room Item (Left)",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_SILPH_CO_11F_ZINC": {
-    "name": "Silph Co. 11F - East Hallway Item",
+    "name": "Capsule Corp. 11F - East Hallway Item",
     "tags": ["Overworld Items", "Kanto", "Silph Co."],
     "category": "OVERWORLD_ITEM",
     "include": []
@@ -1528,122 +1528,122 @@
     "include": []
   },
   "ITEM_VIRIDIAN_CITY_POTION": {
-      "name": "Viridian City - Item Near Cuttable Tree",
+      "name": "Aru Village - Item Near Cuttable Tree",
     "tags": ["Overworld Items", "Kanto", "Viridian City"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_VIRIDIAN_FOREST_ANTIDOTE": {
-    "name": "Viridian Forest - Northeast Item",
+    "name": "North Forest - Northeast Item",
     "tags": ["Overworld Items", "Kanto", "Viridian Forest"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_VIRIDIAN_FOREST_POKE_BALL": {
-    "name": "Viridian Forest - West Item",
+    "name": "North Forest - West Item",
     "tags": ["Overworld Items", "Kanto", "Viridian Forest"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_VIRIDIAN_FOREST_POTION": {
-    "name": "Viridian Forest - Center Item",
+    "name": "North Forest - Center Item",
     "tags": ["Overworld Items", "Kanto", "Viridian Forest"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
   "ITEM_VIRIDIAN_FOREST_POTION_2": {
-    "name": "Viridian Forest - Southeast Item",
+    "name": "North Forest - Southeast Item",
     "tags": ["Overworld Items", "Kanto", "Viridian Forest"],
     "category": "OVERWORLD_ITEM",
     "include": []
   },
 
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS": {
-    "name": "Celadon Game Corner - Northwest Hidden Item",
+    "name": "West City Game Corner - Northwest Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_2": {
-    "name": "Celadon Game Corner - West Hidden Item",
+    "name": "West City Game Corner - West Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_3": {
-    "name": "Celadon Game Corner - Southwest Hidden Item",
+    "name": "West City Game Corner - Southwest Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_4": {
-    "name": "Celadon Game Corner - South Hidden Item (Left)",
+    "name": "West City Game Corner - South Hidden Item (Left)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_5": {
-    "name": "Celadon Game Corner - Center Hidden Item",
+    "name": "West City Game Corner - Center Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_6": {
-    "name": "Celadon Game Corner - North Hidden Item (Left)",
+    "name": "West City Game Corner - North Hidden Item (Left)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_7": {
-    "name": "Celadon Game Corner - North Hidden Item (Right)",
+    "name": "West City Game Corner - North Hidden Item (Right)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_8": {
-    "name": "Celadon Game Corner - Northeast Hidden Item",
+    "name": "West City Game Corner - Northeast Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_9": {
-    "name": "Celadon Game Corner - East Hidden Item (Left)",
+    "name": "West City Game Corner - East Hidden Item (Left)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_10": {
-    "name": "Celadon Game Corner - East Hidden Item (Right)",
+    "name": "West City Game Corner - East Hidden Item (Right)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_11": {
-    "name": "Celadon Game Corner - Southeast Hidden Item",
+    "name": "West City Game Corner - Southeast Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_GAME_CORNER_COINS_12": {
-    "name": "Celadon Game Corner - South Hidden Item (Right)",
+    "name": "West City Game Corner - South Hidden Item (Right)",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CELADON_CITY_PP_UP": {
-    "name": "Celadon City - Hidden Item Near Cuttable Tree",
+    "name": "West City - Hidden Item Near Cuttable Tree",
     "tags": ["Hidden Items", "Kanto", "Celadon City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CERULEAN_CAVE_1F_ULTRA_BALL": {
-    "name": "Cerulean Cave 1F - West Plateau Hidden Item",
+    "name": "Imperial Cave 1F - West Plateau Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Cerulean Cave"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_CERULEAN_CITY_RARE_CANDY": {
-    "name": "Cerulean City - Hidden Item Behind Badge Guy's House",
+    "name": "Namek Town - Hidden Item Behind Badge Guy's House",
     "tags": ["Hidden Items", "Kanto", "Cerulean City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -1697,13 +1697,13 @@
     "include": ["Recurring Hidden Items"]
   },
   "HIDDEN_ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_NEST_BALL": {
-    "name": "Rocket Warehouse - Northeast Room Box Hidden Item",
+    "name": "Pilaf Warehouse - Northeast Room Box Hidden Item",
     "tags": ["Hidden Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_FIVE_ISLAND_ROCKET_WAREHOUSE_NET_BALL": {
-    "name": "Rocket Warehouse - Maze Center Box Hidden Item",
+    "name": "Pilaf Warehouse - Maze Center Box Hidden Item",
     "tags": ["Hidden Items", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -1721,7 +1721,7 @@
     "include": ["Recurring Hidden Items"]
   },
   "HIDDEN_ITEM_FUCHSIA_CITY_MAX_REVIVE": {
-    "name": "Fuchsia City - Hidden Item Behind Fishing Guru's House",
+    "name": "Ginger Town - Hidden Item Behind Fishing Guru's House",
     "tags": ["Hidden Items", "Kanto", "Fuchsia City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -1841,73 +1841,73 @@
     "include": ["Recurring Hidden Items"]
   },
   "HIDDEN_ITEM_PEWTER_CITY_POKE_BALL": {
-    "name": "Pewter City - Northwest Hidden Item",
+    "name": "Saiyan Realm - Northwest Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Pewter City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POKEMON_MANSION_1F_MOON_STONE": {
-    "name": "Pokemon Mansion 1F - West Rubble Hidden Item",
+    "name": "Enigma Mansion 1F - West Rubble Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Pokemon Mansion"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POKEMON_MANSION_3F_RARE_CANDY": {
-    "name": "Pokemon Mansion 3F - East Hallway Hidden Item",
+    "name": "Enigma Mansion 3F - East Hallway Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Pokemon Mansion"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POKEMON_MANSION_B1F_ELIXIR": {
-    "name": "Pokemon Mansion B1F - Northeast Room Hidden Item",
+    "name": "Enigma Mansion B1F - Northeast Room Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Pokemon Mansion"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POKEMON_TOWER_5F_BIG_MUSHROOM": {
-    "name": "Pokemon Tower 5F - Northwest Hidden Item",
+    "name": "God's Tower 5F - Northwest Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Pokemon Tower"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POKEMON_TOWER_7F_SOOTHE_BELL": {
-    "name": "Pokemon Tower 7F - Hidden Item Under Mr. Fuji",
+    "name": "God's Tower 7F - Hidden Item Under Kami",
     "tags": ["Hidden Items", "Kanto", "Pokemon Tower"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POWER_PLANT_MAX_ELIXIR": {
-    "name": "Power Plant - Center Machine Room Hidden Item",
+    "name": "Raichi's Labo - Center Machine Room Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Power Plant"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_POWER_PLANT_THUNDER_STONE": {
-    "name": "Power Plant - Hidden Item Near Zapdos",
+    "name": "Raichi's Labo - Hidden Item Near BUUTENKS",
     "tags": ["Hidden Items", "Kanto", "Power Plant"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROCKET_HIDEOUT_B1F_PP_UP": {
-    "name": "Rocket Hideout B1F - Southeast Plant Hidden Item",
+    "name": "Pilaf Hideout B1F - Southeast Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Rocket Hideout"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROCKET_HIDEOUT_B3F_NUGGET": {
-    "name": "Rocket Hideout B3F - Northwest Hidden Item",
+    "name": "Pilaf Hideout B3F - Northwest Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Rocket Hideout"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROCKET_HIDEOUT_B4F_NEST_BALL": {
-    "name": "Rocket Hideout B4F - Giovanni's Room Hidden Item Between East Plants",
+    "name": "Pilaf Hideout B4F - Pilaf's Room Hidden Item Between East Plants",
     "tags": ["Hidden Items", "Kanto", "Rocket Hideout"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROCKET_HIDEOUT_B4F_NET_BALL": {
-    "name": "Rocket Hideout B4F - Giovanni's Room Hidden Item Between West Plants",
+    "name": "Pilaf Hideout B4F - Pilaf's Room Hidden Item Between West Plants",
     "tags": ["Hidden Items", "Kanto", "Rocket Hideout"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -1997,7 +1997,7 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROUTE10_MAX_ETHER": {
-    "name": "Route 10 - Hidden Item Near Power Plant Entrance",
+    "name": "Route 10 - Hidden Item Near Raichi's Labo Entrance",
     "tags": ["Hidden Items", "Kanto", "Route 10"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2033,7 +2033,7 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROUTE12_LEFTOVERS": {
-    "name": "Route 12 - Hidden Item Under Snorlax",
+    "name": "Route 12 - Hidden Item Under ZAMASU",
     "tags": ["Hidden Items", "Kanto", "Route 12"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2063,7 +2063,7 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_ROUTE16_LEFTOVERS": {
-    "name": "Route 16 - Hidden Item Under Snorlax",
+    "name": "Route 16 - Hidden Item Under ZAMASU",
     "tags": ["Hidden Items", "Kanto", "Route 16"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2189,13 +2189,13 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SAFARI_ZONE_CENTER_LEAF_STONE": {
-    "name": "Safari Zone Center Area - Island Hidden Item",
+    "name": "Babidi Zone Center Area - Island Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Safari Zone"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SAFARI_ZONE_WEST_REVIVE": {
-    "name": "Safari Zone West Area - Hidden Item Near Secret House",
+    "name": "Babidi Zone West Area - Hidden Item Near Secret House",
     "tags": ["Hidden Items", "Kanto", "Safari Zone"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2219,7 +2219,7 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SEVEN_ISLAND_SEVAULT_CANYON_CHERI_BERRY": {
-    "name": "Sevault Canyon - Hidden Item Near Chansey House",
+    "name": "Sevault Canyon - Hidden Item Near SSJ VEGETO House",
     "tags": ["Hidden Items", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2273,73 +2273,73 @@
     "include": ["Recurring Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_2F_ULTRA_BALL": {
-    "name": "Silph Co. 2F - Southwest Room Plant Hidden Item",
+    "name": "Capsule Corp. 2F - Southwest Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_3F_PROTEIN": {
-    "name": "Silph Co. 3F - Southeast Plant Hidden Item",
+    "name": "Capsule Corp. 3F - Southeast Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_4F_IRON": {
-    "name": "Silph Co. 4F - Southeast Room Plant Hidden Item",
+    "name": "Capsule Corp. 4F - Southeast Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_5F_ELIXIR": {
-    "name": "Silph Co. 5F - Center Room Southwest Plant Hidden Item",
+    "name": "Capsule Corp. 5F - Center Room Southwest Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_5F_PP_UP": {
-    "name": "Silph Co. 5F - Center Room Northeast Plant Hidden Item",
+    "name": "Capsule Corp. 5F - Center Room Northeast Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_6F_CARBOS": {
-    "name": "Silph Co. 6F - Northwest Room Plant Hidden Item",
+    "name": "Capsule Corp. 6F - Northwest Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_7F_ZINC": {
-    "name": "Silph Co. 7F - East Room Plant Hidden Item",
+    "name": "Capsule Corp. 7F - East Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_8F_NUGGET": {
-    "name": "Silph Co. 8F - East Room Plant Hidden Item",
+    "name": "Capsule Corp. 8F - East Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_9F_CALCIUM": {
-    "name": "Silph Co. 9F - Southwest Room Plant Hidden Item",
+    "name": "Capsule Corp. 9F - Southwest Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_9F_MAX_POTION": {
-    "name": "Silph Co. 9F - Southwest Room Hidden Item Near Boxes",
+    "name": "Capsule Corp. 9F - Southwest Room Hidden Item Near Boxes",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_10F_HP_UP": {
-    "name": "Silph Co. 10F - East Room Plant Hidden Item",
+    "name": "Capsule Corp. 10F - East Room Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_SILPH_CO_11F_REVIVE": {
-    "name": "Silph Co. 11F - South Hallway Plant Hidden Item",
+    "name": "Capsule Corp. 11F - South Hallway Plant Hidden Item",
     "tags": ["Hidden Items", "Kanto", "Silph Co."],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2621,7 +2621,7 @@
     "include": ["Recurring Hidden Items"]
   },
   "HIDDEN_ITEM_VERMILION_CITY_MAX_ETHER": {
-    "name": "Vermilion City - Hidden Item Near Pokemon Center",
+    "name": "Red Ribbon Base - Hidden Item Near Pokemon Center",
     "tags": ["Hidden Items", "Kanto", "Vermilion City"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2639,19 +2639,19 @@
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_VIRIDIAN_CITY_GYM_MACHO_BRACE": {
-    "name": "Viridian Gym - Hidden Item Under Giovanni",
+    "name": "Aru Village Gym - Hidden Item Under Pilaf",
     "tags": ["Hidden Items", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_VIRIDIAN_FOREST_ANTIDOTE": {
-    "name": "Viridian Forest - Hidden Item Near South Entrance",
+    "name": "North Forest - Hidden Item Near South Entrance",
     "tags": ["Hidden Items", "Kanto", "Viridian Forest"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
   },
   "HIDDEN_ITEM_VIRIDIAN_FOREST_POTION": {
-    "name": "Viridian Forest - Hidden Item Near North Entrance",
+    "name": "North Forest - Hidden Item Near North Entrance",
     "tags": ["Hidden Items", "Kanto", "Viridian Forest"],
     "category": "HIDDEN_ITEM",
     "include": ["Hidden Items"]
@@ -2665,25 +2665,25 @@
   },
 
   "NPC_GIFT_GOT_10_COINS_FROM_GAMBLER": {
-    "name": "Celadon Game Corner - Fisherman Gift",
+    "name": "West City Game Corner - Fisherman Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_20_COINS_FROM_GAMBLER": {
-    "name": "Celadon Game Corner - Scientist Gift",
+    "name": "West City Game Corner - Scientist Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_20_COINS_FROM_GAMBLER_2": {
-    "name": "Celadon Game Corner - Gentleman Gift",
+    "name": "West City Game Corner - Gentleman Gift",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_AMULET_COIN_FROM_OAKS_AIDE": {
-    "name": "Route 16 Gate 2F - Oak's Aide Gift (Pokedex Progress)",
+    "name": "Route 16 Gate 2F - Brief's Aide Gift (Pokedex Progress)",
     "tags": ["NPC Gifts", "Pokedex Progress", "Kanto", "Route 16"],
     "category": "NPC_GIFT",
     "include": []
@@ -2701,25 +2701,25 @@
     "include": []
   },
   "NPC_GIFT_GOT_EVERSTONE_FROM_OAKS_AIDE": {
-    "name": "Route 10 Pokemon Center 1F - Oak's Aide Gift (Pokedex Progress)",
+    "name": "Route 10 Pokemon Center 1F - Brief's Aide Gift (Pokedex Progress)",
     "tags": ["NPC Gifts", "Pokedex Progress", "Kanto", "Route 10"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_EXP_SHARE_FROM_OAKS_AIDE": {
-    "name": "Route 15 Gate 2F - Oak's Aide Gift (Pokedex Progress)",
+    "name": "Route 15 Gate 2F - Brief's Aide Gift (Pokedex Progress)",
     "tags": ["NPC Gifts", "Pokedex Progress", "Kanto", "Route 15"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_POKEDEX": {
-    "name": "Professor Oak's Lab - Oak Gift 1 (Deliver Parcel)",
+    "name": "Dr. Brief's Lab - Brief Gift 1 (Deliver Parcel)",
     "tags": ["NPC Gifts", "Kanto", "Pallet Town"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_FIRST_POKEBALLS": {
-    "name": "Professor Oak's Lab - Oak Gift 2 (Deliver Parcel)",
+    "name": "Dr. Brief's Lab - Brief Gift 2 (Deliver Parcel)",
     "tags": ["NPC Gifts", "Kanto", "Pallet Town"],
     "category": "NPC_GIFT",
     "include": []
@@ -2731,7 +2731,7 @@
     "include": []
   },
   "NPC_GIFT_GOT_LINK_CABLE": {
-    "name": "Silph Co. 7F - Rival Gift",
+    "name": "Capsule Corp. 7F - Rival Gift",
     "tags": ["NPC Gifts", "Kanto", "Silph Co."],
     "category": "NPC_GIFT",
     "include": []
@@ -2743,7 +2743,7 @@
     "include": ["Pokemon Requests"]
   },
   "NPC_GIFT_GOT_MASTER_BALL_FROM_SILPH": {
-    "name": "Silph Co. 11F - President Gift",
+    "name": "Capsule Corp. 11F - President Gift",
     "tags": ["NPC Gifts", "Kanto", "Silph Co."],
     "category": "NPC_GIFT",
     "include": []
@@ -2761,7 +2761,7 @@
     "include": ["Pokemon Requests"]
   },
   "NPC_GIFT_GOT_NET_BALL_FROM_ROUTE12_FISHING_HOUSE": {
-    "name": "Route 12 Fishing House - Fishing Guru Gift (Show Magikarp)",
+    "name": "Route 12 Fishing House - Fishing Guru Gift (Show SANSHENRON)",
     "tags": ["NPC Gifts", "Kanto", "Route 12"],
     "category": "NPC_GIFT",
     "include": ["Pokemon Requests"]
@@ -2779,7 +2779,7 @@
     "include": []
   },
   "NPC_GIFT_GOT_POKEBALLS_FROM_OAK_AFTER_22_RIVAL": {
-    "name":"Professor Oak's Lab - Oak Gift (Post Route 22 Rival)",
+    "name":"Dr. Brief's Lab - Brief Gift (Post Route 22 Rival)",
     "tags": ["NPC Gifts", "Kanto", "Pallet Town"],
     "category": "NPC_GIFT",
     "include": []
@@ -2791,43 +2791,43 @@
     "include": []
   },
   "NPC_GIFT_GOT_TM03_FROM_MISTY": {
-    "name": "Cerulean Gym - Misty TM",
+    "name": "Namek Town Gym - Muri TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM04_FROM_SABRINA": {
-    "name": "Saffron Gym - Sabrina TM",
+    "name": "Satan City Gym - Satan TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM06_FROM_KOGA": {
-    "name": "Fuchsia Gym - Koga TM",
+    "name": "Ginger Town Gym - Babidi TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM16_FROM_THIRSTY_GIRL": {
-    "name": "Celadon Department Store Roof - Thirsty Girl Gift (Give Fresh Water)",
+    "name": "Z-Store Roof - Thirsty Girl Gift (Give Fresh Water)",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM19_FROM_ERIKA": {
-    "name": "Celadon Gym - Erika TM",
+    "name": "West City Gym - Bulma TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM20_FROM_THIRSTY_GIRL": {
-    "name": "Celadon Department Store Roof - Thirsty Girl Gift (Give Soda Pop)",
+    "name": "Z-Store Roof - Thirsty Girl Gift (Give Soda Pop)",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM26_FROM_GIOVANNI": {
-    "name": "Viridian Gym - Giovanni TM",
+    "name": "Aru Village Gym - Pilaf TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "NPC_GIFT",
     "include": []
@@ -2839,7 +2839,7 @@
     "include": []
   },
   "NPC_GIFT_GOT_TM28_FROM_ROCKET": {
-    "name": "Cerulean City - Recover Stolen TM",
+    "name": "Namek Town - Recover Stolen TM",
     "tags": ["NPC Gifts", "Kanto", "Cerulean City"],
     "category": "NPC_GIFT",
     "include": []
@@ -2851,25 +2851,25 @@
     "include": []
   },
   "NPC_GIFT_GOT_TM33_FROM_THIRSTY_GIRL": {
-    "name": "Celadon Department Store Roof - Thirsty Girl Gift (Give Lemonade)",
+    "name": "Z-Store Roof - Thirsty Girl Gift (Give Lemonade)",
     "tags": ["NPC Gifts", "Kanto", "Celadon City"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM34_FROM_SURGE": {
-    "name": "Vermilion Gym - Lt. Surge TM",
+    "name": "Red Ribbon Base Gym - Gnr. Red TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM38_FROM_BLAINE": {
-    "name": "Cinnabar Gym - Blaine TM",
+    "name": "Roshi's Island Gym - Roshi TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_GOT_TM39_FROM_BROCK": {
-    "name": "Pewter Gym - Brock TM",
+    "name": "Saiyan Realm Gym - Yajirobe TM",
     "tags": ["NPC Gifts", "Gym TMs", "Kanto", "Pewter City", "Pewter Gym"],
     "category": "NPC_GIFT",
     "include": []
@@ -2881,13 +2881,13 @@
     "include": []
   },
   "NPC_GIFT_RECEIVED_MYSTIC_TICKET": {
-    "name": "Hall of Fame - Oak Gift 1",
+    "name": "Hall of Fame - Brief Gift 1",
     "tags": ["NPC Gifts", "Kanto", "Pokemon League"],
     "category": "NPC_GIFT",
     "include": []
   },
   "NPC_GIFT_RECEIVED_AURORA_TICKET": {
-    "name": "Hall of Fame - Oak Gift 2",
+    "name": "Hall of Fame - Brief Gift 2",
     "tags": ["NPC Gifts", "Kanto", "Pokemon League"],
     "category": "NPC_GIFT",
     "include": []
@@ -2900,421 +2900,421 @@
   },
 
   "SHOP_CELADON_CITY_DEPT_BATTLE_1": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 1",
+    "name": "Z-Store 5F - Battle Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_2": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 2",
+    "name": "Z-Store 5F - Battle Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_3": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 3",
+    "name": "Z-Store 5F - Battle Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_4": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 4",
+    "name": "Z-Store 5F - Battle Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_5": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 5",
+    "name": "Z-Store 5F - Battle Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_6": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 6",
+    "name": "Z-Store 5F - Battle Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_BATTLE_7": {
-    "name": "Celadon Department Store 5F - Battle Shop Item 7",
+    "name": "Z-Store 5F - Battle Shop Item 7",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_1": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 1",
+    "name": "Z-Store 4F - Evo Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_2": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 2",
+    "name": "Z-Store 4F - Evo Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_3": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 3",
+    "name": "Z-Store 4F - Evo Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_4": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 4",
+    "name": "Z-Store 4F - Evo Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_5": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 5",
+    "name": "Z-Store 4F - Evo Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_EVO_6": {
-    "name": "Celadon Department Store 4F - Evo Shop Item 6",
+    "name": "Z-Store 4F - Evo Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_1": {
-    "name": "Celadon Department Store 4F - Held Shop Item 1",
+    "name": "Z-Store 4F - Held Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_2": {
-    "name": "Celadon Department Store 4F - Held Shop Item 2",
+    "name": "Z-Store 4F - Held Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_3": {
-    "name": "Celadon Department Store 4F - Held Shop Item 3",
+    "name": "Z-Store 4F - Held Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_4": {
-    "name": "Celadon Department Store 4F - Held Shop Item 4",
+    "name": "Z-Store 4F - Held Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_5": {
-    "name": "Celadon Department Store 4F - Held Shop Item 5",
+    "name": "Z-Store 4F - Held Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_6": {
-    "name": "Celadon Department Store 4F - Held Shop Item 6",
+    "name": "Z-Store 4F - Held Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_HELD_7": {
-    "name": "Celadon Department Store 4F - Held Shop Item 7",
+    "name": "Z-Store 4F - Held Shop Item 7",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_1": {
-    "name": "Celadon Department Store 2F - Shop Item 1",
+    "name": "Z-Store 2F - Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_2": {
-    "name": "Celadon Department Store 2F - Shop Item 2",
+    "name": "Z-Store 2F - Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_3": {
-    "name": "Celadon Department Store 2F - Shop Item 3",
+    "name": "Z-Store 2F - Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_4": {
-    "name": "Celadon Department Store 2F - Shop Item 4",
+    "name": "Z-Store 2F - Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_5": {
-    "name": "Celadon Department Store 2F - Shop Item 5",
+    "name": "Z-Store 2F - Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_6": {
-    "name": "Celadon Department Store 2F - Shop Item 6",
+    "name": "Z-Store 2F - Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_7": {
-    "name": "Celadon Department Store 2F - Shop Item 7",
+    "name": "Z-Store 2F - Shop Item 7",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_8": {
-    "name": "Celadon Department Store 2F - Shop Item 8",
+    "name": "Z-Store 2F - Shop Item 8",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_ITEM_9": {
-    "name": "Celadon Department Store 2F - Shop Item 9",
+    "name": "Z-Store 2F - Shop Item 9",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_1": {
-    "name": "Celadon Department Store 2F - TM Shop Item 1",
+    "name": "Z-Store 2F - TM Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_2": {
-    "name": "Celadon Department Store 2F - TM Shop Item 2",
+    "name": "Z-Store 2F - TM Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_3": {
-    "name": "Celadon Department Store 2F - TM Shop Item 3",
+    "name": "Z-Store 2F - TM Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_4": {
-    "name": "Celadon Department Store 2F - TM Shop Item 4",
+    "name": "Z-Store 2F - TM Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_5": {
-    "name": "Celadon Department Store 2F - TM Shop Item 5",
+    "name": "Z-Store 2F - TM Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_TM_6": {
-    "name": "Celadon Department Store 2F - TM Shop Item 6",
+    "name": "Z-Store 2F - TM Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VENDING_MACHINES_1": {
-    "name": "Celadon Department Store Roof - Vending Machine Item 1",
+    "name": "Z-Store Roof - Vending Machine Item 1",
     "tags": ["Vending Machines", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VENDING_MACHINES_2": {
-    "name": "Celadon Department Store Roof - Vending Machine Item 2",
+    "name": "Z-Store Roof - Vending Machine Item 2",
     "tags": ["Vending Machines", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VENDING_MACHINES_3": {
-    "name": "Celadon Department Store Roof - Vending Machine Item 3",
+    "name": "Z-Store Roof - Vending Machine Item 3",
     "tags": ["Vending Machines", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_1": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 1",
+    "name": "Z-Store 5F - Vitamin Shop Item 1",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_2": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 2",
+    "name": "Z-Store 5F - Vitamin Shop Item 2",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_3": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 3",
+    "name": "Z-Store 5F - Vitamin Shop Item 3",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_4": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 4",
+    "name": "Z-Store 5F - Vitamin Shop Item 4",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_5": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 5",
+    "name": "Z-Store 5F - Vitamin Shop Item 5",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_DEPT_VITAMIN_6": {
-    "name": "Celadon Department Store 5F - Vitamin Shop Item 6",
+    "name": "Z-Store 5F - Vitamin Shop Item 6",
     "tags": ["Shops", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_PRIZE_1": {
-    "name": "Celadon Game Corner Prize Room - Prize Item 1",
+    "name": "West City Game Corner Prize Room - Prize Item 1",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_PRIZE_2": {
-    "name": "Celadon Game Corner Prize Room - Prize Item 2",
+    "name": "West City Game Corner Prize Room - Prize Item 2",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_PRIZE_3": {
-    "name": "Celadon Game Corner Prize Room - Prize Item 3",
+    "name": "West City Game Corner Prize Room - Prize Item 3",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_PRIZE_4": {
-    "name": "Celadon Game Corner Prize Room - Prize Item 4",
+    "name": "West City Game Corner Prize Room - Prize Item 4",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_PRIZE_5": {
-    "name": "Celadon Game Corner Prize Room - Prize Item 5",
+    "name": "West City Game Corner Prize Room - Prize Item 5",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_TM_PRIZE_1": {
-    "name": "Celadon Game Corner Prize Room - Prize TM 1",
+    "name": "West City Game Corner Prize Room - Prize TM 1",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_TM_PRIZE_2": {
-    "name": "Celadon Game Corner Prize Room - Prize TM 2",
+    "name": "West City Game Corner Prize Room - Prize TM 2",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_TM_PRIZE_3": {
-    "name": "Celadon Game Corner Prize Room - Prize TM 3",
+    "name": "West City Game Corner Prize Room - Prize TM 3",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_TM_PRIZE_4": {
-    "name": "Celadon Game Corner Prize Room - Prize TM 4",
+    "name": "West City Game Corner Prize Room - Prize TM 4",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CELADON_CITY_GAME_CORNER_TM_PRIZE_5": {
-    "name": "Celadon Game Corner Prize Room - Prize TM 5",
+    "name": "West City Game Corner Prize Room - Prize TM 5",
     "tags": ["Prizes", "Kanto", "Celadon City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_1": {
-    "name": "Cerulean Poke Mart - Shop Item 1",
+    "name": "Namek Town Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_2": {
-    "name": "Cerulean Poke Mart - Shop Item 2",
+    "name": "Namek Town Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_3": {
-    "name": "Cerulean Poke Mart - Shop Item 3",
+    "name": "Namek Town Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_4": {
-    "name": "Cerulean Poke Mart - Shop Item 4",
+    "name": "Namek Town Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_5": {
-    "name": "Cerulean Poke Mart - Shop Item 5",
+    "name": "Namek Town Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_6": {
-    "name": "Cerulean Poke Mart - Shop Item 6",
+    "name": "Namek Town Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_7": {
-    "name": "Cerulean Poke Mart - Shop Item 7",
+    "name": "Namek Town Poke Mart - Shop Item 7",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_8": {
-    "name": "Cerulean Poke Mart - Shop Item 8",
+    "name": "Namek Town Poke Mart - Shop Item 8",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CERULEAN_CITY_9": {
-    "name": "Cerulean Poke Mart - Shop Item 9",
+    "name": "Namek Town Poke Mart - Shop Item 9",
     "tags": ["Shops", "Kanto", "Cerulean City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_1": {
-    "name": "Cinnabar Poke Mart - Shop Item 1",
+    "name": "Roshi's Island Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_2": {
-    "name": "Cinnabar Poke Mart - Shop Item 2",
+    "name": "Roshi's Island Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_3": {
-    "name": "Cinnabar Poke Mart - Shop Item 3",
+    "name": "Roshi's Island Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_4": {
-    "name": "Cinnabar Poke Mart - Shop Item 4",
+    "name": "Roshi's Island Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_5": {
-    "name": "Cinnabar Poke Mart - Shop Item 5",
+    "name": "Roshi's Island Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_6": {
-    "name": "Cinnabar Poke Mart - Shop Item 6",
+    "name": "Roshi's Island Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_CINNABAR_ISLAND_7": {
-    "name": "Cinnabar Poke Mart - Shop Item 7",
+    "name": "Roshi's Island Poke Mart - Shop Item 7",
     "tags": ["Shops", "Kanto", "Cinnabar Island"],
     "category": "SHOP_ITEM",
     "include": []
@@ -3368,37 +3368,37 @@
     "include": []
   },
   "SHOP_FUCHSIA_CITY_1": {
-    "name": "Fuchsia Poke Mart - Shop Item 1",
+    "name": "Ginger Town Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_FUCHSIA_CITY_2": {
-    "name": "Fuchsia Poke Mart - Shop Item 2",
+    "name": "Ginger Town Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_FUCHSIA_CITY_3": {
-    "name": "Fuchsia Poke Mart - Shop Item 3",
+    "name": "Ginger Town Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_FUCHSIA_CITY_4": {
-    "name": "Fuchsia Poke Mart - Shop Item 4",
+    "name": "Ginger Town Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_FUCHSIA_CITY_5": {
-    "name": "Fuchsia Poke Mart - Shop Item 5",
+    "name": "Ginger Town Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_FUCHSIA_CITY_6": {
-    "name": "Fuchsia Poke Mart - Shop Item 6",
+    "name": "Ginger Town Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Fuchsia City"],
     "category": "SHOP_ITEM",
     "include": []
@@ -3446,139 +3446,139 @@
     "include": []
   },
   "SHOP_LAVENDER_TOWN_1": {
-    "name": "Lavender Poke Mart - Shop Item 1",
+    "name": "Makyo Town Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_2": {
-    "name": "Lavender Poke Mart - Shop Item 2",
+    "name": "Makyo Town Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_3": {
-    "name": "Lavender Poke Mart - Shop Item 3",
+    "name": "Makyo Town Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_4": {
-    "name": "Lavender Poke Mart - Shop Item 4",
+    "name": "Makyo Town Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_5": {
-    "name": "Lavender Poke Mart - Shop Item 5",
+    "name": "Makyo Town Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_6": {
-    "name": "Lavender Poke Mart - Shop Item 6",
+    "name": "Makyo Town Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_7": {
-    "name": "Lavender Poke Mart - Shop Item 7",
+    "name": "Makyo Town Poke Mart - Shop Item 7",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_8": {
-    "name": "Lavender Poke Mart - Shop Item 8",
+    "name": "Makyo Town Poke Mart - Shop Item 8",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_LAVENDER_TOWN_9": {
-    "name": "Lavender Poke Mart - Shop Item 9",
+    "name": "Makyo Town Poke Mart - Shop Item 9",
     "tags": ["Shops", "Kanto", "Lavender Town"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_1": {
-    "name": "Pewter Poke Mart - Shop Item 1",
+    "name": "Saiyan Realm Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_2": {
-    "name": "Pewter Poke Mart - Shop Item 2",
+    "name": "Saiyan Realm Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_3": {
-    "name": "Pewter Poke Mart - Shop Item 3",
+    "name": "Saiyan Realm Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_4": {
-    "name": "Pewter Poke Mart - Shop Item 4",
+    "name": "Saiyan Realm Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_5": {
-    "name": "Pewter Poke Mart - Shop Item 5",
+    "name": "Saiyan Realm Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_6": {
-    "name": "Pewter Poke Mart - Shop Item 6",
+    "name": "Saiyan Realm Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_7": {
-    "name": "Pewter Poke Mart - Shop Item 7",
+    "name": "Saiyan Realm Poke Mart - Shop Item 7",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_PEWTER_CITY_8": {
-    "name": "Pewter Poke Mart - Shop Item 8",
+    "name": "Saiyan Realm Poke Mart - Shop Item 8",
     "tags": ["Shops", "Kanto", "Pewter City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_1": {
-    "name": "Saffron Poke Mart - Shop Item 1",
+    "name": "Satan City Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_2": {
-    "name": "Saffron Poke Mart - Shop Item 2",
+    "name": "Satan City Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_3": {
-    "name": "Saffron Poke Mart - Shop Item 3",
+    "name": "Satan City Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_4": {
-    "name": "Saffron Poke Mart - Shop Item 4",
+    "name": "Satan City Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_5": {
-    "name": "Saffron Poke Mart - Shop Item 5",
+    "name": "Satan City Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_SAFFRON_CITY_6": {
-    "name": "Saffron Poke Mart - Shop Item 6",
+    "name": "Satan City Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Saffron City"],
     "category": "SHOP_ITEM",
     "include": []
@@ -3830,67 +3830,67 @@
     "include": []
   },
   "SHOP_VERMILION_CITY_1": {
-    "name": "Vermilion Poke Mart - Shop Item 1",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_2": {
-    "name": "Vermilion Poke Mart - Shop Item 2",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_3": {
-    "name": "Vermilion Poke Mart - Shop Item 3",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_4": {
-    "name": "Vermilion Poke Mart - Shop Item 4",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_5": {
-    "name": "Vermilion Poke Mart - Shop Item 5",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 5",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_6": {
-    "name": "Vermilion Poke Mart - Shop Item 6",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 6",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VERMILION_CITY_7": {
-    "name": "Vermilion Poke Mart - Shop Item 7",
+    "name": "Red Ribbon Base Poke Mart - Shop Item 7",
     "tags": ["Shops", "Kanto", "Vermilion City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VIRIDIAN_CITY_1": {
-    "name": "Viridian Poke Mart - Shop Item 1",
+    "name": "Aru Village Poke Mart - Shop Item 1",
     "tags": ["Shops", "Kanto", "Viridian City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VIRIDIAN_CITY_2": {
-    "name": "Viridian Poke Mart - Shop Item 2",
+    "name": "Aru Village Poke Mart - Shop Item 2",
     "tags": ["Shops", "Kanto", "Viridian City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VIRIDIAN_CITY_3": {
-    "name": "Viridian Poke Mart - Shop Item 3",
+    "name": "Aru Village Poke Mart - Shop Item 3",
     "tags": ["Shops", "Kanto", "Viridian City"],
     "category": "SHOP_ITEM",
     "include": []
   },
   "SHOP_VIRIDIAN_CITY_4": {
-    "name": "Viridian Poke Mart - Shop Item 4",
+    "name": "Aru Village Poke Mart - Shop Item 4",
     "tags": ["Shops", "Kanto", "Viridian City"],
     "category": "SHOP_ITEM",
     "include": []
@@ -3921,7 +3921,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BEAUTY_BRIDGET_REWARD": {
-    "name": "Celadon Gym - Beauty Bridget Reward",
+    "name": "West City Gym - Beauty Bridget Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -3945,7 +3945,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BEAUTY_LORI_REWARD": {
-    "name": "Celadon Gym - Beauty Lori Reward",
+    "name": "West City Gym - Beauty Lori Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -3969,7 +3969,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_BEAUTY_TAMIA_REWARD": {
-    "name": "Celadon Gym - Beauty Tamia Reward",
+    "name": "West City Gym - Beauty Tamia Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4119,43 +4119,43 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_BECK_REWARD": {
-    "name": "Route 14 - Bird Keeper Beck Reward",
+    "name": "Route 14 - Black Belt Beck Reward",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_BENNY_REWARD": {
-    "name": "Route 14 - Bird Keeper Benny Reward",
+    "name": "Route 14 - Youngster Benny Reward",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_BENNY_2_REWARD": {
-    "name": "Route 14 - Bird Keeper Benny Rematch Reward (4 Badges/Gyms)",
+    "name": "Route 14 - Youngster Benny Rematch Reward (4 Badges/Gyms)",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_BIRD_KEEPER_BENNY_3_REWARD": {
-    "name": "Route 14 - Bird Keeper Benny Rematch Reward (6 Badges/Gyms)",
+    "name": "Route 14 - Youngster Benny Rematch Reward (6 Badges/Gyms)",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_BIRD_KEEPER_CARTER_REWARD": {
-    "name": "Route 14 - Bird Keeper Carter Reward",
+    "name": "Route 14 - Picnicker Carter Reward",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_CHAZ_REWARD": {
-    "name": "Memorial Pillar - Bird Keeper Chaz Reward",
+    "name": "Memorial Pillar - Rocker Chaz Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Memorial Pillar"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_CHAZ_2_REWARD": {
-    "name": "Memorial Pillar - Bird Keeper Chaz Rematch Reward (8 Badges/Gyms)",
+    "name": "Memorial Pillar - Rocker Chaz Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Memorial Pillar"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
@@ -4179,7 +4179,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_BIRD_KEEPER_DONALD_REWARD": {
-    "name": "Route 14 - Bird Keeper Donald Reward",
+    "name": "Route 14 - Picnicker Donald Reward",
     "tags": ["Trainers", "Kanto", "Route 14"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4191,7 +4191,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_HAROLD_REWARD": {
-    "name": "Memorial Pillar - Bird Keeper Harold Reward",
+    "name": "Memorial Pillar - Rocker Harold Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Memorial Pillar"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4239,13 +4239,13 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_BIRD_KEEPER_MILO_REWARD": {
-    "name": "Memorial Pillar - Bird Keeper Milo Reward",
+    "name": "Memorial Pillar - Rocker Milo Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Memorial Pillar"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BIRD_KEEPER_MILO_2_REWARD": {
-    "name": "Memorial Pillar - Bird Keeper Milo Rematch Reward (8 Badges/Gyms)",
+    "name": "Memorial Pillar - Rocker Milo Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Memorial Pillar"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
@@ -4305,13 +4305,13 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_AARON_REWARD": {
-    "name": "Saffron Dojo - Black Belt Aaron Reward",
+    "name": "Satan City Dojo - Black Belt Aaron Reward",
     "tags": ["Trainers", "Kanto", "Saffron City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_ATSUSHI_REWARD": {
-    "name": "Viridian Gym - Black Belt Atsushi Reward",
+    "name": "Aru Village Gym - Black Belt Atsushi Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4323,13 +4323,13 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_HIDEKI_REWARD": {
-    "name": "Saffron Dojo - Black Belt Hideki Reward",
+    "name": "Satan City Dojo - Black Belt Hideki Reward",
     "tags": ["Trainers", "Kanto", "Saffron City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_HITOSHI_REWARD": {
-    "name": "Saffron Dojo - Black Belt Hitoshi Reward",
+    "name": "Satan City Dojo - Black Belt Hitoshi Reward",
     "tags": ["Trainers", "Kanto", "Saffron City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4353,19 +4353,19 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_BLACK_BELT_KIYO_REWARD": {
-    "name": "Viridian Gym - Black Belt Kiyo Reward",
+    "name": "Aru Village Gym - Black Belt Kiyo Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_KOICHI_REWARD": {
-    "name": "Saffron Dojo - Black Belt Koichi Reward",
+    "name": "Satan City Dojo - Black Belt Koichi Reward",
     "tags": ["Trainers", "Kanto", "Saffron City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BLACK_BELT_MIKE_REWARD": {
-    "name": "Saffron Dojo - Black Belt Mike Reward",
+    "name": "Satan City Dojo - Black Belt Mike Reward",
     "tags": ["Trainers", "Kanto", "Saffron City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4389,25 +4389,25 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_BLACK_BELT_TAKASHI_REWARD": {
-    "name": "Viridian Gym - Black Belt Takashi Reward",
+    "name": "Aru Village Gym - Black Belt Takashi Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BOSS_GIOVANNI_REWARD": {
-    "name": "Rocket Hideout B4F - Boss Giovanni Reward",
+    "name": "Pilaf Hideout B4F - Boss Pilaf Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BOSS_GIOVANNI_2_REWARD": {
-    "name": "Silph Co. 11F - Boss Giovanni Reward",
+    "name": "Capsule Corp. 11F - Boss Pilaf Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_ANTHONY_REWARD": {
-    "name": "Viridian Forest - Bug Catcher Anthony Reward",
+    "name": "North Forest - Bug Catcher Anthony Reward",
     "tags": ["Trainers", "Kanto", "Viridian Forest"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4425,7 +4425,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_CHARLIE_REWARD": {
-    "name": "Viridian Forest - Bug Catcher Charlie Reward",
+    "name": "North Forest - Bug Catcher Charlie Reward",
     "tags": ["Trainers", "Kanto", "Viridian Forest"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4461,7 +4461,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_DOUG_REWARD": {
-    "name": "Viridian Forest - Bug Catcher Doug Reward",
+    "name": "North Forest - Bug Catcher Doug Reward",
     "tags": ["Trainers", "Kanto", "Viridian Forest"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4503,13 +4503,13 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_KENT_REWARD": {
-    "name": "Mt. Moon 1F - Bug Catcher Kent Reward",
+    "name": "Mt. Moon 1F - Youngster Kent Reward",
     "tags": ["Trainers", "Kanto", "Mt. Moon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_RICK_REWARD": {
-    "name": "Viridian Forest - Bug Catcher Rick Reward",
+    "name": "North Forest - Bug Catcher Rick Reward",
     "tags": ["Trainers", "Kanto", "Viridian Forest"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4521,7 +4521,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BUG_CATCHER_SAMMY_REWARD": {
-    "name": "Viridian Forest - Bug Catcher Sammy Reward",
+    "name": "North Forest - Bug Catcher Sammy Reward",
     "tags": ["Trainers", "Kanto", "Viridian Forest"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4533,37 +4533,37 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_ARNIE_REWARD": {
-    "name": "Pokemon Mansion 2F - Burglar Arnie Reward",
+    "name": "Enigma Mansion 2F - Burglar Arnie Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_DUSTY_REWARD": {
-    "name": "Cinnabar Gym - Burglar Dusty Reward",
+    "name": "Roshi's Island Gym - Burglar Dusty Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_LEWIS_REWARD": {
-    "name": "Pokemon Mansion B1F - Burglar Lewis Reward",
+    "name": "Enigma Mansion B1F - Burglar Lewis Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_QUINN_REWARD": {
-    "name": "Cinnabar Gym - Burglar Quinn Reward",
+    "name": "Roshi's Island Gym - Burglar Quinn Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_RAMON_REWARD": {
-    "name": "Cinnabar Gym - Burglar Ramon Reward",
+    "name": "Roshi's Island Gym - Burglar Ramon Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_BURGLAR_SIMON_REWARD": {
-    "name": "Pokemon Mansion 3F - Burglar Simon Reward",
+    "name": "Enigma Mansion 3F - Burglar Simon Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4611,7 +4611,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_CAMPER_FLINT_REWARD": {
-    "name": "Route 25 - Camper Flint Reward",
+    "name": "Route 25 - Picnicker Flint Reward",
     "tags": ["Trainers", "Kanto", "Route 25"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4647,7 +4647,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_CAMPER_LIAM_REWARD": {
-    "name": "Pewter Gym - Camper Liam Reward",
+    "name": "Saiyan Realm Gym - Camper Liam Reward",
     "tags": ["Trainers", "Kanto", "Pewter City", "Pewter Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4701,97 +4701,97 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_AMANDA_REWARD": {
-    "name": "Saffron Gym - Channeler Amanda Reward",
+    "name": "Satan City Gym - Channeler Amanda Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_ANGELICA_REWARD": {
-    "name": "Pokemon Tower 6F - Channeler Angelica Reward",
+    "name": "God's Tower 6F - Channeler Angelica Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_CARLY_REWARD": {
-    "name": "Pokemon Tower 3F - Channeler Carly Reward",
+    "name": "God's Tower 3F - Channeler Carly Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_EMILIA_REWARD": {
-    "name": "Pokemon Tower 6F - Channeler Emilia Reward",
+    "name": "God's Tower 6F - Channeler Emilia Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_HOPE_REWARD": {
-    "name": "Pokemon Tower 3F - Channeler Hope Reward",
+    "name": "God's Tower 3F - Channeler Hope Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_JANAE_REWARD": {
-    "name": "Pokemon Tower 5F - Channeler Janae Reward",
+    "name": "God's Tower 5F - Channeler Janae Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_JENNIFER_REWARD": {
-    "name": "Pokemon Tower 6F - Channeler Jennifer Reward",
+    "name": "God's Tower 6F - Channeler Jennifer Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_JODY_REWARD": {
-    "name": "Pokemon Tower 4F - Channeler Jody Reward",
+    "name": "God's Tower 4F - Channeler Jody Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_KARINA_REWARD": {
-    "name": "Pokemon Tower 5F - Channeler Karina Reward",
+    "name": "God's Tower 5F - Channeler Karina Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_LAUREL_REWARD": {
-    "name": "Pokemon Tower 4F - Channeler Laurel Reward",
+    "name": "God's Tower 4F - Channeler Laurel Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_PATRICIA_REWARD": {
-    "name": "Pokemon Tower 3F - Channeler Patricia Reward",
+    "name": "God's Tower 3F - Channeler Patricia Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_PAULA_REWARD": {
-    "name": "Pokemon Tower 4F - Channeler Paula Reward",
+    "name": "God's Tower 4F - Channeler Paula Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_RUTH_REWARD": {
-    "name": "Pokemon Tower 5F - Channeler Ruth Reward",
+    "name": "God's Tower 5F - Channeler Ruth Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_STACY_REWARD": {
-    "name": "Saffron Gym - Channeler Stacy Reward",
+    "name": "Satan City Gym - Black Belt Kaneiro Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_TAMMY_REWARD": {
-    "name": "Pokemon Tower 5F - Channeler Tammy Reward",
+    "name": "God's Tower 5F - Channeler Tammy Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_CHANNELER_TASHA_REWARD": {
-    "name": "Saffron Gym - Channeler Tasha Reward",
+    "name": "Satan City Gym - Tamer Cameron Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4833,7 +4833,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_COOLTRAINER_MARY_REWARD": {
-    "name": "Celadon Gym - Cooltrainer Mary Reward",
+    "name": "West City Gym - Cooltrainer Mary Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -4863,19 +4863,19 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_COOLTRAINER_SAMUEL_REWARD": {
-    "name": "Viridian Gym - Cooltrainer Samuel Reward",
+    "name": "Aru Village Gym - Cooltrainer Samuel Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_COOLTRAINER_WARREN_REWARD": {
-    "name": "Viridian Gym - Cooltrainer Warren Reward",
+    "name": "Aru Village Gym - Cooltrainer Warren Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_COOLTRAINER_YUJI_REWARD": {
-    "name": "Viridian Gym - Cooltrainer Yuji Reward",
+    "name": "Aru Village Gym - Cooltrainer Yuji Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5067,55 +5067,55 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_AGATHA_REWARD": {
-    "name": "Agatha's Room - Elite Four Agatha Reward",
+    "name": "West Kai's Room - King Kai West Kai Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_AGATHA_2_REWARD": {
-    "name": "Agatha's Room - Elite Four Agatha Rematch Reward",
+    "name": "West Kai's Room - King Kai West Kai Rematch Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_BRUNO_REWARD": {
-    "name": "Bruno's Room - Elite Four Bruno Reward",
+    "name": "South Kai's Room - King Kai South Kai Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_BRUNO_2_REWARD": {
-    "name": "Bruno's Room - Elite Four Bruno Rematch Reward",
+    "name": "South Kai's Room - King Kai South Kai Rematch Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_LANCE_REWARD": {
-    "name": "Lance's Room - Elite Four Lance Reward",
+    "name": "North Kai's Room - King Kai North Kai Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_LANCE_2_REWARD": {
-    "name": "Lance's Room - Elite Four Lance Rematch Reward",
+    "name": "North Kai's Room - King Kai North Kai Rematch Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_LORELEI_REWARD": {
-    "name": "Lorelei's Room - Elite Four Lorelei Reward",
+    "name": "East Kai's Room - King Kai East Kai Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ELITE_FOUR_LORELEI_2_REWARD": {
-    "name": "Lorelei's Room - Elite Four Lorelei Rematch Reward",
+    "name": "East Kai's Room - King Kai East Kai Rematch Reward",
     "tags": ["Trainers", "Kanto", "Pokemon League"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_ENGINEER_BAILY_REWARD": {
-    "name": "Vermilion Gym - Engineer Baily Reward",
+    "name": "Red Ribbon Base Gym - Engineer Baily Reward",
     "tags": ["Trainers", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5307,7 +5307,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_GENTLEMAN_TUCKER_REWARD": {
-    "name": "Vermilion Gym - Gentleman Tucker Reward",
+    "name": "Red Ribbon Base Gym - Gentleman Tucker Reward",
     "tags": ["Trainers", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5439,7 +5439,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_JUGGLER_DALTON_REWARD": {
-    "name": "Silph Co. 5F - Juggler Dalton Reward",
+    "name": "Capsule Corp. 5F - Juggler Dalton Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5451,19 +5451,19 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_JUGGLER_GREGORY_REWARD": {
-    "name": "Victory Road 2F - Juggler Gregory Reward",
+    "name": "Victory Road 2F - Hiker Gregory Reward",
     "tags": ["Trainers", "Kanto", "Victory Road"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_JUGGLER_KAYDEN_REWARD": {
-    "name": "Fuchsia Gym - Juggler Kayden Reward",
+    "name": "Ginger Town Gym - Channeler Stacy Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_JUGGLER_KIRK_REWARD": {
-    "name": "Fuchsia Gym - Juggler Kirk Reward",
+    "name": "Ginger Town Gym - Juggler Shawn Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5481,7 +5481,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_JUGGLER_NATE_REWARD": {
-    "name": "Fuchsia Gym - Juggler Nate Reward",
+    "name": "Ginger Town Gym - Channeler Nate Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5493,7 +5493,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_JUGGLER_SHAWN_REWARD": {
-    "name": "Fuchsia Gym - Juggler Shawn Reward",
+    "name": "Ginger Town Gym - Rocker Kirk Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5595,13 +5595,13 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_LASS_KAY_REWARD": {
-    "name": "Celadon Gym - Lass Kay Reward",
+    "name": "West City Gym - Lass Kay Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LASS_LISA_REWARD": {
-    "name": "Celadon Gym - Lass Lisa Reward",
+    "name": "West City Gym - Lass Lisa Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5667,49 +5667,49 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_BLAINE_REWARD": {
-    "name": "Cinnabar Gym - Leader Blaine Reward",
+    "name": "Roshi's Island Gym - Leader Roshi Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_BROCK_REWARD": {
-    "name": "Pewter Gym - Leader Brock Reward",
+    "name": "Saiyan Realm Gym - Leader Yajirobe Reward",
     "tags": ["Trainers", "Kanto", "Pewter City", "Pewter Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_ERIKA_REWARD": {
-    "name": "Celadon Gym - Leader Erika Reward",
+    "name": "West City Gym - Leader Bulma Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_GIOVANNI_REWARD": {
-    "name": "Viridian Gym - Leader Giovanni Reward",
+    "name": "Aru Village Gym - Leader Pilaf Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_KOGA_REWARD": {
-    "name": "Fuchsia Gym - Leader Koga Reward",
+    "name": "Ginger Town Gym - Leader Babidi Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_LT_SURGE_REWARD": {
-    "name": "Vermilion Gym - Leader Lt. Surge Reward",
+    "name": "Red Ribbon Base Gym - Leader Gnr. Red Reward",
     "tags": ["Trainers", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_MISTY_REWARD": {
-    "name": "Cerulean Gym - Leader Misty Reward",
+    "name": "Namek Town Gym - Leader Muri Reward",
     "tags": ["Trainers", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_LEADER_SABRINA_REWARD": {
-    "name": "Saffron Gym - Leader Sabrina Reward",
+    "name": "Satan City Gym - Leader Satan Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5835,7 +5835,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_PICNICKER_DIANA_REWARD": {
-    "name": "Cerulean Gym - Picnicker Diana Reward",
+    "name": "Namek Town Gym - Picnicker Diana Reward",
     "tags": ["Trainers", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -5985,7 +5985,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_PICNICKER_TINA_REWARD": {
-    "name": "Celadon Gym - Picnicker Tina Reward",
+    "name": "West City Gym - Picnicker Tina Reward",
     "tags": ["Trainers", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6003,121 +6003,121 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_BREEDER_ALIZE_REWARD": {
-    "name": "Water Labyrinth - Pokemon Breeder Alize Reward",
+    "name": "Water Labyrinth - Breeder Alize Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Water Labyrinth"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_BREEDER_ALIZE_2_REWARD": {
-    "name": "Water Labyrinth - Pokemon Breeder Alize Rematch Reward (8 Badges/Gyms)",
+    "name": "Water Labyrinth - Breeder Alize Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Water Labyrinth"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_PKMN_BREEDER_ALLISON_REWARD": {
-    "name": "Pattern Bush - Pokemon Breeder Allison Reward",
+    "name": "Pattern Bush - Breeder Allison Reward",
     "tags": ["Trainers", "Sevii Islands", "Six Island", "Pattern Bush"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_BREEDER_BETHANY_REWARD": {
-    "name": "Pattern Bush - Pokemon Breeder Bethany Reward",
+    "name": "Pattern Bush - Breeder Bethany Reward",
     "tags": ["Trainers", "Sevii Islands", "Six Island", "Pattern Bush"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_BETH_REWARD": {
-    "name": "Mt. Ember Exterior - Pokemon Ranger Beth Reward",
+    "name": "Mt. Ember Exterior - Ranger Beth Reward",
     "tags": ["Trainers", "Sevii Islands", "One Island", "Mt. Ember"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_JACKSON_REWARD": {
-    "name": "Sevault Canyon - Pokemon Ranger Jackson Reward",
+    "name": "Sevault Canyon - Ranger Jackson Reward",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_JACKSON_2_REWARD": {
-    "name": "Sevault Canyon - Pokemon Ranger Jackson Rematch Reward (8 Badges/Gyms)",
+    "name": "Sevault Canyon - Ranger Jackson Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_PKMN_RANGER_KATELYN_REWARD": {
-    "name": "Sevault Canyon - Pokemon Ranger Katelyn Reward",
+    "name": "Sevault Canyon - Ranger Katelyn Reward",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_KATELYN_2_REWARD": {
-    "name": "Sevault Canyon - Pokemon Ranger Katelyn Rematch Reward (8 Badges/Gyms)",
+    "name": "Sevault Canyon - Ranger Katelyn Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Sevault Canyon"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_PKMN_RANGER_LOGAN_REWARD": {
-    "name": "Mt. Ember Exterior - Pokemon Ranger Logan Reward",
+    "name": "Mt. Ember Exterior - Ranger Logan Reward",
     "tags": ["Trainers", "Sevii Islands", "One Island", "Mt. Ember"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_MADELINE_REWARD": {
-    "name": "Canyon Entrance - Pokemon Ranger Madeline Reward",
+    "name": "Canyon Entrance - Ranger Madeline Reward",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Canyon Entrance"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_MADELINE_2_REWARD": {
-    "name": "Canyon Entrance - Pokemon Ranger Madeline Rematch Reward (8 Badges/Gyms)",
+    "name": "Canyon Entrance - Ranger Madeline Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Canyon Entrance"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_PKMN_RANGER_NICOLAS_REWARD": {
-    "name": "Canyon Entrance - Pokemon Ranger Nicolas Reward",
+    "name": "Canyon Entrance - Ranger Nicolas Reward",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Canyon Entrance"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PKMN_RANGER_NICOLAS_2_REWARD": {
-    "name": "Canyon Entrance - Pokemon Ranger Nicolas Rematch Reward (8 Badges/Gyms)",
+    "name": "Canyon Entrance - Ranger Nicolas Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Seven Island", "Canyon Entrance"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_POKEMANIAC_ASHTON_REWARD": {
-    "name": "Rock Tunnel 1F - PokeManiac Ashton Reward",
+    "name": "Rock Tunnel 1F - Super Nerd Ashton Reward",
     "tags": ["Trainers", "Kanto", "Rock Tunnel"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_COOPER_REWARD": {
-    "name": "Rock Tunnel B1F - PokeManiac Cooper Reward",
+    "name": "Rock Tunnel B1F - Super Nerd Cooper Reward",
     "tags": ["Trainers", "Kanto", "Rock Tunnel"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_DAWSON_REWARD": {
-    "name": "Victory Road 2F - PokeManiac Dawson Reward",
+    "name": "Victory Road 2F - Super Nerd Dawson Reward",
     "tags": ["Trainers", "Kanto", "Victory Road"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_HECTOR_REWARD": {
-    "name": "Ruin Valley - PokeManiac Hector Reward",
+    "name": "Ruin Valley - Super Nerd Hector Reward",
     "tags": ["Trainers", "Sevii Islands", "Six Island", "Ruin Valley"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_HECTOR_2_REWARD": {
-    "name": "Ruin Valley - PokeManiac Hector Rematch Reward (8 Badges/Gyms)",
+    "name": "Ruin Valley - Super Nerd Hector Rematch Reward (8 Badges/Gyms)",
     "tags": ["Trainers", "Sevii Islands", "Six Island", "Ruin Valley"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
   },
   "TRAINER_POKEMANIAC_HERMAN_REWARD": {
-    "name": "Route 10 - PokeManiac Herman Reward",
+    "name": "Route 10 - Super Nerd Herman Reward",
     "tags": ["Trainers", "Kanto", "Route 10"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6135,13 +6135,13 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_POKEMANIAC_MARK_REWARD": {
-    "name": "Route 10 - PokeManiac Mark Reward",
+    "name": "Route 10 - Super Nerd Mark Reward",
     "tags": ["Trainers", "Kanto", "Route 10"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_MARK_2_REWARD": {
-    "name": "Route 10 - PokeManiac Mark Rematch Reward (4 Badges/Gyms)",
+    "name": "Route 10 - Super Nerd Mark Rematch Reward (4 Badges/Gyms)",
     "tags": ["Trainers", "Kanto", "Route 10"],
     "category": "TRAINER_REMATCH",
     "include": ["Rematchsanity"]
@@ -6153,19 +6153,19 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_POKEMANIAC_STEVE_REWARD": {
-    "name": "Rock Tunnel B1F - PokeManiac Steve Reward",
+    "name": "Rock Tunnel B1F - Super Nerd Steve Reward",
     "tags": ["Trainers", "Kanto", "Rock Tunnel"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_POKEMANIAC_WINSTON_REWARD": {
-    "name": "Rock Tunnel B1F - PokeManiac Winston Reward",
+    "name": "Rock Tunnel B1F - Super Nerd Winston Reward",
     "tags": ["Trainers", "Kanto", "Rock Tunnel"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_PSYCHIC_CAMERON_REWARD": {
-    "name": "Saffron Gym - Psychic Cameron Reward",
+    "name": "Satan City Gym - Juggler Tyron Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6195,7 +6195,7 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_PSYCHIC_JOHAN_REWARD": {
-    "name": "Saffron Gym - Psychic Johan Reward",
+    "name": "Satan City Gym - Black Belt Johan Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6207,7 +6207,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_PSYCHIC_PRESTON_REWARD": {
-    "name": "Saffron Gym - Psychic Preston Reward",
+    "name": "Satan City Gym - Black Belt Yamato Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6225,25 +6225,25 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_PSYCHIC_TYRON_REWARD": {
-    "name": "Saffron Gym - Psychic Tyron Reward",
+    "name": "Satan City Gym - Black Belt Shingo Reward",
     "tags": ["Trainers", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_RIVAL_CERULEAN_BULBASAUR_REWARD": {
-    "name": "Cerulean City - Rival Reward",
+    "name": "Namek Town - Rival Reward",
     "tags": ["Trainers", "Kanto", "Cerulean City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_RIVAL_OAKS_LAB_BULBASAUR_REWARD": {
-    "name": "Professor Oak's Lab - Rival Reward",
+    "name": "Dr. Brief's Lab - Rival Reward",
     "tags": ["Trainers", "Kanto", "Pallet Town"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_RIVAL_POKEMON_TOWER_BULBASAUR_REWARD": {
-    "name": "Pokemon Tower 2F - Rival Reward",
+    "name": "God's Tower 2F - Rival Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6261,7 +6261,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_RIVAL_SILPH_BULBASAUR_REWARD": {
-    "name": "Silph Co. 7F - Rival Reward",
+    "name": "Capsule Corp. 7F - Rival Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6339,7 +6339,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_SAILOR_DWAYNE_REWARD": {
-    "name": "Vermilion Gym - Sailor Dwayne Reward",
+    "name": "Red Ribbon Base Gym - Sailor Dwayne Reward",
     "tags": ["Trainers", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6381,85 +6381,85 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_BEAU_REWARD": {
-    "name": "Silph Co. 5F - Scientist Beau Reward",
+    "name": "Capsule Corp. 5F - Scientist Beau Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_BRAYDON_REWARD": {
-    "name": "Pokemon Mansion 3F - Scientist Braydon Reward",
+    "name": "Enigma Mansion 3F - Scientist Braydon Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_CONNOR_REWARD": {
-    "name": "Silph Co. 2F - Scientist Connor Reward",
+    "name": "Capsule Corp. 2F - Scientist Connor Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_ED_REWARD": {
-    "name": "Silph Co. 9F - Scientist Ed Reward",
+    "name": "Capsule Corp. 9F - Scientist Ed Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_GIDEON_REWARD": {
-    "name": "Rocket Warehouse - Scientist Gideon Reward",
+    "name": "Pilaf Warehouse - Scientist Gideon Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_IVAN_REWARD": {
-    "name": "Pokemon Mansion B1F - Scientist Ivan Reward",
+    "name": "Enigma Mansion B1F - Scientist Ivan Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_JERRY_REWARD": {
-    "name": "Silph Co. 2F - Scientist Jerry Reward",
+    "name": "Capsule Corp. 2F - Scientist Jerry Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_JOSE_REWARD": {
-    "name": "Silph Co. 3F - Scientist Jose Reward",
+    "name": "Capsule Corp. 3F - Scientist Jose Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_JOSHUA_REWARD": {
-    "name": "Silph Co. 7F - Scientist Joshua Reward",
+    "name": "Capsule Corp. 7F - Scientist Joshua Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_PARKER_REWARD": {
-    "name": "Silph Co. 8F - Scientist Parker Reward",
+    "name": "Capsule Corp. 8F - Scientist Parker Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_RODNEY_REWARD": {
-    "name": "Silph Co. 4F - Scientist Rodney Reward",
+    "name": "Capsule Corp. 4F - Scientist Rodney Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_TAYLOR_REWARD": {
-    "name": "Silph Co. 6F - Scientist Taylor Reward",
+    "name": "Capsule Corp. 6F - Scientist Taylor Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_TED_REWARD": {
-    "name": "Pokemon Mansion 1F - Scientist Ted Reward",
+    "name": "Enigma Mansion 1F - Scientist Ted Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SCIENTIST_TRAVIS_REWARD": {
-    "name": "Silph Co. 10F - Scientist Travis Reward",
+    "name": "Capsule Corp. 10F - Scientist Travis Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6501,19 +6501,19 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_SUPER_NERD_AVERY_REWARD": {
-    "name": "Cinnabar Gym - Super Nerd Avery Reward",
+    "name": "Roshi's Island Gym - Super Nerd Avery Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SUPER_NERD_DEREK_REWARD": {
-    "name": "Cinnabar Gym - Super Nerd Derek Reward",
+    "name": "Roshi's Island Gym - Super Nerd Derek Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_SUPER_NERD_ERIK_REWARD": {
-    "name": "Cinnabar Gym - Super Nerd Erik Reward",
+    "name": "Roshi's Island Gym - Super Nerd Erik Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6549,7 +6549,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_SUPER_NERD_ZAC_REWARD": {
-    "name": "Cinnabar Gym - Super Nerd Zac Reward",
+    "name": "Roshi's Island Gym - Super Nerd Zac Reward",
     "tags": ["Trainers", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6729,7 +6729,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_SWIMMER_MALE_LUIS_REWARD": {
-    "name": "Cerulean Gym - Swimmer Luis Reward",
+    "name": "Namek Town Gym - Swimmer Luis Reward",
     "tags": ["Trainers", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6807,13 +6807,13 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_TAMER_COLE_REWARD": {
-    "name": "Viridian Gym - Tamer Cole Reward",
+    "name": "Aru Village Gym - Tamer Cole Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TAMER_EDGAR_REWARD": {
-    "name": "Fuchsia Gym - Tamer Edgar Reward",
+    "name": "Ginger Town Gym - Tamer Edgar Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6831,13 +6831,13 @@
     "include": ["Rematchsanity"]
   },
   "TRAINER_TAMER_JASON_REWARD": {
-    "name": "Viridian Gym - Tamer Jason Reward",
+    "name": "Aru Village Gym - Tamer Jason Reward",
     "tags": ["Trainers", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TAMER_PHIL_REWARD": {
-    "name": "Fuchsia Gym - Tamer Phil Reward",
+    "name": "Ginger Town Gym - Tamer Phil Reward",
     "tags": ["Trainers", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -6849,313 +6849,313 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_ADMIN_REWARD": {
-    "name": "Rocket Warehouse - Southeast Room Team Rocket Admin Reward",
+    "name": "Pilaf Warehouse - Southeast Room Team Pilaf Admin Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_ADMIN_2_REWARD": {
-    "name": "Rocket Warehouse - East Room Team Rocket Admin Reward",
+    "name": "Pilaf Warehouse - East Room Team Pilaf Admin Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_REWARD": {
-    "name": "Mt. Moon B2F - West Team Rocket Grunt Reward",
+    "name": "Mt. Moon B2F - West Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Mt. Moon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_2_REWARD": {
-    "name": "Mt. Moon B2F - Isolated Room Team Rocket Grunt Reward",
+    "name": "Mt. Moon B2F - Isolated Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Mt. Moon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_3_REWARD": {
-    "name": "Mt. Moon B2F - Northeast Room Team Rocket Grunt Reward",
+    "name": "Mt. Moon B2F - Northeast Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Mt. Moon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_4_REWARD": {
-    "name": "Mt. Moon B2F - East Team Rocket Grunt Reward",
+    "name": "Mt. Moon B2F - East Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Mt. Moon"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_5_REWARD": {
-    "name": "Cerulean City - Team Rocket Grunt Reward",
+    "name": "Namek Town - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Cerulean City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_6_REWARD": {
-    "name": "Route 24 - Team Rocket Grunt Reward",
+    "name": "Route 24 - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Route 24"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_7_REWARD": {
-    "name": "Celadon Game Corner - Team Rocket Grunt Reward",
+    "name": "West City Game Corner - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Celadon City"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_8_REWARD": {
-    "name": "Rocket Hideout B1F - Northeast Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B1F - Northeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_9_REWARD": {
-    "name": "Rocket Hideout B1F - Northwest Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B1F - Northwest Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_10_REWARD": {
-    "name": "Rocket Hideout B1F - Southwest Room Team Rocket Grunt Reward (Top)",
+    "name": "Pilaf Hideout B1F - Southwest Room Team Pilaf Grunt Reward (Top)",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_11_REWARD": {
-    "name": "Rocket Hideout B1F - Southwest Room Team Rocket Grunt Reward (Bottom)",
+    "name": "Pilaf Hideout B1F - Southwest Room Team Pilaf Grunt Reward (Bottom)",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_12_REWARD": {
-    "name": "Rocket Hideout B1F - Southeast Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B1F - Southeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_13_REWARD": {
-    "name": "Rocket Hideout B2F - Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B2F - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_14_REWARD": {
-    "name": "Rocket Hideout B3F - Maze Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B3F - Maze Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_15_REWARD": {
-    "name": "Rocket Hideout B3F - Northeast Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B3F - Northeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_16_REWARD": {
-    "name": "Rocket Hideout B4F - Door Guard Team Rocket Grunt Reward (Left)",
+    "name": "Pilaf Hideout B4F - Door Guard Team Pilaf Grunt Reward (Left)",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_17_REWARD": {
-    "name": "Rocket Hideout B4F - Door Guard Team Rocket Grunt Reward (Right)",
+    "name": "Pilaf Hideout B4F - Door Guard Team Pilaf Grunt Reward (Right)",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_18_REWARD": {
-    "name": "Rocket Hideout B4F - Northwest Room Team Rocket Grunt Reward",
+    "name": "Pilaf Hideout B4F - Northwest Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Rocket Hideout"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_19_REWARD": {
-    "name": "Pokemon Tower 7F - South Team Rocket Grunt Reward",
+    "name": "God's Tower 7F - South Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_20_REWARD": {
-    "name": "Pokemon Tower 7F - Center Team Rocket Grunt Reward",
+    "name": "God's Tower 7F - Center Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_21_REWARD": {
-    "name": "Pokemon Tower 7F - North Team Rocket Grunt Reward",
+    "name": "God's Tower 7F - North Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Tower"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_23_REWARD": {
-    "name": "Silph Co. 2F - Center Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 2F - Center Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_24_REWARD": {
-    "name": "Silph Co. 2F - East Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 2F - East Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_25_REWARD": {
-    "name": "Silph Co. 3F - Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 3F - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_26_REWARD": {
-    "name": "Silph Co. 4F - Southwest Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 4F - Southwest Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_27_REWARD": {
-    "name": "Silph Co. 4F - Southeast Room Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 4F - Southeast Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_28_REWARD": {
-    "name": "Silph Co. 5F - Southwest Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 5F - Southwest Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_29_REWARD": {
-    "name": "Silph Co. 5F - Northeast Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 5F - Northeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_30_REWARD": {
-    "name": "Silph Co. 6F - North Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 6F - North Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_31_REWARD": {
-    "name": "Silph Co. 6F - South Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 6F - South Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_32_REWARD": {
-    "name": "Silph Co. 8F - Northeast Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 8F - Northeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_33_REWARD": {
-    "name": "Silph Co. 7F - Northeast Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 7F - Northeast Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_34_REWARD": {
-    "name": "Silph Co. 7F - Southeast Room Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 7F - Southeast Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_35_REWARD": {
-    "name": "Silph Co. 7F - North Room Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 7F - North Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_36_REWARD": {
-    "name": "Silph Co. 8F - Southwest Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 8F - Southwest Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_37_REWARD": {
-    "name": "Silph Co. 9F - Northwest Room Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 9F - Northwest Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_38_REWARD": {
-    "name": "Silph Co. 9F - South Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 9F - South Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_39_REWARD": {
-    "name": "Silph Co. 10F - Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 10F - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_40_REWARD": {
-    "name": "Silph Co. 11F - East Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 11F - East Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_41_REWARD": {
-    "name": "Silph Co. 11F - Southwest Team Rocket Grunt Reward",
+    "name": "Capsule Corp. 11F - Southwest Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Kanto", "Silph Co."],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_42_REWARD": {
-    "name": "Rocket Warehouse - Northwest Room Team Rocket Grunt Reward",
+    "name": "Pilaf Warehouse - Northwest Room Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_43_REWARD": {
-    "name": "Mt. Ember Exterior - Team Rocket Grunt Reward (Left)",
+    "name": "Mt. Ember Exterior - Team Pilaf Grunt Reward (Left)",
     "tags": ["Trainers", "Sevii Islands", "One Island", "Mt. Ember"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_44_REWARD": {
-    "name": "Mt. Ember Exterior - Team Rocket Grunt Reward (Right)",
+    "name": "Mt. Ember Exterior - Team Pilaf Grunt Reward (Right)",
     "tags": ["Trainers", "Sevii Islands", "One Island", "Mt. Ember"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_45_REWARD": {
-    "name": "Icefall Cave Back - Team Rocket Grunt Reward",
+    "name": "Icefall Cave Back - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Four Island", "Icefall Cave"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_46_REWARD": {
-    "name": "Outcast Island - Team Rocket Grunt Reward",
+    "name": "Outcast Island - Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Six Island", "Outcast Island"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_47_REWARD": {
-    "name": "Rocket Warehouse - Maze Team Rocket Grunt Reward (Left)",
+    "name": "Pilaf Warehouse - Maze Team Pilaf Grunt Reward (Left)",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_48_REWARD": {
-    "name": "Rocket Warehouse - Maze Team Rocket Grunt Reward (Right)",
+    "name": "Pilaf Warehouse - Maze Team Pilaf Grunt Reward (Right)",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_49_REWARD": {
-    "name": "Five Isle Meadow - North Team Rocket Grunt Reward",
+    "name": "Five Isle Meadow - North Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Five Isle Meadow"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_50_REWARD": {
-    "name": "Five Isle Meadow - South Team Rocket Grunt Reward",
+    "name": "Five Isle Meadow - South Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Five Isle Meadow"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
   },
   "TRAINER_TEAM_ROCKET_GRUNT_51_REWARD": {
-    "name": "Five Isle Meadow - Center Team Rocket Grunt Reward",
+    "name": "Five Isle Meadow - Center Team Pilaf Grunt Reward",
     "tags": ["Trainers", "Sevii Islands", "Five Island", "Five Isle Meadow"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -7275,7 +7275,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_YOUNGSTER_DAN_REWARD": {
-    "name": "Route 25 - Youngster Dan Reward",
+    "name": "Route 25 - Hiker Dan Reward",
     "tags": ["Trainers", "Kanto", "Route 25"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -7317,7 +7317,7 @@
     "include": ["Trainersanity"]
   },
   "TRAINER_YOUNGSTER_JOHNSON_REWARD": {
-    "name": "Pokemon Mansion 1F - Youngster Johnson Reward",
+    "name": "Enigma Mansion 1F - Youngster Johnson Reward",
     "tags": ["Trainers", "Kanto", "Pokemon Mansion"],
     "category": "TRAINER",
     "include": ["Trainersanity"]
@@ -7414,7 +7414,7 @@
   },
 
   "FAME_CHECKER_AGATHA_1": {
-    "name": "Agatha's Room - Agatha Info 1",
+    "name": "West Kai's Room - West Kai Info 1",
     "tags": ["Fame Entries", "Agatha Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7438,7 +7438,7 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_AGATHA_5": {
-    "name": "Agatha's Room - Agatha Info 2",
+    "name": "West Kai's Room - West Kai Info 2",
     "tags": ["Fame Entries", "Agatha Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7450,19 +7450,19 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BILL_1": {
-    "name": "Cerulean City - Rival Info",
+    "name": "Namek Town - Rival Info",
     "tags": ["Fame Entries", "Bill Fame Entries", "Kanto", "Cerulean City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BILL_2": {
-    "name": "Cerulean Pokemon Center 1F - Youngster Info",
+    "name": "Namek Town Pokemon Center 1F - Youngster Info",
     "tags": ["Fame Entries", "Bill Fame Entries", "Kanto", "Cerulean City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BILL_3": {
-    "name": "Bill's Grandpa's House - Bill's Grandpa Info",
+    "name": "Leon's Grandpa's House - Leon's Grandpa Info",
     "tags": ["Fame Entries", "Bill Fame Entries", "Kanto", "Fuchsia City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7486,31 +7486,31 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BLAINE_1": {
-    "name": "Cinnabar Island - Gym Sign Info",
+    "name": "Roshi's Island - Gym Sign Info",
     "tags": ["Fame Entries", "Blaine Fame Entries", "Kanto", "Cinnabar Island"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BLAINE_2": {
-    "name": "Cinnabar Gym - Blaine Info",
+    "name": "Roshi's Island Gym - Roshi Info",
     "tags": ["Fame Entries", "Blaine Fame Entries", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BLAINE_3": {
-    "name": "Cinnabar Gym - Super Nerd Derek Info",
+    "name": "Roshi's Island Gym - Super Nerd Derek Info",
     "tags": ["Fame Entries", "Blaine Fame Entries", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BLAINE_4": {
-    "name": "Cinnabar Island - Woman Info",
+    "name": "Roshi's Island - Woman Info",
     "tags": ["Fame Entries", "Blaine Fame Entries", "Kanto", "Cinnabar Island"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BLAINE_5": {
-    "name": "Cinnabar Gym - Photo Info 1",
+    "name": "Roshi's Island Gym - Photo Info 1",
     "tags": ["Fame Entries", "Blaine Fame Entries", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7522,19 +7522,19 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BROCK_1": {
-    "name": "Pewter City - Gym Sign Info",
+    "name": "Saiyan Realm - Gym Sign Info",
     "tags": ["Fame Entries", "Brock Fame Entries", "Kanto", "Pewter City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BROCK_2": {
-    "name": "Pewter Gym - Brock Info",
+    "name": "Saiyan Realm Gym - Yajirobe Info",
     "tags": ["Fame Entries", "Brock Fame Entries", "Kanto", "Pewter City", "Pewter Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BROCK_3": {
-    "name": "Pewter City - Fat Man Info",
+    "name": "Saiyan Realm - Fat Man Info",
     "tags": ["Fame Entries", "Brock Fame Entries", "Kanto", "Pewter City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7552,19 +7552,19 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BROCK_6": {
-    "name": "Pewter Museum 1F - Bookshelf Info",
+    "name": "Saiyan Realm Museum 1F - Bookshelf Info",
     "tags": ["Fame Entries", "Brock Fame Entries", "Kanto", "Pewter City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BRUNO_1": {
-    "name": "Bruno's Room - Bruno Info 1",
+    "name": "South Kai's Room - South Kai Info 1",
     "tags": ["Fame Entries", "Bruno Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_BRUNO_2": {
-    "name": "Bruno's Room - Bruno Info 2",
+    "name": "South Kai's Room - South Kai Info 2",
     "tags": ["Fame Entries", "Bruno Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7594,7 +7594,7 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_DAISY_1": {
-    "name": "Professor Oak's Lab - Oak's Aide M Info (Right)",
+    "name": "Dr. Brief's Lab - Brief's Aide M Info (Right)",
     "tags": ["Fame Entries", "Daisy Fame Entries", "Kanto", "Pallet Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7612,13 +7612,13 @@
     "include": ["Famesanity", "Pokemon Requests"]
   },
   "FAME_CHECKER_DAISY_4": {
-    "name": "Viridian School - Bookshelf Info 2",
+    "name": "Aru Village School - Bookshelf Info 2",
     "tags": ["Fame Entries", "Daisy Fame Entries", "Kanto", "Viridian City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_DAISY_5": {
-    "name": "Celadon Condominiums 1F - Tea Woman Info",
+    "name": "West City Condominiums 1F - Tea Woman Info",
     "tags": ["Fame Entries", "Daisy Fame Entries", "Kanto", "Celadon City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7630,133 +7630,133 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_1": {
-    "name": "Celadon City - Gym Sign Info",
+    "name": "West City - Gym Sign Info",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_2": {
-    "name": "Celadon Gym - Erika Info 1",
+    "name": "West City Gym - Bulma Info 1",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_3": {
-    "name": "Celadon Gym - Lass Lisa Info",
+    "name": "West City Gym - Lass Lisa Info",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_4": {
-    "name": "Celadon Gym - Beauty Tamia Info",
+    "name": "West City Gym - Beauty Tamia Info",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_5": {
-    "name": "Celadon Gym - Erika Info 2",
+    "name": "West City Gym - Bulma Info 2",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City", "Celadon Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_ERIKA_6": {
-    "name": "Celadon Condominiums 2F - Bookshelf Info",
+    "name": "West City Condominiums 2F - Bookshelf Info",
     "tags": ["Fame Entries", "Erika Fame Entries", "Kanto", "Celadon City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_1": {
-    "name": "Rocket Hideout B4F - Giovanni Info",
+    "name": "Pilaf Hideout B4F - Pilaf Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Kanto", "Rocket Hideout"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_2": {
-    "name": "Silph Co. 5F - Scientist Info",
+    "name": "Capsule Corp. 5F - Scientist Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Kanto", "Silph Co."],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_3": {
-    "name": "Silph Co. 8F - Scientist Info",
+    "name": "Capsule Corp. 8F - Scientist Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Kanto", "Silph Co."],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_4": {
-    "name": "Viridian Gym - Giovanni Info",
+    "name": "Aru Village Gym - Pilaf Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_5": {
-    "name": "Viridian Gym - Gym Guy Info",
+    "name": "Aru Village Gym - Gym Guy Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Kanto", "Viridian City", "Viridian Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_GIOVANNI_6": {
-    "name": "Rocket Warehouse - Scientist Gideon Info",
+    "name": "Pilaf Warehouse - Scientist Gideon Info",
     "tags": ["Fame Entries", "Giovanni Fame Entries", "Sevii Islands", "Five Island", "Rocket Warehouse"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_1": {
-    "name": "Fuchsia City - Gym Sign Info",
+    "name": "Ginger Town - Gym Sign Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Fuchsia City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_2": {
-    "name": "Fuchsia Gym - Koga Info",
+    "name": "Ginger Town Gym - Babidi Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_3": {
-    "name": "Fuchsia Gym - Juggler Kirk Info",
+    "name": "Ginger Town Gym - Juggler Kirk Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Fuchsia City", "Fuchsia Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_4": {
-    "name": "Fuchsia City - Koga's Daughter Info",
+    "name": "Ginger Town - Babidi's Daughter Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Fuchsia City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_5": {
-    "name": "Safari Zone Warden's House - Bookshelf Info",
+    "name": "Babidi Zone Warden's House - Bookshelf Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Fuchsia City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_KOGA_6": {
-    "name": "Safari Zone North Area Rest House - Balding Man Info",
+    "name": "Babidi Zone North Area Rest House - Balding Man Info",
     "tags": ["Fame Entries", "Koga Fame Entries", "Kanto", "Safari Zone"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LANCE_1": {
-    "name": "Lance's Room - Lance Info 1",
+    "name": "North Kai's Room - North Kai Info 1",
     "tags": ["Fame Entries", "Lance Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LANCE_2": {
-    "name": "Lance's Room - Lance Info 2",
+    "name": "North Kai's Room - North Kai Info 2",
     "tags": ["Fame Entries", "Lance Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LANCE_3": {
-    "name": "Saffron City - Battle Girl Info",
+    "name": "Satan City - Battle Girl Info",
     "tags": ["Fame Entries", "Lance Fame Entries", "Kanto", "Saffron City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LANCE_4": {
-    "name": "Celadon Department Store 2F - Woman Info",
+    "name": "Z-Store 2F - Woman Info",
     "tags": ["Fame Entries", "Lance Fame Entries", "Kanto", "Celadon City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7774,13 +7774,13 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LORELEI_1": {
-    "name": "Lorelei's Room - Lorelei Info 1",
+    "name": "East Kai's Room - East Kai Info 1",
     "tags": ["Fame Entries", "Lorelei Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LORELEI_2": {
-    "name": "Lorelei's Room - Lorelei Info 2",
+    "name": "East Kai's Room - East Kai Info 2",
     "tags": ["Fame Entries", "Lorelei Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7810,55 +7810,55 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_1": {
-    "name": "Vermilion City - Gym Sign Info",
+    "name": "Red Ribbon Base - Gym Sign Info",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_2": {
-    "name": "Vermilion Gym - Lt. Surge Info",
+    "name": "Red Ribbon Base Gym - Gnr. Red Info",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_3": {
-    "name": "Vermilion Gym - Gentleman Tucker Info 1",
+    "name": "Red Ribbon Base Gym - Gentleman Tucker Info 1",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_4": {
-    "name": "Vermilion Gym - Gentleman Tucker Info 2",
+    "name": "Red Ribbon Base Gym - Gentleman Tucker Info 2",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_5": {
-    "name": "Vermilion Gym - Sailor Dwayne Info",
+    "name": "Red Ribbon Base Gym - Sailor Dwayne Info",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City", "Vermilion Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_LTSURGE_6": {
-    "name": "Vermilion Pokemon Center 1F - Bookshelf Info",
+    "name": "Red Ribbon Base Pokemon Center 1F - Bookshelf Info",
     "tags": ["Fame Entries", "Lt. Surge Fame Entries", "Kanto", "Vermilion City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MISTY_1": {
-    "name": "Cerulean City - Gym Sign Info",
+    "name": "Namek Town - Gym Sign Info",
     "tags": ["Fame Entries", "Misty Fame Entries", "Kanto", "Cerulean City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MISTY_2": {
-    "name": "Cerulean Gym - Misty Info",
+    "name": "Namek Town Gym - Muri Info",
     "tags": ["Fame Entries", "Misty Fame Entries", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MISTY_3": {
-    "name": "Cerulean Gym - Swimmer Luis Info",
+    "name": "Namek Town Gym - Swimmer Luis Info",
     "tags": ["Fame Entries", "Misty Fame Entries", "Kanto", "Cerulean City", "Cerulean Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7876,7 +7876,7 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MISTY_6": {
-    "name": "Cerulean Pokemon Center 1F - Bookshelf Info",
+    "name": "Namek Town Pokemon Center 1F - Bookshelf Info",
     "tags": ["Fame Entries", "Misty Fame Entries", "Kanto", "Cerulean City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7888,7 +7888,7 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MRFUJI_2": {
-    "name": "Pokemon Tower 7F - Team Rocket Grunt Info",
+    "name": "God's Tower 7F - Team Pilaf Grunt Info",
     "tags": ["Fame Entries", "Mr. Fuji Fame Entries", "Kanto", "Pokemon Tower"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
@@ -7900,91 +7900,91 @@
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MRFUJI_4": {
-    "name": "Lavender Pokemon Center 1F - Balding Man Info",
+    "name": "Makyo Town Pokemon Center 1F - Balding Man Info",
     "tags": ["Fame Entries", "Mr. Fuji Fame Entries", "Kanto", "Lavender Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MRFUJI_5": {
-    "name": "Cinnabar Gym - Photo Info 2",
+    "name": "Roshi's Island Gym - Photo Info 2",
     "tags": ["Fame Entries", "Mr. Fuji Fame Entries", "Kanto", "Cinnabar Island", "Cinnabar Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_MRFUJI_6": {
-    "name": "Cinnabar Pokemon Center 1F - Bookshelf Info",
+    "name": "Roshi's Island Pokemon Center 1F - Bookshelf Info",
     "tags": ["Fame Entries", "Mr. Fuji Fame Entries", "Kanto", "Cinnabar Island"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_1": {
-    "name": "Pallet Town - Oak's Lab Sign Info",
+    "name": "Mount Paozu - Brief's Lab Sign Info",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Pallet Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_2": {
-    "name": "Professor Oak's Lab - Oak Info",
+    "name": "Dr. Brief's Lab - Brief Info",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Pallet Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_3": {
-    "name": "Professor Oak's Lab - Oak's Aide F Info",
+    "name": "Dr. Brief's Lab - Brief's Aide F Info",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Pallet Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_4": {
-    "name": "Viridian School - Bookshelf Info 1",
+    "name": "Aru Village School - Bookshelf Info 1",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Viridian City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_5": {
-    "name": "Agatha's Room - Agatha Info 3",
+    "name": "West Kai's Room - West Kai Info 3",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Pokemon League"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_OAK_6": {
-    "name": "Professor Oak's Lab - Oak's Aide M Info (Left)",
+    "name": "Dr. Brief's Lab - Brief's Aide M Info (Left)",
     "tags": ["Fame Entries", "Oak Fame Entries", "Kanto", "Pallet Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_1": {
-    "name": "Saffron City - Gym Sign Info",
+    "name": "Satan City - Gym Sign Info",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Kanto", "Saffron City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_2": {
-    "name": "Sabrina Fan's House - Sabrina Fan Info",
+    "name": "Satan Fan's House - Satan Fan Info",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Sevii Islands", "Three Island", "Three Island Town"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_3": {
-    "name": "Saffron Gym - Sabrina Info 1",
+    "name": "Satan City Gym - Satan Info 1",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_4": {
-    "name": "Saffron Gym - Sabrina Info 2",
+    "name": "Satan City Gym - Satan Info 2",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_5": {
-    "name": "Saffron Pokemon Center 1F - Bookshelf Info",
+    "name": "Satan City Pokemon Center 1F - Bookshelf Info",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Kanto", "Saffron City"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]
   },
   "FAME_CHECKER_SABRINA_6": {
-    "name": "Saffron Gym - Psychic Tyron Info",
+    "name": "Satan City Gym - Psychic Tyron Info",
     "tags": ["Fame Entries", "Sabrina Fame Entries", "Kanto", "Saffron City", "Saffron Gym"],
     "category": "FAME_ENTRY",
     "include": ["Famesanity"]

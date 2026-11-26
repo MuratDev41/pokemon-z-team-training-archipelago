@@ -56,6 +56,13 @@ species_map = build_map(ctx, final_base, UPSTREAM_WORLD, ed)
 dex_locations_renamed = apply_species_names(WORLD, UPSTREAM_WORLD, species_map)
 item_map = build_item_map(ctx, final_base, UPSTREAM_WORLD, ed)
 apply_items(WORLD, UPSTREAM_WORLD, item_map)
+import place_rename  # noqa: E402
+name_log = []
+name_maps = place_rename.build(ctx, final_base, ed, species_map)
+loc_map = place_rename.location_map(WORLD, name_maps, name_log)
+loc_files = place_rename.apply(WORLD, loc_map, "locations.json")
+ap_item_map = place_rename.item_map(WORLD, name_maps)
+item_files = place_rename.apply(WORLD, ap_item_map, "items.json")
 from evolutions import rebuild as rebuild_evolutions  # noqa: E402
 evo_report = rebuild_evolutions(WORLD, ed, UPSTREAM_WORLD, species_map)
 
@@ -84,6 +91,9 @@ for k, v in sorted(t.stats.items()):
     print("  %-34s %d" % (k, v))
 print("regenerated:", report)
 print("evolutions:", evo_report)
+print("locations renamed:", len(loc_map), "in", loc_files, " AP items renamed:", len(ap_item_map), "in", item_files)
+for line in name_log:
+    print("  name:", line)
 print("species renamed:", len(species_map), " dexsanity locations renamed:", dex_locations_renamed,
       " items renamed:", len(item_map))
 print("maps:", {k: v for k, v in sorted(t.stats.items()) if k.startswith(("maps_", "map_", "general_"))})

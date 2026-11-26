@@ -1,3 +1,10 @@
+# Pokemon Z Team Training 1.3.0
+
+* Location names follow the hack: places (Mount Paozu, Namek Town, Capsule Corp., Z-Store, Pilaf Hideout...),
+  characters (Yajirobe, Bulma, Dr. Brief, Pilaf, the Kais...) and each trainer's class and name in the hack.
+* Archipelago's own items follow the hack's places: gym keys (Saiyan Realm Key...), fly unlocks
+  (Fly Unlock (Mount Paozu)...) and the Babidi Pass.
+
 # Pokemon Z Team Training 1.2.0
 
 * The hack's map designs: 38 redesigned maps (gyms, Elite Four, Lavender Town, Namek Town/Cerulean, Saffron,

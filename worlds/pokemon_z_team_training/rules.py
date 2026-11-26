@@ -334,18 +334,18 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Sky
     entrance_rules["Flying"] = CanFly()
-    entrance_rules["Pallet Town Fly Destination"] = Has("Fly Unlock (Pallet Town)")
-    entrance_rules["Viridian City Fly Destination"] = Has("Fly Unlock (Viridian City)")
-    entrance_rules["Pewter City Fly Destination"] = Has("Fly Unlock (Pewter City)")
+    entrance_rules["Pallet Town Fly Destination"] = Has("Fly Unlock (Mount Paozu)")
+    entrance_rules["Viridian City Fly Destination"] = Has("Fly Unlock (Aru Village)")
+    entrance_rules["Pewter City Fly Destination"] = Has("Fly Unlock (Saiyan Realm)")
     entrance_rules["Route 4 Fly Destination"] = Has("Fly Unlock (Route 4)")
-    entrance_rules["Cerulean City Fly Destination"] = Has("Fly Unlock (Cerulean City)")
-    entrance_rules["Vermilion City Fly Destination"] = Has("Fly Unlock (Vermilion City)")
+    entrance_rules["Cerulean City Fly Destination"] = Has("Fly Unlock (Namek Town)")
+    entrance_rules["Vermilion City Fly Destination"] = Has("Fly Unlock (Red Ribbon Base)")
     entrance_rules["Route 10 Fly Destination"] = Has("Fly Unlock (Route 10)")
-    entrance_rules["Lavender Town Fly Destination"] = Has("Fly Unlock (Lavender Town)")
-    entrance_rules["Celadon City Fly Destination"] = Has("Fly Unlock (Celadon City)")
-    entrance_rules["Fuchsia City Fly Destination"] = Has("Fly Unlock (Fuchsia City)")
-    entrance_rules["Saffron City Fly Destination"] = Has("Fly Unlock (Saffron City)")
-    entrance_rules["Cinnabar Island Fly Destination"] = Has("Fly Unlock (Cinnabar Island)")
+    entrance_rules["Lavender Town Fly Destination"] = Has("Fly Unlock (Makyo Town)")
+    entrance_rules["Celadon City Fly Destination"] = Has("Fly Unlock (West City)")
+    entrance_rules["Fuchsia City Fly Destination"] = Has("Fly Unlock (Ginger Town)")
+    entrance_rules["Saffron City Fly Destination"] = Has("Fly Unlock (Satan City)")
+    entrance_rules["Cinnabar Island Fly Destination"] = Has("Fly Unlock (Roshi's Island)")
     entrance_rules["Indigo Plateau Fly Destination"] = Has("Fly Unlock (Indigo Plateau)")
     entrance_rules["One Island Fly Destination"] = Has("Fly Unlock (One Island)")
     entrance_rules["Two Island Fly Destination"] = Has("Fly Unlock (Two Island)")
@@ -386,20 +386,20 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     # Pallet Town
     location_rules["Rival's House - Daisy Gift"] = Has("Deliver Oak's Parcel")
     location_rules["Professor Oak's Lab - Oak's Delivery"] = Has("Oak's Parcel")
-    location_rules["Professor Oak's Lab - Oak Gift 1 (Deliver Parcel)"] = Has("Oak's Parcel")
-    location_rules["Professor Oak's Lab - Oak Gift 2 (Deliver Parcel)"] = Has("Oak's Parcel")
-    location_rules["Professor Oak's Lab - Oak Info"] = Has("Oak's Parcel")
-    location_rules["Professor Oak's Lab - Oak Gift (Post Route 22 Rival)"] = Has("Defeat Route 22 Rival")
-    location_rules["Professor Oak's Lab - Oak's Aide M Info (Right)"] = PostGameFame()
-    location_rules["Professor Oak's Lab - Oak's Aide M Info (Left)"] = PostGameFame()
+    location_rules["Dr. Brief's Lab - Brief Gift 1 (Deliver Parcel)"] = Has("Oak's Parcel")
+    location_rules["Dr. Brief's Lab - Brief Gift 2 (Deliver Parcel)"] = Has("Oak's Parcel")
+    location_rules["Dr. Brief's Lab - Brief Info"] = Has("Oak's Parcel")
+    location_rules["Dr. Brief's Lab - Brief Gift (Post Route 22 Rival)"] = Has("Defeat Route 22 Rival")
+    location_rules["Dr. Brief's Lab - Brief's Aide M Info (Right)"] = PostGameFame()
+    location_rules["Dr. Brief's Lab - Brief's Aide M Info (Left)"] = PostGameFame()
 
     entrance_rules["Pallet Town Surfing Spot"] = CanSurf()
 
     # Viridian City
-    location_rules["Viridian City - Tutorial Man Gift"] = CanLeaveViridian()
-    location_rules["Viridian City - Old Man Gift"] = HasViridianGymRequirements()
-    location_rules["Viridian Gym - Hidden Item Under Giovanni"] = Has("Itemfinder")
-    location_rules["Viridian Gym - Gym Guy Info"] = Has("Defeat Giovanni")
+    location_rules["Aru Village - Tutorial Man Gift"] = CanLeaveViridian()
+    location_rules["Aru Village - Old Man Gift"] = HasViridianGymRequirements()
+    location_rules["Aru Village Gym - Hidden Item Under Pilaf"] = Has("Itemfinder")
+    location_rules["Aru Village Gym - Gym Guy Info"] = Has("Defeat Giovanni")
 
     entrance_rules["Viridian City Roadblock (Bottom)"] = CanLeaveViridian()
     entrance_rules["Viridian City Roadblock (Top)"] = CanLeaveViridian()
@@ -410,7 +410,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Viridian City Surfing Spot"] = CanSurf()
     entrance_rules["Viridian Gym Entrance"] = (
         HasViridianGymRequirements() &
-        Has("Viridian Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
+        Has("Aru Village Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
     )
 
     # Route 22
@@ -427,7 +427,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Route 22 Gate North Exit"] = HasRoute22GateRequirements()
 
     # Route 2
-    location_rules["Route 2 Gate - Oak's Aide Gift (Pokedex Progress)"] = (
+    location_rules["Route 2 Gate - Brief's Aide Gift (Pokedex Progress)"] = (
         HasNPokemon(world.options.oaks_aide_route_2.value) & Has("Pokedex")
     )
     location_rules["Route 2 Trade House - Trade Pokemon"] = (
@@ -452,7 +452,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Route 2 Center Cuttable Tree (Bottom)"] = CanCut()
 
     # Pewter City
-    location_rules["Pewter City - Gift from Mom"] = Has("Defeat Brock")
+    location_rules["Saiyan Realm - Gift from Mom"] = Has("Defeat Brock")
 
     entrance_rules["Pewter City Ledge (Bottom)"] = JumpUpLedge()
     entrance_rules["Pewter City Ledge (Top)"] = JumpDownLedge()
@@ -461,7 +461,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Pewter City Roadblock (Left)"] = CanLeavePewter()
     entrance_rules["Pewter City Roadblock (Right)"] = CanLeavePewter()
     entrance_rules["Pewter Gym Entrance"] = Has(
-        "Pewter Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True
+        "Saiyan Realm Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True
     )
 
     # Route 3
@@ -486,8 +486,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Cerulean Trade House - Trade Pokemon"] = (
         HasTradePokemon("Cerulean Trade House - Trade Pokemon") & Has("Pokedex")
     )
-    location_rules["Cerulean Pokemon Center 1F - Bookshelf Info"] = PostGameFame()
-    location_rules["Cerulean Gym - Hidden Item in Water"] = CanSurf() & Has("Itemfinder")
+    location_rules["Namek Town Pokemon Center 1F - Bookshelf Info"] = PostGameFame()
+    location_rules["Namek Town Gym - Hidden Item in Water"] = CanSurf() & Has("Itemfinder")
     location_rules["Bike Shop - Bicycle Purchase"] = Has("Bike Voucher")
     location_rules["Berry Powder Man's House - Berry Powder Man Gift"] = Has("Berry Pouch")
 
@@ -517,7 +517,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
         )
     )
     entrance_rules["Cerulean Gym Entrance"] = Has(
-        "Cerulean Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True
+        "Namek Town Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True
     )
     entrance_rules["Cerulean City East Exit"] = (
         (CanCut() & OptionFilter(Route9Roadblock, Route9Roadblock.option_vanilla)) |
@@ -599,7 +599,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Route 6 Gate Guard Checkpoint (Top)"] = HasAny("Tea", "Red Tea")
 
     # Vermilion City
-    location_rules["Vermilion Pokemon Center 1F - Bookshelf Info"] = Has("Defeat Lt. Surge")
+    location_rules["Red Ribbon Base Pokemon Center 1F - Bookshelf Info"] = Has("Defeat Lt. Surge")
     location_rules["Pokemon Fan Club - Worker Info"] = PostGameFame()
     location_rules["Vermilion Trade House - Trade Pokemon"] = (
         HasTradePokemon("Vermilion Trade House - Trade Pokemon") & Has("Pokedex")
@@ -612,7 +612,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Vermilion City Surfing Spot"] = CanSurf()
     entrance_rules["Vermilion City Surfing Spot (Near Gym)"] = CanSurf()
     entrance_rules["Vermilion Gym Entrance"] = (
-        Has("Vermilion Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
+        Has("Red Ribbon Base Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
     )
     entrance_rules["Board Seagallop (Vermilion Harbor)"] = (
         HasIslandPass(1) | HasIslandPass(2) | HasIslandPass(3) | HasIslandPass(4) | HasIslandPass(5) |
@@ -627,7 +627,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Route 11 - Youngster Yasu Rematch Reward (2 Badges/Gyms)"] = TrainerRematch(4)
     location_rules["Route 11 - Youngster Yasu Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
     location_rules["Route 11 - Gamer Darian Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
-    location_rules["Route 11 Gate 2F - Oak's Aide Gift (Pokedex Progress)"] = (
+    location_rules["Route 11 Gate 2F - Brief's Aide Gift (Pokedex Progress)"] = (
         HasNPokemon(world.options.oaks_aide_route_11.value) & Has("Pokedex")
     )
     location_rules["Route 11 Gate 2F - Trade Pokemon"] = (
@@ -663,9 +663,9 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Route 10 - PokeManiac Herman Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
     location_rules["Route 10 - PokeManiac Herman Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Route 10 - Hiker Trent Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
-    location_rules["Route 10 - PokeManiac Mark Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
+    location_rules["Route 10 - Super Nerd Mark Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
     location_rules["Route 10 - PokeManiac Mark Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Route 10 Pokemon Center 1F - Oak's Aide Gift (Pokedex Progress)"] = (
+    location_rules["Route 10 Pokemon Center 1F - Brief's Aide Gift (Pokedex Progress)"] = (
         HasNPokemon(world.options.oaks_aide_route_10.value) & Has("Pokedex")
     )
 
@@ -689,8 +689,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Route 10 Ledge (Top)"] = JumpDownLedge()
 
     # Lavender Town
-    location_rules["Lavender Pokemon Center 1F - Balding Man Info"] = PostGameFame()
-    location_rules["Volunteer Pokemon House - Mr. Fuji Gift"] = Has("Rescue Mr. Fuji")
+    location_rules["Makyo Town Pokemon Center 1F - Balding Man Info"] = PostGameFame()
+    location_rules["Volunteer Pokemon House - Kami Gift"] = Has("Rescue Mr. Fuji")
 
     entrance_rules["Lavender Town South Exit"] = (
         True_(options=[OptionFilter(Route12Boulders, Route12Boulders.option_false)]) |
@@ -741,31 +741,31 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Route 7 Gate Guard Checkpoint (Right)"] = HasAny("Tea", "Green Tea")
 
     # Celadon City
-    location_rules["Celadon Game Corner - Fisherman Gift"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Scientist Gift"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Gentleman Gift"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Northwest Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - North Hidden Item (Left)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - North Hidden Item (Right)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Northeast Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - West Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Center Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - East Hidden Item (Left)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - East Hidden Item (Right)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Southwest Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - South Hidden Item (Left)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - South Hidden Item (Right)"] = Has("Coin Case")
-    location_rules["Celadon Game Corner - Southeast Hidden Item"] = Has("Coin Case")
-    location_rules["Celadon Game Corner Prize Room - Prize Item 1"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize Item 2"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize Item 3"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize Item 4"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize Item 5"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize TM 1"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize TM 2"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize TM 3"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize TM 4"] = CanBuyCoins()
-    location_rules["Celadon Game Corner Prize Room - Prize TM 5"] = CanBuyCoins()
+    location_rules["West City Game Corner - Fisherman Gift"] = Has("Coin Case")
+    location_rules["West City Game Corner - Scientist Gift"] = Has("Coin Case")
+    location_rules["West City Game Corner - Gentleman Gift"] = Has("Coin Case")
+    location_rules["West City Game Corner - Northwest Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner - North Hidden Item (Left)"] = Has("Coin Case")
+    location_rules["West City Game Corner - North Hidden Item (Right)"] = Has("Coin Case")
+    location_rules["West City Game Corner - Northeast Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner - West Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner - Center Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner - East Hidden Item (Left)"] = Has("Coin Case")
+    location_rules["West City Game Corner - East Hidden Item (Right)"] = Has("Coin Case")
+    location_rules["West City Game Corner - Southwest Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner - South Hidden Item (Left)"] = Has("Coin Case")
+    location_rules["West City Game Corner - South Hidden Item (Right)"] = Has("Coin Case")
+    location_rules["West City Game Corner - Southeast Hidden Item"] = Has("Coin Case")
+    location_rules["West City Game Corner Prize Room - Prize Item 1"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize Item 2"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize Item 3"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize Item 4"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize Item 5"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize TM 1"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize TM 2"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize TM 3"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize TM 4"] = CanBuyCoins()
+    location_rules["West City Game Corner Prize Room - Prize TM 5"] = CanBuyCoins()
     location_rules["Celadon Game Corner Prize Room - Prize Pokemon 1"] = CanBuyCoins()
     location_rules["Celadon Game Corner Prize Room - Prize Pokemon 2"] = CanBuyCoins()
     location_rules["Celadon Game Corner Prize Room - Prize Pokemon 3"] = CanBuyCoins()
@@ -776,21 +776,21 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Prize Pokemon 3 Scaling"] = CanBuyCoins()
     location_rules["Prize Pokemon 4 Scaling"] = CanBuyCoins()
     location_rules["Prize Pokemon 5 Scaling"] = CanBuyCoins()
-    location_rules["Celadon Department Store 2F - Woman Info"] = PostGameFame()
-    location_rules["Celadon Department Store Roof - Thirsty Girl Gift (Give Fresh Water)"] = Has("Fresh Water")
-    location_rules["Celadon Department Store Roof - Thirsty Girl Gift (Give Soda Pop)"] = Has("Soda Pop")
-    location_rules["Celadon Department Store Roof - Thirsty Girl Gift (Give Lemonade)"] = Has("Lemonade")
-    location_rules["Celadon Condominiums 1F - Brock Gift"] = Has("Defeat Brock")
-    location_rules["Celadon Condominiums 1F - Misty Gift"] = Has("Defeat Misty")
-    location_rules["Celadon Condominiums 1F - Erika Gift"] = Has("Defeat Erika")
-    location_rules["Celadon Condominiums 1F - Tea Woman Info"] = PostGameFame()
-    location_rules["Celadon Condominiums 2F - Bookshelf Info"] = Has("Defeat Erika")
+    location_rules["Z-Store 2F - Woman Info"] = PostGameFame()
+    location_rules["Z-Store Roof - Thirsty Girl Gift (Give Fresh Water)"] = Has("Fresh Water")
+    location_rules["Z-Store Roof - Thirsty Girl Gift (Give Soda Pop)"] = Has("Soda Pop")
+    location_rules["Z-Store Roof - Thirsty Girl Gift (Give Lemonade)"] = Has("Lemonade")
+    location_rules["West City Condominiums 1F - Yajirobe Gift"] = Has("Defeat Brock")
+    location_rules["West City Condominiums 1F - Muri Gift"] = Has("Defeat Misty")
+    location_rules["West City Condominiums 1F - Bulma Gift"] = Has("Defeat Erika")
+    location_rules["West City Condominiums 1F - Tea Woman Info"] = PostGameFame()
+    location_rules["West City Condominiums 2F - Bookshelf Info"] = Has("Defeat Erika")
 
     entrance_rules["Celadon City Cuttable Tree (Top)"] = CanCut()
     entrance_rules["Celadon City Cuttable Tree (Bottom)"] = CanCut()
     entrance_rules["Celadon City Surfing Spot"] = CanSurf()
     entrance_rules["Celadon Gym Entrance"] = (
-        Has("Celadon Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
+        Has("West City Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
     )
     entrance_rules["Rocket Hideout Entrance"] = (
         Has("Hideout Key", options=[OptionFilter(ExtraKeyItems, ExtraKeyItems.option_true)], filtered_resolution=True)
@@ -829,7 +829,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Pokemon Tower
     location_rules["Static Marowak Scaling"] = Has("Silph Scope")
-    location_rules["Pokemon Tower 7F - Hidden Item Under Mr. Fuji"] = Has("Itemfinder")
+    location_rules["God's Tower 7F - Hidden Item Under Kami"] = Has("Itemfinder")
 
     pokemon_tower_battles = [
         "Pokemon Tower 3F Land Battle", "Pokemon Tower 4F Land Battle", "Pokemon Tower 5F Land Battle",
@@ -873,9 +873,9 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Route 12 - Young Couple Gia & Jes Rematch Reward (8 Badges/Gyms)"] = (
         HasWildPokemon() & TrainerRematch(8)
     )
-    location_rules["Route 12 - Hidden Item Under Snorlax"] = Has("Itemfinder")
+    location_rules["Route 12 - Hidden Item Under ZAMASU"] = Has("Itemfinder")
     location_rules["Route 12 - Rocker Luca Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
-    location_rules["Route 12 Fishing House - Fishing Guru Gift (Show Magikarp)"] = (
+    location_rules["Route 12 Fishing House - Fishing Guru Gift (Show SANSHENRON)"] = (
         Has("SANSHENRON") & Has("Pokedex")
     )
 
@@ -924,8 +924,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     # Route 14
     location_rules["Route 14 - Bird Keeper Marlon Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
     location_rules["Route 14 - Bird Keeper Marlon Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
-    location_rules["Route 14 - Bird Keeper Benny Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
-    location_rules["Route 14 - Bird Keeper Benny Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
+    location_rules["Route 14 - Youngster Benny Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
+    location_rules["Route 14 - Youngster Benny Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
     location_rules["Route 14 - Twins Kiri & Jan Reward"] = HasWildPokemon()
     location_rules["Route 14 - Biker Lukas Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
 
@@ -950,7 +950,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Route 15 - Crush Kin Ron & Mya Rematch Reward (8 Badges/Gyms)"] = (
         HasWildPokemon() & TrainerRematch(8)
     )
-    location_rules["Route 15 Gate 2F - Oak's Aide Gift (Pokedex Progress)"] = (
+    location_rules["Route 15 Gate 2F - Brief's Aide Gift (Pokedex Progress)"] = (
         HasNPokemon(world.options.oaks_aide_route_15.value) & Has("Pokedex")
     )
 
@@ -958,10 +958,10 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Route 16
     location_rules["Route 16 - Young Couple Lea & Jed Reward"] = HasWildPokemon()
-    location_rules["Route 16 - Hidden Item Under Snorlax"] = Has("Itemfinder")
+    location_rules["Route 16 - Hidden Item Under ZAMASU"] = Has("Itemfinder")
     location_rules["Route 16 - Biker Ruben Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
     location_rules["Route 16 - Cue Ball Camron Rematch Reward (6 Badges/Gyms)"] = TrainerRematch(6)
-    location_rules["Route 16 Gate 2F - Oak's Aide Gift (Pokedex Progress)"] = (
+    location_rules["Route 16 Gate 2F - Brief's Aide Gift (Pokedex Progress)"] = (
         HasNPokemon(world.options.oaks_aide_route_16.value) & Has("Pokedex")
     )
 
@@ -990,17 +990,17 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     )
 
     # Fuchsia City
-    location_rules["Fuchsia City - Koga's Daughter Info"] = PostGameFame()
-    location_rules["Safari Zone Warden's House - Warden Gift (Return Teeth)"] = Has("Gold Teeth")
-    location_rules["Safari Zone Warden's House - Item"] = CanStrength()
-    location_rules["Safari Zone Warden's House - Bookshelf Info"] = Has("Defeat Koga")
+    location_rules["Ginger Town - Babidi's Daughter Info"] = PostGameFame()
+    location_rules["Babidi Zone Warden's House - Warden Gift (Return Teeth)"] = Has("Gold Teeth")
+    location_rules["Babidi Zone Warden's House - Item"] = CanStrength()
+    location_rules["Babidi Zone Warden's House - Bookshelf Info"] = Has("Defeat Koga")
 
     entrance_rules["Fuchsia Gym Entrance"] = (
-        Has("Fuchsia Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
+        Has("Ginger Town Key", options=[OptionFilter(GymKeys, GymKeys.option_true)], filtered_resolution=True)
     )
     entrance_rules["Fuchsia City Surfing Spot"] = CanSurf()
     entrance_rules["Safari Zone Entrance"] = (
-        Has("Safari Pass", options=[OptionFilter(ExtraKeyItems, ExtraKeyItems.option_true)], filtered_resolution=True)
+        Has("Babidi Pass", options=[OptionFilter(ExtraKeyItems, ExtraKeyItems.option_true)], filtered_resolution=True)
     )
 
     # Safari Zone
@@ -1013,9 +1013,9 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Safari Zone West Area Surfing Spot (South)"] = CanSurf()
 
     # Saffron City
-    location_rules["Saffron City - Battle Girl Info"] = PostGameFame()
+    location_rules["Satan City - Battle Girl Info"] = PostGameFame()
     location_rules["Pokemon Trainer Fan Club - Bookshelf Info"] = PostGameFame()
-    location_rules["Saffron Pokemon Center 1F - Bookshelf Info"] = Has("Defeat Sabrina")
+    location_rules["Satan City Pokemon Center 1F - Bookshelf Info"] = Has("Defeat Sabrina")
 
     # Saffron City
     entrance_rules["Silph Co. Entrance"] = (
@@ -1043,7 +1043,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
             options=[OptionFilter(RemoveSaffronRockets, RemoveSaffronRockets.option_false)],
             filtered_resolution=True
         ) &
-        Has("Saffron Key", options=[(OptionFilter(GymKeys, GymKeys.option_true))], filtered_resolution=True)
+        Has("Satan City Key", options=[(OptionFilter(GymKeys, GymKeys.option_true))], filtered_resolution=True)
     )
     entrance_rules["Saffron Pidgey House Entrance"] = (
         Has(
@@ -1194,8 +1194,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Gift Kabuto Scaling"] = Has("Dome Fossil")
     location_rules["Pokemon Lab Experiment Room - Revive Old Amber"] = Has("Old Amber")
     location_rules["Gift Aerodactyl Scaling"] = Has("Old Amber")
-    location_rules["Cinnabar Pokemon Center 1F - Bill Gift"] = Has("Defeat Blaine")
-    location_rules["Cinnabar Pokemon Center 1F - Bookshelf Info"] = PostGameFame()
+    location_rules["Roshi's Island Pokemon Center 1F - Leon Gift"] = Has("Defeat Blaine")
+    location_rules["Roshi's Island Pokemon Center 1F - Bookshelf Info"] = PostGameFame()
 
     entrance_rules["Cinnabar Island Surfing Spot"] = CanSurf()
     entrance_rules["Pokemon Mansion Entrance"] = (
@@ -1203,7 +1203,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     )
     entrance_rules["Cinnabar Gym Entrance"] = (
         Has("Secret Key", options=[OptionFilter(GymKeys, GymKeys.option_false)]) |
-        Has("Cinnabar Key", options=[OptionFilter(GymKeys, GymKeys.option_true)])
+        Has("Roshi's Island Key", options=[OptionFilter(GymKeys, GymKeys.option_true)])
     )
     entrance_rules["Follow Bill"] = Has("Defeat Blaine")
 
@@ -1282,10 +1282,10 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Victory Road 3F East Strength Boulder (Right)"] = CanStrength()
 
     # Indigo Plateau
-    location_rules["Lorelei's Room - Elite Four Lorelei Rematch Reward"] = HasE4RematchRequirements()
-    location_rules["Bruno's Room - Elite Four Bruno Rematch Reward"] = HasE4RematchRequirements()
-    location_rules["Agatha's Room - Elite Four Agatha Rematch Reward"] = HasE4RematchRequirements()
-    location_rules["Lance's Room - Elite Four Lance Rematch Reward"] = HasE4RematchRequirements()
+    location_rules["East Kai's Room - King Kai East Kai Rematch Reward"] = HasE4RematchRequirements()
+    location_rules["South Kai's Room - King Kai South Kai Rematch Reward"] = HasE4RematchRequirements()
+    location_rules["West Kai's Room - King Kai West Kai Rematch Reward"] = HasE4RematchRequirements()
+    location_rules["North Kai's Room - King Kai North Kai Rematch Reward"] = HasE4RematchRequirements()
     location_rules["Champion's Room - Champion Rematch Battle"] = HasE4RematchRequirements()
     location_rules["Champion's Room - Champion Rematch Reward"] = HasE4RematchRequirements()
     location_rules["Elite Four Rematch Scaling"] = HasE4RematchRequirements()
@@ -1341,8 +1341,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Mt. Ember
     location_rules["Mt. Ember Exterior - Eavesdrop on Team Rocket Grunts"] = Has("Deliver Meteorite")
-    location_rules["Mt. Ember Exterior - Team Rocket Grunt Reward (Left)"] = Has("Deliver Meteorite")
-    location_rules["Mt. Ember Exterior - Team Rocket Grunt Reward (Right)"] = Has("Deliver Meteorite")
+    location_rules["Mt. Ember Exterior - Team Pilaf Grunt Reward (Left)"] = Has("Deliver Meteorite")
+    location_rules["Mt. Ember Exterior - Team Pilaf Grunt Reward (Right)"] = Has("Deliver Meteorite")
     location_rules["Team Rocket Grunt 43 Scaling"] = Has("Deliver Meteorite")
     location_rules["Team Rocket Grunt 44 Scaling"] = Has("Deliver Meteorite")
     location_rules["Mt. Ember Exterior - Item Near Summit"] = CanStrength() & (CanRockSmash() | JumpUpLedge())
@@ -1441,11 +1441,11 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Rocket Warehouse Entrance"] = HasAll("Learn Goldeen Need Log", "Learn Yes Nah Chansey")
 
     # Rocket Warehouse
-    location_rules["Rocket Warehouse - Scientist Gideon Info"] = Has("Restore Pokemon Network Machine")
+    location_rules["Pilaf Warehouse - Scientist Gideon Info"] = Has("Restore Pokemon Network Machine")
 
     # Memorial Pillar
-    location_rules["Memorial Pillar - Bird Keeper Milo Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Memorial Pillar - Bird Keeper Chaz Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Memorial Pillar - Rocker Milo Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Memorial Pillar - Rocker Chaz Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Memorial Pillar - Bird Keeper Harold Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Memorial Pillar - Memorial Man Gift"] = Has("Lemonade")
 
@@ -1453,7 +1453,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Water Labyrinth - Gentleman Info"] = (
         (Has("SSJ CLFLA") | Has("SSJ2 CLFLA")) & Has("Pokedex")
     )
-    location_rules["Water Labyrinth - Pokemon Breeder Alize Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Water Labyrinth - Breeder Alize Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
 
     # Resort Gorgeous
     location_rules["Resort Gorgeous - Painter Rayna Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
@@ -1484,7 +1484,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Ruin Valley - Plateau Item"] = CanStrength()
     location_rules["Ruin Valley - Southwest Item"] = CanStrength()
     location_rules["Ruin Valley - Southeast Item"] = CanStrength()
-    location_rules["Ruin Valley - PokeManiac Hector Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Ruin Valley - Super Nerd Hector Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Ruin Valley - Ruin Maniac Larry Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
 
     entrance_rules["Ruin Valley Surfing Spot"] = CanSurf()
@@ -1514,8 +1514,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Canyon Entrance
     location_rules["Canyon Entrance - Juggler Mason Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Canyon Entrance - Pokemon Ranger Nicolas Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Canyon Entrance - Pokemon Ranger Madeline Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Canyon Entrance - Ranger Nicolas Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Canyon Entrance - Ranger Madeline Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Canyon Entrance - Young Couple Eve & Jon Reward"] = HasWildPokemon()
 
     # Sevault Canyon
@@ -1524,8 +1524,8 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
         HasWildPokemon() & TrainerRematch(8)
     )
     location_rules["Sevault Canyon - Tamer Evan Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Sevault Canyon - Pokemon Ranger Jackson Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
-    location_rules["Sevault Canyon - Pokemon Ranger Katelyn Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Sevault Canyon - Ranger Jackson Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
+    location_rules["Sevault Canyon - Ranger Katelyn Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Sevault Canyon - Crush Girl Cyndy Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
     location_rules["Sevault Canyon - Item Behind Smashable Rocks"] = CanStrength() & CanRockSmash()
     location_rules["Sevault Canyon - Cooltrainer Leroy Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
@@ -1575,9 +1575,9 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     entrance_rules["Trainer Tower Exterior Surfing Spot (North)"] = CanSurf()
 
     # Cerulean Cave
-    location_rules["Cerulean Cave 2F - East Item"] = CanRockSmash()
-    location_rules["Cerulean Cave 2F - West Item"] = CanRockSmash()
-    location_rules["Cerulean Cave 2F - Center Item"] = CanRockSmash()
+    location_rules["Imperial Cave 2F - East Item"] = CanRockSmash()
+    location_rules["Imperial Cave 2F - West Item"] = CanRockSmash()
+    location_rules["Imperial Cave 2F - Center Item"] = CanRockSmash()
 
     entrance_rules["Cerulean Cave 1F Surfing Spot (Southeast)"] = CanSurf()
     entrance_rules["Cerulean Cave 1F Surfing Spot (Northeast)"] = CanSurf()

@@ -157,12 +157,12 @@
     "tags": ["Key Items", "Card Keys", "Unique Items"]
   },
   "ITEM_CELADON_KEY": {
-    "name": "Celadon Key",
+    "name": "West City Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
   "ITEM_CERULEAN_KEY": {
-    "name": "Cerulean Key",
+    "name": "Namek Town Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -172,7 +172,7 @@
     "tags": ["Key Items", "Unique Items"]
   },
   "ITEM_CINNABAR_KEY": {
-    "name": "Cinnabar Key",
+    "name": "Roshi's Island Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -207,7 +207,7 @@
     "tags": ["Key Items", "Island Passes", "Unique Items"]
   },
   "ITEM_FUCHSIA_KEY": {
-    "name": "Fuchsia Key",
+    "name": "Ginger Town Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -307,7 +307,7 @@
     "tags": ["Key Items", "Island Passes", "Unique Items"]
   },
   "ITEM_PEWTER_KEY": {
-    "name": "Pewter Key",
+    "name": "Saiyan Realm Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -367,12 +367,12 @@
     "tags": ["Key Items", "Unique Items"]
   },
   "ITEM_SAFARI_PASS": {
-    "name": "Safari Pass",
+    "name": "Babidi Pass",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Unique Items"]
   },
   "ITEM_SAFFRON_KEY": {
-    "name": "Saffron Key",
+    "name": "Satan City Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -462,12 +462,12 @@
     "tags": ["Key Items", "Island Passes", "Unique Items"]
   },
   "ITEM_VERMILION_KEY": {
-    "name": "Vermilion Key",
+    "name": "Red Ribbon Base Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
   "ITEM_VIRIDIAN_KEY": {
-    "name": "Viridian Key",
+    "name": "Aru Village Key",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Gym Keys", "Unique Items"]
   },
@@ -483,47 +483,47 @@
   },
 
   "ITEM_FLY_PALLET": {
-    "name": "Fly Unlock (Pallet Town)",
+    "name": "Fly Unlock (Mount Paozu)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_VIRIDIAN": {
-    "name": "Fly Unlock (Viridian City)",
+    "name": "Fly Unlock (Aru Village)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_PEWTER": {
-    "name": "Fly Unlock (Pewter City)",
+    "name": "Fly Unlock (Saiyan Realm)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_CERULEAN": {
-    "name": "Fly Unlock (Cerulean City)",
+    "name": "Fly Unlock (Namek Town)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_LAVENDER": {
-    "name": "Fly Unlock (Lavender Town)",
+    "name": "Fly Unlock (Makyo Town)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_VERMILION": {
-    "name": "Fly Unlock (Vermilion City)",
+    "name": "Fly Unlock (Red Ribbon Base)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_CELADON": {
-    "name": "Fly Unlock (Celadon City)",
+    "name": "Fly Unlock (West City)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_FUCHSIA": {
-    "name": "Fly Unlock (Fuchsia City)",
+    "name": "Fly Unlock (Ginger Town)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_CINNABAR": {
-    "name": "Fly Unlock (Cinnabar Island)",
+    "name": "Fly Unlock (Roshi's Island)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },
@@ -533,7 +533,7 @@
     "tags": ["Fly Unlocks", "Unique Items"]
   },
   "ITEM_FLY_SAFFRON": {
-    "name": "Fly Unlock (Saffron City)",
+    "name": "Fly Unlock (Satan City)",
     "classification": "PROGRESSION",
     "tags": ["Fly Unlocks", "Unique Items"]
   },

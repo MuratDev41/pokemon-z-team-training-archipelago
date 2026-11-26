@@ -40,6 +40,7 @@ This writes `tracker/` and `dist/pokemon-z-team-training-tracker.zip`.
 | `verify_maps.py` | Re-checks every map of the built ROM against the Archipelago base. |
 | `render_map.py` | Renders a map from a ROM to an image, for visual checks. |
 | `species_rename.py` | Gives Archipelago the hack's species and item names. |
+| `place_rename.py` | Renames locations and Archipelago-only items after the hack's places, characters and trainers. |
 | `regen.py` | Re-derives species, moves, trainers, encounters, trades and TM data from a ROM, like the upstream extractor. |
 | `evolutions.py` | Rebuilds the evolution events from the hack's evolution table. |
 | `species_table.py` | Writes `docs/species_names.md`. |
