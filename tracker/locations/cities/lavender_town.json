@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Lavender Town",
+    "children": [
+      {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Pokémon Center",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/PC Item",
+            "name": "PC Item"
+          },
+          {
+            "ref": "Cities/Lavender Town/Balding Man Info",
+            "name": "Balding Man Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "x": 104,
+            "y": 88,
+            "force_invisibility_rules": ["$shuffle_pokemon_centers"]
+          }
+        ]
+      },
+      {
+        "name": "Volunteer Pokémon House",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Little Girl Info",
+            "name": "Little Girl Info"
+          },
+          {
+            "ref": "Cities/Lavender Town/Journal Info",
+            "name": "Journal Info"
+          },
+          {
+            "ref": "Cities/Lavender Town/Mr. Fuji Gift",
+            "name": "Mr. Fuji Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "x": 168,
+            "y": 184,
+            "force_invisibility_rules": ["$shuffle_buildings"]
+          }
+        ]
+      },
+      {
+        "name": "Poké Mart",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "x": 328,
+            "y": 248,
+            "force_invisibility_rules": ["$shuffle_marts"]
+          }
+        ]
+      },
+      {
+        "name": "Volunteer Pokemon House Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Volunteer Pokemon House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 168,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Lavender Cubone House Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Cubone House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 88,
+            "y": 264
+          }
+        ]
+      },
+      {
+        "name": "Name Rater's House Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Name Rater's House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 168,
+            "y": 264
+          }
+        ]
+      },
+      {
+        "name": "Pokemon Tower Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Pokemon Tower Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 296,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Lavender Poke Mart Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Poke Mart Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 328,
+            "y": 248
+          }
+        ]
+      },
+      {
+        "name": "Lavender Pokemon Center Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Pokemon Center Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_town",
+            "shape": "diamond",
+            "x": 104,
+            "y": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lavender Pokémon Center 1F",
+    "children": [
+      {
+        "name": "PC",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/PC Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_pokemon_center_1f",
+            "x": 184,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Balding Man",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Balding Man Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_pokemon_center_1f",
+            "x": 232,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Lavender Pokemon Center 1F Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Pokemon Center 1F Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_pokemon_center_1f",
+            "shape": "diamond",
+            "x": 120,
+            "y": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Volunteer Pokémon House",
+    "children": [
+      {
+        "name": "Little Girl",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Little Girl Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "volunteer_pokemon_house",
+            "x": 120,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Journal",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Journal Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "volunteer_pokemon_house",
+            "x": 88,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Mr. Fuji",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Mr. Fuji Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "volunteer_pokemon_house",
+            "x": 56,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Volunteer Pokemon House Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Volunteer Pokemon House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "volunteer_pokemon_house",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lavender Mart",
+    "children": [
+      {
+        "name": "Poké Mart Clerk",
+        "sections": [
+          {
+            "ref": "Cities/Lavender Town/Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_mart",
+            "x": 40,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Lavender Poke Mart Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Poke Mart Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_mart",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lavender Cubone House",
+    "children": [
+      {
+        "name": "Lavender Cubone House Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Lavender Cubone House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lavender_cubone_house",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Name Rater's House",
+    "children": [
+      {
+        "name": "Name Rater's House Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Lavender Town/Name Rater's House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "name_raters_house",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  }
+]

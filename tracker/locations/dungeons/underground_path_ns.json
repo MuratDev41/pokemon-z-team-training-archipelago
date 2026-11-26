@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Underground Path 1F North",
+    "children": [
+      {
+        "name": "Underground Path 1F North Exit",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path 1F North Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_entrance",
+            "shape": "diamond",
+            "x": 104,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Underground Path 1F North Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path 1F North Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_entrance",
+            "shape": "diamond",
+            "x": 112,
+            "y": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Underground Path 1F South",
+    "children": [
+      {
+        "name": "Underground Path 1F South Exit",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path 1F South Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_south_entrance",
+            "shape": "diamond",
+            "x": 104,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Underground Path 1F South Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path 1F South Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_south_entrance",
+            "shape": "diamond",
+            "x": 112,
+            "y": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Underground Path North-South Tunnel",
+    "children": [
+      {
+        "name": "Little Girl",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Little Girl Trade Pokémon",
+            "name": "Trade Pokémon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_entrance",
+            "x": 88,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Farthest North Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Farthest North Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_north",
+            "x": 88,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Far North Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Far North Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_north",
+            "x": 56,
+            "y": 248
+          }
+        ]
+      },
+      {
+        "name": "North Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/North Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_north",
+            "x": 24,
+            "y": 392
+          }
+        ]
+      },
+      {
+        "name": "Center Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Center Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_north",
+            "x": 88,
+            "y": 488
+          }
+        ]
+      },
+      {
+        "name": "South Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/South Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_south",
+            "x": 56,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Far South Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Far South Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_south",
+            "x": 104,
+            "y": 344
+          }
+        ]
+      },
+      {
+        "name": "Farthest South Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path North-South Tunnel/Farthest South Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_south",
+            "x": 40,
+            "y": 408
+          }
+        ]
+      },
+      {
+        "name": "Underground Path B1F North Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path B1F North Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_north",
+            "shape": "diamond",
+            "x": 80,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Underground Path B1F South Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path North-South Tunnel/Underground Path B1F South Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_north_south_tunnel_south",
+            "shape": "diamond",
+            "x": 48,
+            "y": 456
+          }
+        ]
+      }
+    ]
+  }
+]

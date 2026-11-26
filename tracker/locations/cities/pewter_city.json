@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Pewter City",
+    "children": [
+      {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Pokémon Center",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/PC Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 280,
+            "y": 408,
+            "force_invisibility_rules": ["$shuffle_pokemon_centers"]
+          }
+        ]
+      },
+      {
+        "name": "Gym Sign",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Gym Sign Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 184,
+            "y": 264
+          }
+        ]
+      },
+      {
+        "name": "Fat Man",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Fat Man Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 344,
+            "y": 456
+          }
+        ]
+      },
+      {
+        "name": "Poké Mart",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 456,
+            "y": 296,
+            "force_invisibility_rules": ["$shuffle_marts"]
+          }
+        ]
+      },
+      {
+        "name": "Pewter Gym",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Camper Liam Reward",
+            "name": "Camper Liam Reward"
+          },
+          {
+            "ref": "Cities/Pewter City/Defeat Brock (Event)",
+            "name": "Defeat Brock (Event)"
+          },
+          {
+            "ref": "Cities/Pewter City/Leader Brock Reward",
+            "name": "Leader Brock Reward"
+          },
+          {
+            "ref": "Cities/Pewter City/Brock Info",
+            "name": "Brock Info"
+          },
+          {
+            "ref": "Cities/Pewter City/Pewter Gym Prize",
+            "name": "Pewter Gym Prize"
+          },
+          {
+            "ref": "Cities/Pewter City/Brock TM",
+            "name": "Brock TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 248,
+            "y": 264,
+            "force_invisibility_rules": ["$shuffle_gyms"]
+          }
+        ]
+      },
+      {
+        "name": "Northwest Hidden Item",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Northwest Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 104,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum (West)",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Pewter Museum Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 280,
+            "y": 112,
+            "force_invisibility_rules": ["$shuffle_buildings"]
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum (East)",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Scientist Gift",
+            "name": "Scientist Gift"
+          },
+          {
+            "ref": "Cities/Pewter City/Bookshelf Info",
+            "name": "Bookshelf Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 408,
+            "y": 72,
+            "force_invisibility_rules": ["$shuffle_buildings"]
+          }
+        ]
+      },
+      {
+        "name": "Oak's Aide",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Gift from Mom"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "x": 744,
+            "y": 328
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum West Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum West Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 280,
+            "y": 112
+          }
+        ]
+      },
+      {
+        "name": "Pewter Nidoran House Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Nidoran House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 536,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Pewter Info House Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Info House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 152,
+            "y": 488
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum East Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum East Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 408,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Pewter Gym Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Gym Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 248,
+            "y": 264
+          }
+        ]
+      },
+      {
+        "name": "Pewter Poke Mart Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Poke Mart Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 456,
+            "y": 296
+          }
+        ]
+      },
+      {
+        "name": "Pewter Pokemon Center Entrance",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Pokemon Center Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_city",
+            "shape": "diamond",
+            "x": 280,
+            "y": 408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Pokémon Center 1F",
+    "children": [
+      {
+        "name": "PC",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/PC Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_pokemon_center_1f",
+            "x": 184,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Pewter Pokemon Center 1F Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Pokemon Center 1F Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_pokemon_center_1f",
+            "shape": "diamond",
+            "x": 120,
+            "y": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Museum 1F",
+    "children": [
+      {
+        "name": "Scientist",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Scientist Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_1f",
+            "x": 344,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Bookshelf",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Bookshelf Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_1f",
+            "x": 432,
+            "y": 32
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum 1F West Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum 1F West Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_1f",
+            "shape": "diamond",
+            "x": 232,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum 1F East Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum 1F East Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_1f",
+            "shape": "diamond",
+            "x": 344,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum 1F Stairs",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum 1F Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_1f",
+            "shape": "diamond",
+            "x": 144,
+            "y": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Museum 2F",
+    "children": [
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Pewter Museum Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_2f",
+            "x": 296,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Pewter Museum 2F Stairs",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Museum 2F Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_museum_2f",
+            "shape": "diamond",
+            "x": 176,
+            "y": 140
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Gym",
+    "children": [
+      {
+        "name": "Camper Liam",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Camper Liam Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_gym",
+            "x": 56,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Brock",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Defeat Brock (Event)",
+            "name": "Defeat Brock (Event)"
+          },
+          {
+            "ref": "Cities/Pewter City/Leader Brock Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Pewter City/Brock Info",
+            "name": "Info"
+          },
+          {
+            "ref": "Cities/Pewter City/Pewter Gym Prize",
+            "name": "Gym Prize"
+          },
+          {
+            "ref": "Cities/Pewter City/Brock TM",
+            "name": "TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_gym",
+            "x": 104,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Pewter Gym Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Gym Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_gym",
+            "shape":"diamond",
+            "x": 104,
+            "y": 232
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Mart",
+    "children": [
+      {
+        "name": "Poké Mart Clerk",
+        "sections": [
+          {
+            "ref": "Cities/Pewter City/Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_mart",
+            "x": 40,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Pewter Poke Mart Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Poke Mart Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_mart",
+            "shape":"diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Nidoran House",
+    "children": [
+      {
+        "name": "Pewter Nidoran House Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Nidoran House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_nidoran_house",
+            "shape":"diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pewter Info House",
+    "children": [
+      {
+        "name": "Pewter Info House Exit",
+        "sections": [
+          {
+            "ref": "City Entrances/Pewter City/Pewter Info House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pewter_info_house",
+            "shape":"diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  }
+]

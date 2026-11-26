@@ -1,0 +1,40 @@
+name: Player{number}
+game: Pokemon Z Team Training
+description: Pokemon Z Team Training - full sanity (every check category on)
+
+Pokemon Z Team Training:
+  goal: champion
+  skip_intro: true
+  kanto_only: false            # include the Sevii Islands
+  post_goal_locations: true    # post-game checks count too
+
+  # ---- every location category ----
+  shuffle_badges: true
+  shuffle_hidden: all          # recurring hidden items too
+  extra_key_items: true
+  shopsanity: true
+  shop_slots: all
+  vending_machines: true
+  prizesanity: true            # Game Corner prizes
+  kanto_trainersanity: all     # 357 trainers
+  sevii_trainersanity: all     # 99 trainers
+  rematchsanity: true
+  dexsanity: all               # all 386 Pokedex entries (in game: the DBZ roster)
+  famesanity: true
+  pokemon_request_locations: true
+  shuffle_fly_unlocks: all
+  shuffle_pokedex: shuffle
+  shuffle_running_shoes: shuffle
+  shuffle_berry_pouch: true
+  shuffle_tm_case: true
+  shuffle_jumping_shoes: true
+
+  # ---- split key items for more to find ----
+  card_key: progressive
+  island_passes: progressive_split
+  fishing_rods: progressive
+  split_teas: true
+  gym_keys: true
+
+  remote_items: false
+  death_link: false

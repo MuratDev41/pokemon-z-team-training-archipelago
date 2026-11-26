@@ -1,0 +1,21 @@
+name: Player{number}
+game: Pokemon Z Team Training
+description: Pokemon Z Team Training (DBZ FireRed hack) for Archipelago
+
+Pokemon Z Team Training:
+  # Become the Champion
+  goal: champion
+
+  # Faster start: skip the opening speech and pick your starter right away
+  skip_intro: true
+
+  # Keep the hack's own starters, wild fighters and trainer teams
+  # (other values: match_base_stats, match_type, match_base_stats_and_type, completely_random)
+  starters: vanilla
+  wild_pokemon: vanilla
+  trainers: vanilla
+
+  # false: your own items are given in game directly; true: they come from the server
+  remote_items: false
+
+  death_link: false

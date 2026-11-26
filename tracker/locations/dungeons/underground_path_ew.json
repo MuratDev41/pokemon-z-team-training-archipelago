@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Underground Path 1F East",
+    "children": [
+      {
+        "name": "Underground Path 1F East Exit",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path 1F East Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_entrance",
+            "shape": "diamond",
+            "x": 104,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Underground Path 1F East Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path 1F East Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_entrance",
+            "shape": "diamond",
+            "x": 112,
+            "y": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Underground Path 1F West",
+    "children": [
+      {
+        "name": "Underground Path 1F West Exit",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path 1F West Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_west_entrance",
+            "shape": "diamond",
+            "x": 104,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Underground Path 1F West Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path 1F West Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_west_entrance",
+            "shape": "diamond",
+            "x": 112,
+            "y": 76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Underground Path East-West Tunnel",
+    "children": [
+      {
+        "name": "Farthest East Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/Farthest East Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_east",
+            "x": 488,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Far East Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/Far East Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_east",
+            "x": 360,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "East Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/East Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_east",
+            "x": 248,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Center Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/Center Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_east",
+            "x": 88,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "West Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/West Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_west",
+            "x": 504,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Far West Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/Far West Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_west",
+            "x": 264,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Farthest West Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Underground Path East-West Tunnel/Farthest West Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_west",
+            "x": 120,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Underground Path B1F East Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path B1F East Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_east",
+            "shape": "diamond",
+            "x": 592,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Underground Path B1F West Stairs",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Underground Path East-West Tunnel/Underground Path B1F West Stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground_path_east_west_tunnel_west",
+            "shape": "diamond",
+            "x": 48,
+            "y": 72
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Route 22",
+    "children": [
+      {
+        "name": "Encounters",
+        "sections": [
+          {
+            "ref": "Routes/Route 22/Land Encounters",
+            "name": "Land Encounters"
+          },
+          {
+            "ref": "Routes/Route 22/Surf Encounters",
+            "name": "Surf Encounters"
+          },
+          {
+            "ref": "Routes/Route 22/Old Rod Encounters",
+            "name": "Old Rod Encounters"
+          },
+          {
+            "ref": "Routes/Route 22/Good Rod Encounters",
+            "name": "Good Rod Encounters"
+          },
+          {
+            "ref": "Routes/Route 22/Super Rod Encounters",
+            "name": "Super Rod Encounters"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_22",
+            "x": 752,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Rival",
+        "sections": [
+          {
+            "ref": "Routes/Route 22/Defeat Rival (Event)",
+            "name": "Defeat Rival (Event)"
+          },
+          {
+            "ref": "Routes/Route 22/Early Rival Reward",
+            "name": "Early Reward"
+          },
+          {
+            "ref": "Routes/Route 22/Late Rival Reward",
+            "name": "Late Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_22",
+            "x": 408,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Route 22 Gate South Entrance",
+        "sections": [
+          {
+            "ref": "Route Entrances/Route 22/Route 22 Gate South Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_22",
+            "shape": "diamond",
+            "x": 136,
+            "y": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Route 22 Gate",
+    "children": [
+      {
+        "name": "Route 22 Gate North Exit",
+        "sections": [
+          {
+            "ref": "Route Entrances/Route 22/Route 22 Gate North Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_22_gate",
+            "shape": "diamond",
+            "x": 120,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Route 22 Gate South Exit",
+        "sections": [
+          {
+            "ref": "Route Entrances/Route 22/Route 22 Gate South Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_22_gate",
+            "shape": "diamond",
+            "x": 120,
+            "y": 168
+          }
+        ]
+      }
+    ]
+  }
+]

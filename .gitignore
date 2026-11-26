@@ -1,0 +1,12 @@
+# never publish ROMs, saves or build output
+*.gba
+*.gbc
+*.nds
+*.sav
+*.state
+*.apsave
+build/
+dist/
+test/
+__pycache__/
+*.pyc

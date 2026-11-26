@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.bps binary
+*.bsdiff4 binary
+*.bin binary
+*.png binary
+*.pal binary
+*.zip binary

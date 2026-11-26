@@ -1,0 +1,28 @@
+{
+  "name": "Pokemon Z Team Training Tracker",
+  "game_name": "Pokemon Z Team Training",
+  "package_version": "1.0.0",
+  "package_uid": "pokemon_z_team_training",
+  "author": "Vyneras, MuratDeveloper",
+  "min_poptracker_version": "0.35.4",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker (Horizontal)",
+      "flags": [
+        "ap"
+      ]
+    },
+    "standard_vertical": {
+      "display_name": "Map Tracker (Vertical)",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_items_only": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

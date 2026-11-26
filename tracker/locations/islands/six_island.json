@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Six Island Town",
+    "children": [
+      {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Pokémon Center",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/PC Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "x": 184,
+            "y": 184,
+            "force_invisibility_rules": ["$shuffle_pokemon_centers"]
+          }
+        ]
+      },
+      {
+        "name": "Poké Mart",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/Old Woman Info",
+            "name": "Old Woman Info"
+          },
+          {
+            "ref": "Islands/Six Island Town/Shop Items",
+            "name": "Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "x": 328,
+            "y": 184,
+            "force_invisibility_rules": ["$shuffle_marts"]
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item Behind Pokémon Center",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/Hidden Item Behind Pokémon Center",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "x": 152,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Six Island Old Man's House Entrance",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Old Man's House Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "shape": "diamond",
+            "x": 264,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "Six Island Harbor Entrance",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Harbor Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "shape": "diamond",
+            "x": 184,
+            "y": 376
+          }
+        ]
+      },
+      {
+        "name": "Six Island Poke Mart Entrance",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Poke Mart Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "shape": "diamond",
+            "x": 328,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Six Island Pokemon Center Entrance",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Pokemon Center Entrance"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island",
+            "shape": "diamond",
+            "x": 184,
+            "y": 184
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Six Island Pokémon Center 1F",
+    "children": [
+      {
+        "name": "PC",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/PC Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_pokemon_center_1f",
+            "x": 184,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Six Island Pokemon Center 1F Exit",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Pokemon Center 1F Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_pokemon_center_1f",
+            "shape": "diamond",
+            "x": 120,
+            "y": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Six Island Mart",
+    "children": [
+      {
+        "name": "Old Woman",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/Old Woman Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_mart",
+            "x": 136,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Poké Mart Clerk",
+        "sections": [
+          {
+            "ref": "Islands/Six Island Town/Shop Items"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_mart",
+            "x": 40,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Six Island Poke Mart Exit",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Poke Mart Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_mart",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Six Island Old Man's House",
+    "children": [
+      {
+        "name": "Six Island Old Man's House Exit",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Old Man's House Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_old_mans_house",
+            "shape": "diamond",
+            "x": 72,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Six Island Harbor",
+    "children": [
+      {
+        "name": "Six Island Harbor Exit",
+        "sections": [
+          {
+            "ref": "Island Entrances/Six Island Town/Six Island Harbor Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "six_island_harbor",
+            "shape": "diamond",
+            "x": 136,
+            "y": 40
+          }
+        ]
+      }
+    ]
+  }
+]

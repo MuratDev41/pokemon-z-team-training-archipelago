@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Altering Cave",
+    "children": [
+      {
+        "name": "Encounters",
+        "sections": [
+          {
+            "ref": "Dungeons/Altering Cave/Land Encounters",
+            "name": "Land Encounters"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "altering_cave",
+            "x": 496,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Altering Cave Exit",
+        "sections": [
+          {
+            "ref": "Dungeon Entrances/Altering Cave/Altering Cave Exit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "altering_cave",
+            "shape": "diamond",
+            "x": 296,
+            "y": 376
+          }
+        ]
+      }
+    ]
+  }
+]

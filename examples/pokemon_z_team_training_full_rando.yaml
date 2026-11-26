@@ -1,0 +1,76 @@
+name: Player{number}
+game: Pokemon Z Team Training
+description: Pokemon Z Team Training - full randomizer + full sanity
+
+Pokemon Z Team Training:
+  goal: champion
+  skip_intro: true
+  kanto_only: false            # include the Sevii Islands
+  post_goal_locations: true
+
+  # ================= FULL SANITY =================
+  shuffle_badges: true
+  shuffle_hidden: all
+  extra_key_items: true
+  shopsanity: true
+  shop_slots: all
+  vending_machines: true
+  prizesanity: true
+  kanto_trainersanity: all     # 357 trainers
+  sevii_trainersanity: all     # 99 trainers
+  rematchsanity: true
+  dexsanity: all
+  famesanity: true
+  pokemon_request_locations: true
+  shuffle_fly_unlocks: all
+  shuffle_pokedex: shuffle
+  shuffle_running_shoes: shuffle
+  shuffle_berry_pouch: true
+  shuffle_tm_case: true
+  shuffle_jumping_shoes: true
+  card_key: progressive
+  island_passes: progressive_split
+  fishing_rods: progressive
+  split_teas: true
+  gym_keys: true
+
+  # ================= FULL RANDO: fighters =================
+  starters: completely_random
+  wild_pokemon: completely_random
+  wild_pokemon_groups: none
+  trainers: completely_random
+  legendary_pokemon: completely_random
+  misc_pokemon: completely_random       # gifts, trades, static encounters
+  types: completely_random
+  abilities: completely_random
+  base_stats: keep_bst                  # shuffles stats but keeps each fighter's total
+  moves: randomized
+  move_types: completely_random
+  damage_categories: completely_random
+  physical_special_split: true
+  hm_compatibility: 75                  # % chance per fighter (logic still guarantees HM users)
+  tm_tutor_compatibility: 50
+  tm_tutor_moves: true
+  level_scaling: spheres_and_distance   # keeps difficulty sane with everything shuffled
+
+  # ================= FULL RANDO: world =================
+  random_starting_town: true
+  shuffle_pokemon_centers: true
+  shuffle_gyms: true
+  shuffle_marts: true
+  shuffle_harbors: true
+  shuffle_buildings: full
+  shuffle_dungeons: full
+  shuffle_interiors: true
+  shuffle_warp_tiles: full
+  shuffle_dropdowns: full
+  randomize_fly_destinations: completely_random
+  free_fly_location: true
+  town_map_fly_location: true
+
+  # ================= extras =================
+  randomize_music: true
+  randomize_fanfares: true
+
+  remote_items: false
+  death_link: false
