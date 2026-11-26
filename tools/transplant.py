@@ -31,7 +31,9 @@ SKIP_SUBSTR = ("EventScript", "MapScripts", "Movement", "OnTransition", "OnFrame
                # the hack renumbers the national dex; Archipelago keeps the original numbers
                "sSpeciesToNationalPokedexNum",
                # dex texts are repacked by the hack; pokedex_entries() copies each species' text instead
-               "PokedexText")
+               "PokedexText",
+               # tileset data: General is merged per metatile and secondaries are copied (pass_maps)
+               "gTilesetTiles_", "gTilesetPalettes_", "gMetatiles_")
 
 
 # pointer-free tables whose bytes merely look like pointers
@@ -78,9 +80,6 @@ class Transplanter:
             seen.add(o)
             if any(k in n for k in SKIP_SUBSTR):
                 self.stat("inplace_skip_policy")
-                continue
-            if self.tileset_symbol_unsafe(n):
-                self.stat("inplace_skip_rebuilt_tileset")
                 continue
             if o < CODE_END and "Text" not in n:
                 # code / script region: only text is carried over generically
@@ -364,9 +363,8 @@ class Transplanter:
         for idx, (o, s, n) in enumerate(c.vlist):
             if not n.startswith("gTileset_") or s != 24 or not is_vanilla(o):
                 continue
-            if self.tileset_symbol_unsafe(n):
-                self.stat("tileset_skip_rebuilt")
-                continue
+            if c.V[o + 1]:
+                continue                                      # secondary: handled by pass_maps
             z, v = c.Z[o:o + 24], c.V[o:o + 24]
             if z == v:
                 continue
@@ -389,108 +387,90 @@ class Transplanter:
                 c.w32(ao + fo, np)
                 self.stat("tileset_ptrs")
 
-    def metatile_attr(self, rom, layout_off, mid):
-        prim = u32(rom, layout_off + 16) - ROM
-        sec = u32(rom, layout_off + 20) - ROM
-        if mid < 0x280:
-            ts, i = prim, mid
-        else:
-            ts, i = sec, mid - 0x280
-        attrs = u32(rom, ts + 20) - ROM
-        return u32(rom, attrs + 4 * i)
-
-    def analyze_layouts(self):
-        """Decide, per map layout, which edited regions can be taken. A region is taken only when collision,
-        elevation and metatile behaviour stay as in the AP base. A map the hack rebuilt (any region refused)
-        makes its secondary tileset 'unsafe': that tileset keeps vanilla graphics, since the hack redrew it
-        for a layout Archipelago does not use."""
-        if hasattr(self, "layout_plan"):
-            return
+    # ------------------------------------------------------------------
+    # Maps: the hack's layouts and tilesets where Archipelago's reachability is provably unchanged (mapport.py)
+    # ------------------------------------------------------------------
+    def tileset_copy(self, name):
+        """A separate copy of the hack's version of a secondary tileset, so maps can switch one by one."""
         c = self.c
-        self.layout_plan = []
-        self.unsafe_tilesets = set()
-        for idx, (o, s, n) in enumerate(c.vlist):
-            if not n.endswith("_Layout") or s not in (0, 28) or not is_vanilla(o):
-                continue
-            m = c.map_entry(idx)
-            if not m:
-                continue
-            ao = m[0]
-            w, h = u32(c.V, o), u32(c.V, o + 4)
-            vb = u32(c.V, o + 12) - ROM
-            zb = u32(c.Z, o + 12) - ROM
-            ab = u32(c.A0, ao + 12) - ROM
-            sec = c.vfind(u32(c.V, o + 20) - ROM)
-            sec_name = sec[0][len("gTileset_"):] if sec and sec[0].startswith("gTileset_") else None
-            if zb != vb or u32(c.A0, ao) != w or u32(c.A0, ao + 4) != h:
-                self.stat("layout_struct_changed_skip")
-                if sec_name:
-                    self.unsafe_tilesets.add(sec_name)
-                continue
-            if c.Z[vb:vb + 2 * w * h] == c.V[vb:vb + 2 * w * h]:
-                continue
-            changed = {}
-            for k in range(w * h):
-                zv, vv = u16(c.Z, vb + 2 * k), u16(c.V, vb + 2 * k)
-                if zv == vv:
-                    continue
-                av = u16(c.A0, ab + 2 * k)
-                ok = av == vv and (zv & 0xFC00) == (vv & 0xFC00)
-                if ok:
-                    try:
-                        ok = self.metatile_attr(c.A0, ao, zv & 0x3FF) == self.metatile_attr(c.A0, ao, vv & 0x3FF)
-                    except Exception:
-                        ok = False
-                changed[k] = ok
-            # all-or-nothing per 8-connected region of edited blocks, so nothing is left half-drawn
-            seen = set()
-            comps = []
-            for k0 in changed:
-                if k0 in seen:
-                    continue
-                comp, stack = [], [k0]
-                seen.add(k0)
-                while stack:
-                    k = stack.pop()
-                    comp.append(k)
-                    x, y = k % w, k // w
-                    for dx in (-1, 0, 1):
-                        for dy in (-1, 0, 1):
-                            nx, ny = x + dx, y + dy
-                            nk = ny * w + nx
-                            if 0 <= nx < w and 0 <= ny < h and nk in changed and nk not in seen:
-                                seen.add(nk)
-                                stack.append(nk)
-                comps.append((all(changed[k] for k in comp), comp))
-            if any(not ok for ok, _ in comps) and sec_name:
-                self.unsafe_tilesets.add(sec_name)
-            self.layout_plan.append((n, ab, vb, sec_name, comps))
+        key = ("tileset", name)
+        if key in c.copied:
+            return ROM + c.copied[key]
+        zt, vt, at = c.va("gTileset_" + name), c.va("gTileset_" + name), c.aa("gTileset_" + name)
 
-    def tileset_symbol_unsafe(self, n):
-        self.analyze_layouts()
-        for prefix in ("gTilesetTiles_", "gTilesetPalettes_", "gMetatiles_", "gTileset_"):
-            if n.startswith(prefix) and n[len(prefix):] in self.unsafe_tilesets:
-                return True
-        return False
+        def size_of(vptr):
+            f = c.vfind(vptr - ROM)
+            if not f or not f[2] or f[3]:
+                raise ValueError("cannot size %s data at %x" % (name, vptr))
+            return f[2]
 
-    def pass_layouts(self):
+        z, v = c.Z[zt:zt + 24], c.V[vt:vt + 24]
+        tiles = u32(z, 4)
+        tiles_np = c.lz(tiles) if z[0] else c.raw(tiles, size_of(u32(v, 4)))
+        pals_np = c.raw(u32(z, 8), size_of(u32(v, 8)))
+        meta_np = c.raw(u32(z, 12), size_of(u32(v, 12)))
+        attr_np = c.raw(u32(z, 20), size_of(u32(v, 20)))
+        dst = c.alloc(24)
+        c.copied[key] = dst
+        c.copy(dst, zt, 4)                                   # isCompressed, isSecondary
+        for off, val in ((4, tiles_np), (8, pals_np), (12, meta_np), (20, attr_np)):
+            c.w32(dst + off, val)
+        c.w32(dst + 16, u32(c.A0, at + 16))                  # Archipelago's tile animation callback
+        self.stat("map_tileset_copies")
+        return ROM + dst
+
+    def merge_general(self):
+        """The hack's changed metatiles in the shared General tileset (Archipelago changes different ones)."""
         c = self.c
-        self.analyze_layouts()
-        for n, ab, vb, sec_name, comps in self.layout_plan:
-            took = refused = 0
-            if sec_name in self.unsafe_tilesets:
-                refused = sum(len(comp) for _, comp in comps)
-            else:
-                for ok, comp in comps:
-                    if ok:
-                        for k in comp:
-                            c.copy(ab + 2 * k, vb + 2 * k, 2)
-                        took += len(comp)
-                    else:
-                        refused += len(comp)
-            self.stat("layout_blocks_taken", took)
-            self.stat("layout_blocks_refused", refused)
-            self.stat("layouts")
+        for sym, entry in (("gMetatiles_General", 16), ("gMetatileAttributes_General", 4)):
+            vo, s = c.vsym[sym]
+            ao = c.aa(sym)
+            for i in range(s // entry):
+                z = c.Z[vo + entry * i:vo + entry * (i + 1)]
+                v = c.V[vo + entry * i:vo + entry * (i + 1)]
+                a = c.A0[ao + entry * i:ao + entry * (i + 1)]
+                if z != v:
+                    assert a == v, "%s %d edited by both" % (sym, i)
+                    c.copy(ao + entry * i, vo + entry * i, entry)
+                    self.stat("general_" + sym.split("_")[0][1:])
+
+    def pass_maps(self):
+        from mapport import MapPorter, HACK_LAYOUT, HACK_MERGED, HACK_TILESET
+        c = self.c
+        self.merge_general()
+        porter = MapPorter(c)
+        decisions, self.map_rejections = porter.solve()
+        self.map_porter, self.map_decisions = porter, decisions
+        for a_lay, choice in decisions.items():
+            info = porter.layouts[a_lay]
+            ao = a_lay - ROM
+            if choice in (HACK_LAYOUT, HACK_MERGED, HACK_TILESET) and porter.tileset_changed(info["sec"]):
+                c.w32(ao + 20, self.tileset_copy(info["sec"]))
+            if choice in (HACK_LAYOUT, HACK_MERGED):
+                ab = u32(c.A0, ao + 12) - ROM
+                zb = u32(c.Z, info["z_lay"] - ROM + 12) - ROM
+                w, h = u32(c.A0, ao), u32(c.A0, ao + 4)
+                take = [True] * (w * h)
+                if choice == HACK_MERGED:
+                    _, _, ablk = info["a"]
+                    _, _, vblk = info["v"]
+                    take = [a == v for a, v in zip(ablk, vblk)]
+                k = 0
+                while k < w * h:                              # copy runs of taken blocks
+                    if not take[k]:
+                        k += 1
+                        continue
+                    j = k
+                    while j < w * h and take[j]:
+                        j += 1
+                    c.copy(ab + 2 * k, zb + 2 * k, 2 * (j - k))
+                    k = j
+                # border blocks (what you see past the map edge)
+                zl = info["z_lay"] - ROM
+                if c.Z[zl + 24:zl + 26] == c.A0[ao + 24:ao + 26]:
+                    bw, bh = c.A0[ao + 24], c.A0[ao + 25]
+                    c.copy(u32(c.A0, ao + 8) - ROM, u32(c.Z, zl + 8) - ROM, 2 * bw * bh)
+            self.stat("maps_" + choice)
 
     # ------------------------------------------------------------------
     # Misc graphics tables

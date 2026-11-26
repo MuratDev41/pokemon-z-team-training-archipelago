@@ -1,3 +1,10 @@
+# Pokemon Z Team Training 1.2.0
+
+* The hack's map designs: 38 redesigned maps (gyms, Elite Four, Lavender Town, Namek Town/Cerulean, Saffron,
+  One/Four Island, Routes 4, 5, 8, 20, 21, 23...) and the hack's tileset art on 54 more. Each swap is verified to
+  keep every Archipelago location, warp, connection and encounter reachable exactly as before.
+* The hack's changes to the shared outdoor tileset are merged with Archipelago's.
+
 # Pokemon Z Team Training 1.1.0
 
 * Archipelago now uses the hack's species names: hints, Pokédex locations, static encounters and YAML species lists

@@ -26,11 +26,15 @@ when you open your `.apztt` patch file.
 
 Archipelago's logic is built around FireRed's maps, events and scripts, so these keep the Archipelago version:
 
-- **Maps, events and story.** The hack rebuilt many maps (new collision, warps and buildings) and scripted its own
-  story. Using them would change where items are and what blocks the way, so you walk the Archipelago version of Kanto
-  and the Sevii Islands, with all of its locations, roadblock options and entrance randomization. Edited map areas are
-  taken from the hack wherever collision and tile behaviour are unchanged. Towns the hack rebuilt keep FireRed's
-  tileset art, because the hack redrew those tilesets for its own layouts and they look broken on FireRed's.
+- **Story and events.** The hack scripts its own story (who gives what, what blocks the way). Archipelago's
+  locations, roadblock options and entrance randomization run on its own scripts, so those stay.
+- **Maps.** The hack's map designs are used wherever they provably keep Archipelago's logic: 38 redesigned maps
+  (all gyms, the Elite Four, Lavender Town, Namek Town/Cerulean, Saffron, One and Four Island, Routes 4, 5, 8, 20,
+  21 and 23, and more) and the hack's art on 54 more. Every swapped map is checked by the build: each warp, item,
+  NPC, sign, trigger, map edge and grass/surf/fishing spot must be reachable exactly as before (ledges, Surf,
+  Waterfall and elevation included), and tiles that scripts change at runtime must keep their behaviour. The 21
+  redesigned maps that fail keep Archipelago's version (for example Pallet Town, where the hack moved the
+  player's house door).
 - **Shop, prize and gift scripts** are Archipelago's, which fills them with items.
 - **Pokédex numbering** stays FireRed's. The hack renumbers the dex and even gives five species the same numbers as
   Gen 3 Pokémon, which would break Pokédex checks. Every character still gets its own Pokédex entry.

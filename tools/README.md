@@ -34,12 +34,19 @@ This writes `tracker/` and `dist/pokemon-z-team-training-tracker.zip`.
 | `transplant.py` | The transplant passes (in-place data, species, moves, trainers, items, graphics, tilesets, layouts, animations, music, code literals). |
 | `core.py` | ROM loading, symbol mapping between the vanilla and Archipelago layouts, allocator, plan writer. |
 | `anim.py` | Battle animation script parser. |
+| `battlescript.py`, `battlescript_table.py` | Battle script parser and command table (move effects). |
+| `mapcheck.py` | Movement/reachability model for maps (collision, elevation, ledges, Surf, Waterfall, special tiles, encounters). |
+| `mapport.py` | Decides which of the hack's map layouts and tilesets keep Archipelago's reachability. |
+| `verify_maps.py` | Re-checks every map of the built ROM against the Archipelago base. |
+| `render_map.py` | Renders a map from a ROM to an image, for visual checks. |
+| `species_rename.py` | Gives Archipelago the hack's species and item names. |
 | `regen.py` | Re-derives species, moves, trainers, encounters, trades and TM data from a ROM, like the upstream extractor. |
 | `evolutions.py` | Rebuilds the evolution events from the hack's evolution table. |
 | `species_table.py` | Writes `docs/species_names.md`. |
 | `align.py` | Derives `data/shipped_syms.json` from a local build of the Archipelago decomp. Only needed when the upstream base patch changes. |
 | `check_regen.py` | Checks that `regen.py` reproduces the upstream data from the untouched Archipelago ROM. |
 | `check_mapping.py` | Checks the vanilla → Archipelago symbol mapping. |
+| `data/setmetatile.json` | Metatiles that scripts/field code swap at runtime, per tileset (from the decomp). |
 | `patch_apztt.py` | Patches a `.apztt` outside Archipelago, for testing. |
 | `testing/boot_smoke.lua` | BizHawk script: mashes through the intro and saves screenshots (`ZT_OUT` env var = output prefix). |
 | `bps.py`, `gba_text.py`, `paths.py` | BPS applier, GBA text decoder, repository paths. |
