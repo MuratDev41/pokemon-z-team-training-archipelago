@@ -559,6 +559,8 @@ class Transplanter:
                         continue
                     target = c.map_ptr(vw)
                     hits = self.find_literal(af, asz, target) if target else []
+                    if len(hits) > 1 and af + (w - vo) in hits:
+                        hits = [af + (w - vo)]      # same position as in vanilla: AP compiled it identically
                     if len(hits) != 1:
                         c.log.append("%s: literal %x not found once in AP (%d)" % (name, vw, len(hits)))
                         self.stat("code_literal_missing")
@@ -779,3 +781,58 @@ class Transplanter:
                               op[3] if op[0] == "C" else 0) for op in c.plan]).encode())
         self.checksum = (h & 0x7FFFFFFF) or 1
         c.w32(0x1B8, self.checksum)
+
+    # ------------------------------------------------------------------
+    # Battle scripts for move effects the hack rewrote (e.g. effect 137, a triple stat boost)
+    # ------------------------------------------------------------------
+    def battle_script(self, off):
+        from battlescript import parse
+        c = self.c
+        if is_vanilla(off):
+            end, _ = parse(c.Z, off)
+            if c.Z[off:end] == c.V[off:end]:
+                mp = c.map_ptr(ROM + off)
+                if mp is not None:
+                    return mp
+        key = ("bscript", off)
+        if key in c.copied:
+            return ROM + c.copied[key]
+        end, fields = parse(c.Z, off)
+        dst = c.alloc(end - off, 1)
+        c.copied[key] = dst
+        c.copy(dst, off, end - off)
+        for pos, size, arg, cmd in fields:
+            if size != 4:
+                continue
+            v = u32(c.Z, pos)
+            if ROM <= v < ROM + 0x01000000:
+                t = v - ROM
+                if is_vanilla(t):
+                    nv = c.map_ptr(v)
+                else:
+                    nv = self.battle_script(t)   # hack-only targets are script labels
+            elif 0x02000000 <= v < 0x04000000:
+                nv = c.map_ram(v)
+            else:
+                continue
+            if nv is None:
+                raise ValueError("battle script %x: cannot map %x (%s %s)" % (off, v, cmd, arg))
+            c.w32(dst + (pos - off), nv)
+        self.stat("battle_scripts")
+        return ROM + dst
+
+    def pass_battle_scripts(self):
+        c = self.c
+        vt, at = c.va("gBattleScriptsForMoveEffects"), c.aa("gBattleScriptsForMoveEffects")
+        for e in range(214):
+            zp, vp = u32(c.Z, vt + 4 * e), u32(c.V, vt + 4 * e)
+            if zp == vp:
+                continue
+            if c.map_ptr(vp) != u32(c.A0, at + 4 * e):
+                c.log.append("battle effect %d: AP changed, kept" % e)
+                continue
+            try:
+                c.w32(at + 4 * e, self.battle_script(zp - ROM))
+                self.stat("battle_effects")
+            except ValueError as err:
+                c.log.append("battle effect %d: %s (kept AP)" % (e, err))

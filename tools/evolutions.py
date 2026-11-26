@@ -11,7 +11,7 @@ def all_species(world_dir):
     return ast.literal_eval(m.group(1))
 
 
-def rebuild(world_dir, ed, upstream_world_dir):
+def rebuild(world_dir, ed, upstream_world_dir, species_map=None):
     species = all_species(world_dir)
     const = ed["constants"]
     by_id = {const[c]: (c, name) for c, name, _ in species}
@@ -46,6 +46,9 @@ def rebuild(world_dir, ed, upstream_world_dir):
                 inserted = True
             continue
         merged[k] = v
+    if species_map:
+        from species_rename import rename_static_events
+        rename_static_events(merged, species_map)
     with open(events_path, "w", encoding="utf-8") as f:
         json.dump(merged, f, indent=2, ensure_ascii=False)
     regions["REGION_EVOLUTION"]["events"] = order

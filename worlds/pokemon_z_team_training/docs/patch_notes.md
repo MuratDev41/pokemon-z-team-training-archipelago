@@ -1,3 +1,14 @@
+# Pokemon Z Team Training 1.1.0
+
+* Archipelago now uses the hack's species names: hints, Pokédex locations, static encounters and YAML species lists
+  say GOKU, SSJ VEGETA, FRIEZA... The tracker pack shows the same names.
+* Archipelago also uses the hack's item names (CAPSULE, SENZU, ONIGIRI, HOLY WATER, DRAGONBALL 1-7, ...).
+  Use these names in `start_inventory` and other item options.
+* Ported the hack's rewritten move effect (triple stat boost used by SSB KAIOKEN and SAIYAN POWER).
+* HORN DRILL's animation and the menu scroll-arrow palette now come from the hack.
+* Fixed texts and animation scripts stored at odd addresses being cut off (some Pokédex entries were empty).
+* Pokédex entries follow each character to FireRed's dex number.
+
 # Pokemon Z Team Training 1.0.0
 
 * First release, built on Pokémon FireRed and LeafGreen apworld 1.1.5.

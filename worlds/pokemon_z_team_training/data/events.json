@@ -300,298 +300,298 @@
     "category": "EVENT_LEGENDARY_POKEMON"
   },
   "EVOLVE_BULBASAUR": {
-    "name": "Evolution - Bulbasaur",
-    "item": "Evolved Ivysaur",
+    "name": "Evolution - GOKU",
+    "item": "Evolved SSJ GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_IVYSAUR": {
-    "name": "Evolution - Ivysaur",
-    "item": "Evolved Venusaur",
+    "name": "Evolution - SSJ GOKU",
+    "item": "Evolved SSJ3 GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_VENUSAUR_1": {
-    "name": "Evolution - Venusaur 1",
-    "item": "Evolved Entei",
+    "name": "Evolution - SSJ3 GOKU 1",
+    "item": "Evolved SSG GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_VENUSAUR_2": {
-    "name": "Evolution - Venusaur 2",
-    "item": "Evolved Electabuzz",
+    "name": "Evolution - SSJ3 GOKU 2",
+    "item": "Evolved SSJ4 GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHARMANDER": {
-    "name": "Evolution - Charmander",
-    "item": "Evolved Charmeleon",
+    "name": "Evolution - VEGETA",
+    "item": "Evolved SSJ VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHARMELEON": {
-    "name": "Evolution - Charmeleon",
-    "item": "Evolved Charizard",
+    "name": "Evolution - SSJ VEGETA",
+    "item": "Evolved MJN VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHARIZARD_1": {
-    "name": "Evolution - Charizard 1",
-    "item": "Evolved Omastar",
+    "name": "Evolution - MJN VEGETA 1",
+    "item": "Evolved SSG VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHARIZARD_2": {
-    "name": "Evolution - Charizard 2",
-    "item": "Evolved Magmar",
+    "name": "Evolution - MJN VEGETA 2",
+    "item": "Evolved SS4 VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SQUIRTLE": {
-    "name": "Evolution - Squirtle",
-    "item": "Evolved Wartortle",
+    "name": "Evolution - GOHAN",
+    "item": "Evolved SSJ GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_WARTORTLE": {
-    "name": "Evolution - Wartortle",
-    "item": "Evolved Blastoise",
+    "name": "Evolution - SSJ GOHAN",
+    "item": "Evolved ULTM GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_BLASTOISE": {
-    "name": "Evolution - Blastoise",
-    "item": "Evolved Raikou",
+    "name": "Evolution - ULTM GOHAN",
+    "item": "Evolved SSG GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CATERPIE": {
-    "name": "Evolution - Caterpie",
-    "item": "Evolved Metapod",
+    "name": "Evolution - PICCOLO",
+    "item": "Evolved SP PICCOLO",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_PIKACHU": {
-    "name": "Evolution - Pikachu",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - RADITZ",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_RAICHU": {
-    "name": "Evolution - Raichu",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - NAPPA",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SANDSHREW": {
-    "name": "Evolution - Sandshrew",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - TURLES",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SANDSLASH_1": {
-    "name": "Evolution - Sandslash 1",
-    "item": "Evolved Jolteon",
+    "name": "Evolution - BARDOCK 1",
+    "item": "Evolved SS BARDOCK",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SANDSLASH_2": {
-    "name": "Evolution - Sandslash 2",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - BARDOCK 2",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NIDORAN_F": {
-    "name": "Evolution - Nidoran F",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - KG VEGETA",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NIDORINA": {
-    "name": "Evolution - Nidorina",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - KID GOHAN",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NIDOQUEEN": {
-    "name": "Evolution - Nidoqueen",
-    "item": "Evolved Flareon",
+    "name": "Evolution - OOSARU",
+    "item": "Evolved G-OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NIDOKING": {
-    "name": "Evolution - Nidoking",
-    "item": "Evolved Clefairy",
+    "name": "Evolution - ZARBON",
+    "item": "Evolved ZARBON 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_ZUBAT": {
-    "name": "Evolution - Zubat",
-    "item": "Evolved Golbat",
+    "name": "Evolution - FRIEZA",
+    "item": "Evolved FRIEZA 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_GOLBAT": {
-    "name": "Evolution - Golbat",
-    "item": "Evolved Oddish",
+    "name": "Evolution - FRIEZA 2",
+    "item": "Evolved FRIEZA 3",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_ODDISH": {
-    "name": "Evolution - Oddish",
-    "item": "Evolved Gloom",
+    "name": "Evolution - FRIEZA 3",
+    "item": "Evolved FRIEZA 4",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_GLOOM": {
-    "name": "Evolution - Gloom",
-    "item": "Evolved Ditto",
+    "name": "Evolution - FRIEZA 4",
+    "item": "Evolved G-FRIEZA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_PARAS": {
-    "name": "Evolution - Paras",
-    "item": "Evolved Parasect",
+    "name": "Evolution - COOLER",
+    "item": "Evolved SPR COOLER",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_PARASECT": {
-    "name": "Evolution - Parasect",
-    "item": "Evolved Venonat",
+    "name": "Evolution - SPR COOLER",
+    "item": "Evolved MTL COOLER",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MEOWTH": {
-    "name": "Evolution - Meowth",
-    "item": "Evolved Persian",
+    "name": "Evolution - GARLIC",
+    "item": "Evolved GARLIC 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MANKEY": {
-    "name": "Evolution - Mankey",
-    "item": "Evolved Primeape",
+    "name": "Evolution - C-13",
+    "item": "Evolved SUPER C-13",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_ALAKAZAM": {
-    "name": "Evolution - Alakazam",
-    "item": "Evolved Machop",
+    "name": "Evolution - BUG CELL",
+    "item": "Evolved IMPFT CELL",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MACHOP": {
-    "name": "Evolution - Machop",
-    "item": "Evolved Machoke",
+    "name": "Evolution - IMPFT CELL",
+    "item": "Evolved PRFCT CELL",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_BELLSPROUT": {
-    "name": "Evolution - Bellsprout",
-    "item": "Evolved Weepinbell",
+    "name": "Evolution - BROLY",
+    "item": "Evolved SSJ BROLY",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_WEEPINBELL": {
-    "name": "Evolution - Weepinbell",
-    "item": "Evolved Victreebel",
+    "name": "Evolution - SSJ BROLY",
+    "item": "Evolved LSSJ BROLY",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_TENTACOOL": {
-    "name": "Evolution - Tentacool",
-    "item": "Evolved Tentacruel",
+    "name": "Evolution - BOJACK",
+    "item": "Evolved BOJACK 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_PONYTA": {
-    "name": "Evolution - Ponyta",
-    "item": "Evolved Rapidash",
+    "name": "Evolution - F-TRUNKS",
+    "item": "Evolved SSF TRUNKS",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_RAPIDASH": {
-    "name": "Evolution - Rapidash",
-    "item": "Evolved Cyndaquil",
+    "name": "Evolution - SSF TRUNKS",
+    "item": "Evolved SSR TRUNKS",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SLOWPOKE": {
-    "name": "Evolution - Slowpoke",
-    "item": "Evolved Slowbro",
+    "name": "Evolution - TEEN GOHAN",
+    "item": "Evolved SS T.GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SLOWBRO": {
-    "name": "Evolution - Slowbro",
-    "item": "Evolved Magnemite",
+    "name": "Evolution - SS T.GOHAN",
+    "item": "Evolved SSJ2 GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_DEWGONG": {
-    "name": "Evolution - Dewgong",
-    "item": "Evolved Grimer",
+    "name": "Evolution - MAJIN BUU",
+    "item": "Evolved EVIL BUU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_GRIMER": {
-    "name": "Evolution - Grimer",
-    "item": "Evolved Muk",
+    "name": "Evolution - EVIL BUU",
+    "item": "Evolved SUPER BUU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MUK": {
-    "name": "Evolution - Muk",
-    "item": "Evolved Shellder",
+    "name": "Evolution - SUPER BUU",
+    "item": "Evolved KID BUU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_KRABBY": {
-    "name": "Evolution - Krabby",
-    "item": "Evolved Kingler",
+    "name": "Evolution - JANEMBA",
+    "item": "Evolved SP JANEMBA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_VOLTORB": {
-    "name": "Evolution - Voltorb",
-    "item": "Evolved Electrode",
+    "name": "Evolution - HIRUDEGARN",
+    "item": "Evolved HIRUDEGAN2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_EXEGGUTOR": {
-    "name": "Evolution - Exeggutor",
-    "item": "Evolved Cubone",
+    "name": "Evolution - GOTEN",
+    "item": "Evolved SSJ GOTEN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MAROWAK": {
-    "name": "Evolution - Marowak",
-    "item": "Evolved Hitmonlee",
+    "name": "Evolution - TRUNKS",
+    "item": "Evolved SSJ TRUNKS",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_HITMONCHAN": {
-    "name": "Evolution - Hitmonchan",
-    "item": "Evolved Lickitung",
+    "name": "Evolution - GOTENKS",
+    "item": "Evolved GOTENKS 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_LICKITUNG": {
-    "name": "Evolution - Lickitung",
-    "item": "Evolved Koffing",
+    "name": "Evolution - GOTENKS 2",
+    "item": "Evolved GOTENKS 3",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_WEEZING": {
-    "name": "Evolution - Weezing",
-    "item": "Evolved Rhyhorn",
+    "name": "Evolution - GOGETA",
+    "item": "Evolved SSJ GOGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_RHYHORN": {
-    "name": "Evolution - Rhyhorn",
-    "item": "Evolved Pinsir",
+    "name": "Evolution - SSJ GOGETA",
+    "item": "Evolved SS4 GOGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_RHYDON": {
-    "name": "Evolution - Rhydon",
-    "item": "Evolved Chansey",
+    "name": "Evolution - VEGETO",
+    "item": "Evolved SSJ VEGETO",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHANSEY": {
-    "name": "Evolution - Chansey",
-    "item": "Evolved Kabuto",
+    "name": "Evolution - SSJ VEGETO",
+    "item": "Evolved SSB VEGETO",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_HORSEA": {
-    "name": "Evolution - Horsea",
-    "item": "Evolved Seadra",
+    "name": "Evolution - UUB",
+    "item": "Evolved SUPER UUB",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_STARYU": {
-    "name": "Evolution - Staryu",
-    "item": "Evolved Starmie",
+    "name": "Evolution - RILD",
+    "item": "Evolved MEGA RILD",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_STARMIE": {
-    "name": "Evolution - Starmie",
-    "item": "Evolved Mr. Mime",
+    "name": "Evolution - MEGA RILD",
+    "item": "Evolved METAL RILD",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_EEVEE": {
-    "name": "Evolution - Eevee",
-    "item": "Evolved Quilava",
+    "name": "Evolution - BABYVEGETA",
+    "item": "Evolved G-APE BABY",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_VAPOREON": {
-    "name": "Evolution - Vaporeon",
-    "item": "Evolved Spinarak",
+    "name": "Evolution - SSB GOKU",
+    "item": "Evolved ULTRA GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_JOLTEON": {
-    "name": "Evolution - Jolteon",
-    "item": "Evolved Flareon",
+    "name": "Evolution - SS BARDOCK",
+    "item": "Evolved G-OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_OMASTAR": {
-    "name": "Evolution - Omastar",
-    "item": "Evolved Suicune",
+    "name": "Evolution - SSG VEGETA",
+    "item": "Evolved SSB VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_KABUTOPS": {
-    "name": "Evolution - Kabutops",
-    "item": "Evolved Aerodactyl",
+    "name": "Evolution - BLACK",
+    "item": "Evolved SSR BLACK",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_DRATINI": {
@@ -605,88 +605,88 @@
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CHIKORITA": {
-    "name": "Evolution - Chikorita",
-    "item": "Evolved Bayleef",
+    "name": "Evolution - FROST",
+    "item": "Evolved FROST 2",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_BAYLEEF": {
-    "name": "Evolution - Bayleef",
-    "item": "Evolved Meganium",
+    "name": "Evolution - FROST 2",
+    "item": "Evolved FROST 3",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_TOTODILE_1": {
-    "name": "Evolution - Totodile 1",
-    "item": "Evolved Croconaw",
+    "name": "Evolution - GT GOKU 1",
+    "item": "Evolved SSJGT GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_TOTODILE_2": {
-    "name": "Evolution - Totodile 2",
-    "item": "Evolved Nidoqueen",
+    "name": "Evolution - GT GOKU 2",
+    "item": "Evolved OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CROCONAW_1": {
-    "name": "Evolution - Croconaw 1",
-    "item": "Evolved Feraligatr",
+    "name": "Evolution - SSJGT GOKU 1",
+    "item": "Evolved SSJ3GTGOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_CROCONAW_2": {
-    "name": "Evolution - Croconaw 2",
-    "item": "Evolved Flareon",
+    "name": "Evolution - SSJGT GOKU 2",
+    "item": "Evolved G-OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_FERALIGATR_1": {
-    "name": "Evolution - Feraligatr 1",
-    "item": "Evolved Electabuzz",
+    "name": "Evolution - SSJ3GTGOKU 1",
+    "item": "Evolved SSJ4 GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_FERALIGATR_2": {
-    "name": "Evolution - Feraligatr 2",
-    "item": "Evolved Flareon",
+    "name": "Evolution - SSJ3GTGOKU 2",
+    "item": "Evolved G-OOSARU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SPINARAK": {
-    "name": "Evolution - Spinarak",
-    "item": "Evolved Ariados",
+    "name": "Evolution - ULTRA GOKU",
+    "item": "Evolved MUI GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_LANTURN": {
-    "name": "Evolution - Lanturn",
-    "item": "Evolved Pichu",
+    "name": "Evolution - CABBA",
+    "item": "Evolved SSJ CABBA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_PICHU": {
-    "name": "Evolution - Pichu",
-    "item": "Evolved Cleffa",
+    "name": "Evolution - SSJ CABBA",
+    "item": "Evolved SSJ2 CABBA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_IGGLYBUFF": {
-    "name": "Evolution - Igglybuff",
-    "item": "Evolved Togepi",
+    "name": "Evolution - CAULIFLA",
+    "item": "Evolved SSJ CLFLA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_TOGEPI": {
-    "name": "Evolution - Togepi",
-    "item": "Evolved Togetic",
+    "name": "Evolution - SSJ CLFLA",
+    "item": "Evolved SSJ2 CLFLA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NATU_1": {
-    "name": "Evolution - Natu 1",
-    "item": "Evolved Xatu",
+    "name": "Evolution - KALE 1",
+    "item": "Evolved BRSK KALE",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NATU_2": {
-    "name": "Evolution - Natu 2",
-    "item": "Evolved Mareep",
+    "name": "Evolution - KALE 2",
+    "item": "Evolved MBSK KALE",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_NATU_3": {
-    "name": "Evolution - Natu 3",
-    "item": "Evolved Xatu",
+    "name": "Evolution - KALE 3",
+    "item": "Evolved BRSK KALE",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_FLAAFFY": {
-    "name": "Evolution - Flaaffy",
-    "item": "Evolved Ampharos",
+    "name": "Evolution - KEFLA",
+    "item": "Evolved MBSK KEFLA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_MARILL": {
@@ -760,18 +760,18 @@
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_RAIKOU": {
-    "name": "Evolution - Raikou",
-    "item": "Evolved Omanyte",
+    "name": "Evolution - SSG GOHAN",
+    "item": "Evolved SSB GOHAN",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_ENTEI": {
-    "name": "Evolution - Entei",
-    "item": "Evolved Vaporeon",
+    "name": "Evolution - SSG GOKU",
+    "item": "Evolved SSB GOKU",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_SUICUNE": {
-    "name": "Evolution - Suicune",
-    "item": "Evolved Crobat",
+    "name": "Evolution - SSB VEGETA",
+    "item": "Evolved SSB2VEGETA",
     "category": "EVENT_EVOLUTION_POKEMON"
   },
   "EVOLVE_LARVITAR": {

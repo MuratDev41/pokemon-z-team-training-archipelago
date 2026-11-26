@@ -8,7 +8,7 @@ if TYPE_CHECKING:
     from .world import PokemonFRLGWorld
 
 
-RENEWABLE_PROGRESSION_ITEMS = ("Fresh Water", "Soda Pop", "Lemonade", "King's Rock", "Metal Coat", "Dragon Scale",
+RENEWABLE_PROGRESSION_ITEMS = ("Fresh Water", "Soda Pop", "Lemonade", "Z-SWORD", "Metal Coat", "Dragon Scale",
                                "Up-Grade", "Deep Sea Scale", "Deep Sea Tooth", "Heart Scale")
 
 

@@ -1,11 +1,11 @@
 # Species names
 
-Archipelago item, location and option names (for example `Pokedex - Bulbasaur`, `Static Mewtwo`,
-or the species lists in your YAML) keep the original Pokémon names, so they stay compatible with
-trackers and existing logic. In game, those species are the Pokemon Z Team Training characters below.
-Species not listed here keep their original Pokémon name in game too.
+Pokemon Z Team Training replaces 180 Pokémon with Dragon Ball characters. Archipelago uses the same names as
+the game: items, locations, hints and YAML species lists say `GOKU`, `Pokedex - GOKU`, `Static SSB VEGETA`, etc.
+This table maps them to the original Pokémon (and its Pokédex number), which helps when reading guides or
+trackers written for Pokémon FireRed and LeafGreen. Species not listed keep their Pokémon name.
 
-| Dex # | Archipelago name | In game | Type |
+| Dex # | Original Pokémon | Name in this game | Type |
 |---|---|---|---|
 | 1 | Bulbasaur | GOKU | Fighting |
 | 2 | Ivysaur | SSJ GOKU | Fighting |

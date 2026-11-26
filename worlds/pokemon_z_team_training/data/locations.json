@@ -7991,877 +7991,877 @@
   },
 
   "POKEDEX_REWARD_001": {
-    "name": "Pokedex - Bulbasaur",
+    "name": "Pokedex - GOKU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_002": {
-    "name": "Pokedex - Ivysaur",
+    "name": "Pokedex - SSJ GOKU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_003": {
-    "name": "Pokedex - Venusaur",
+    "name": "Pokedex - SSJ3 GOKU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_004": {
-    "name": "Pokedex - Charmander",
+    "name": "Pokedex - VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_005": {
-    "name": "Pokedex - Charmeleon",
+    "name": "Pokedex - SSJ VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_006": {
-    "name": "Pokedex - Charizard",
+    "name": "Pokedex - MJN VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_007": {
-    "name": "Pokedex - Squirtle",
+    "name": "Pokedex - GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_008": {
-    "name": "Pokedex - Wartortle",
+    "name": "Pokedex - SSJ GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_009": {
-    "name": "Pokedex - Blastoise",
+    "name": "Pokedex - ULTM GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_010": {
-    "name": "Pokedex - Caterpie",
+    "name": "Pokedex - PICCOLO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_011": {
-    "name": "Pokedex - Metapod",
+    "name": "Pokedex - SP PICCOLO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_012": {
-    "name": "Pokedex - Butterfree",
+    "name": "Pokedex - KRILLIN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_013": {
-    "name": "Pokedex - Weedle",
+    "name": "Pokedex - YAMCHA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_014": {
-    "name": "Pokedex - Kakuna",
+    "name": "Pokedex - TENSHINHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_015": {
-    "name": "Pokedex - Beedrill",
+    "name": "Pokedex - CHIAOTZU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_016": {
-    "name": "Pokedex - Pidgey",
+    "name": "Pokedex - BEAR THIEF",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_017": {
-    "name": "Pokedex - Pidgeotto",
+    "name": "Pokedex - GIRAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_018": {
-    "name": "Pokedex - Pidgeot",
+    "name": "Pokedex - BUYON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_019": {
-    "name": "Pokedex - Rattata",
+    "name": "Pokedex - EIGHTER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_020": {
-    "name": "Pokedex - Raticate",
+    "name": "Pokedex - TAOPAIPAI",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_021": {
-    "name": "Pokedex - Spearow",
+    "name": "Pokedex - DRUM",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_022": {
-    "name": "Pokedex - Fearow",
+    "name": "Pokedex - TANBARIN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_023": {
-    "name": "Pokedex - Ekans",
+    "name": "Pokedex - KG PICCOLO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_024": {
-    "name": "Pokedex - Arbok",
+    "name": "Pokedex - SAIBAMEN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_025": {
-    "name": "Pokedex - Pikachu",
+    "name": "Pokedex - RADITZ",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_026": {
-    "name": "Pokedex - Raichu",
+    "name": "Pokedex - NAPPA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_027": {
-    "name": "Pokedex - Sandshrew",
+    "name": "Pokedex - TURLES",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_028": {
-    "name": "Pokedex - Sandslash",
+    "name": "Pokedex - BARDOCK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_029": {
-    "name": "Pokedex - Nidoran F",
+    "name": "Pokedex - KG VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_030": {
-    "name": "Pokedex - Nidorina",
+    "name": "Pokedex - KID GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_031": {
-    "name": "Pokedex - Nidoqueen",
+    "name": "Pokedex - OOSARU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_032": {
-    "name": "Pokedex - Nidoran M",
+    "name": "Pokedex - KIWI",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_033": {
-    "name": "Pokedex - Nidorino",
+    "name": "Pokedex - DODORIA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_034": {
-    "name": "Pokedex - Nidoking",
+    "name": "Pokedex - ZARBON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_035": {
-    "name": "Pokedex - Clefairy",
+    "name": "Pokedex - ZARBON 2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_036": {
-    "name": "Pokedex - Clefable",
+    "name": "Pokedex - GULDO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_037": {
-    "name": "Pokedex - Vulpix",
+    "name": "Pokedex - RECOOME",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_038": {
-    "name": "Pokedex - Ninetales",
+    "name": "Pokedex - JEICE",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_039": {
-    "name": "Pokedex - Jigglypuff",
+    "name": "Pokedex - BURTER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_040": {
-    "name": "Pokedex - Wigglytuff",
+    "name": "Pokedex - GINYU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_041": {
-    "name": "Pokedex - Zubat",
+    "name": "Pokedex - FRIEZA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_042": {
-    "name": "Pokedex - Golbat",
+    "name": "Pokedex - FRIEZA 2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_043": {
-    "name": "Pokedex - Oddish",
+    "name": "Pokedex - FRIEZA 3",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_044": {
-    "name": "Pokedex - Gloom",
+    "name": "Pokedex - FRIEZA 4",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_045": {
-    "name": "Pokedex - Vileplume",
+    "name": "Pokedex - SAUZER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_046": {
-    "name": "Pokedex - Paras",
+    "name": "Pokedex - COOLER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_047": {
-    "name": "Pokedex - Parasect",
+    "name": "Pokedex - SPR COOLER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_048": {
-    "name": "Pokedex - Venonat",
+    "name": "Pokedex - MTL COOLER",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_049": {
-    "name": "Pokedex - Venomoth",
+    "name": "Pokedex - COLD",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_050": {
-    "name": "Pokedex - Diglett",
+    "name": "Pokedex - NAIL",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_051": {
-    "name": "Pokedex - Dugtrio",
+    "name": "Pokedex - SLUG",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_052": {
-    "name": "Pokedex - Meowth",
+    "name": "Pokedex - GARLIC",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_053": {
-    "name": "Pokedex - Persian",
+    "name": "Pokedex - GARLIC 2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_054": {
-    "name": "Pokedex - Psyduck",
+    "name": "Pokedex - BIOMEN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_055": {
-    "name": "Pokedex - Golduck",
+    "name": "Pokedex - WILO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_056": {
-    "name": "Pokedex - Mankey",
+    "name": "Pokedex - C-13",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_057": {
-    "name": "Pokedex - Primeape",
+    "name": "Pokedex - SUPER C-13",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_058": {
-    "name": "Pokedex - Growlithe",
+    "name": "Pokedex - C-14",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_059": {
-    "name": "Pokedex - Arcanine",
+    "name": "Pokedex - C-15",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_060": {
-    "name": "Pokedex - Poliwag",
+    "name": "Pokedex - C-16",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_061": {
-    "name": "Pokedex - Poliwhirl",
+    "name": "Pokedex - C-17",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_062": {
-    "name": "Pokedex - Poliwrath",
+    "name": "Pokedex - C-18",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_063": {
-    "name": "Pokedex - Abra",
+    "name": "Pokedex - C-19",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_064": {
-    "name": "Pokedex - Kadabra",
+    "name": "Pokedex - C-20",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_065": {
-    "name": "Pokedex - Alakazam",
+    "name": "Pokedex - BUG CELL",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_066": {
-    "name": "Pokedex - Machop",
+    "name": "Pokedex - IMPFT CELL",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_067": {
-    "name": "Pokedex - Machoke",
+    "name": "Pokedex - PRFCT CELL",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_068": {
-    "name": "Pokedex - Machamp",
+    "name": "Pokedex - CELL JR.",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_069": {
-    "name": "Pokedex - Bellsprout",
+    "name": "Pokedex - BROLY",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_070": {
-    "name": "Pokedex - Weepinbell",
+    "name": "Pokedex - SSJ BROLY",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_071": {
-    "name": "Pokedex - Victreebel",
+    "name": "Pokedex - LSSJ BROLY",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_072": {
-    "name": "Pokedex - Tentacool",
+    "name": "Pokedex - BOJACK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_073": {
-    "name": "Pokedex - Tentacruel",
+    "name": "Pokedex - BOJACK 2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_074": {
-    "name": "Pokedex - Geodude",
+    "name": "Pokedex - ZANGYA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_075": {
-    "name": "Pokedex - Graveler",
+    "name": "Pokedex - BUJIN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_076": {
-    "name": "Pokedex - Golem",
+    "name": "Pokedex - HATCHIYACK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_077": {
-    "name": "Pokedex - Ponyta",
+    "name": "Pokedex - F-TRUNKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_078": {
-    "name": "Pokedex - Rapidash",
+    "name": "Pokedex - SSF TRUNKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_079": {
-    "name": "Pokedex - Slowpoke",
+    "name": "Pokedex - TEEN GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_080": {
-    "name": "Pokedex - Slowbro",
+    "name": "Pokedex - SS T.GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_081": {
-    "name": "Pokedex - Magnemite",
+    "name": "Pokedex - SSJ2 GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_082": {
-    "name": "Pokedex - Magneton",
+    "name": "Pokedex - SPOPOVICH",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_083": {
-    "name": "Pokedex - Farfetch'd",
+    "name": "Pokedex - YAMU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_084": {
-    "name": "Pokedex - Doduo",
+    "name": "Pokedex - PUI PUI",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_085": {
-    "name": "Pokedex - Dodrio",
+    "name": "Pokedex - YAKON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_086": {
-    "name": "Pokedex - Seel",
+    "name": "Pokedex - DABURA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_087": {
-    "name": "Pokedex - Dewgong",
+    "name": "Pokedex - MAJIN BUU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_088": {
-    "name": "Pokedex - Grimer",
+    "name": "Pokedex - EVIL BUU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_089": {
-    "name": "Pokedex - Muk",
+    "name": "Pokedex - SUPER BUU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_090": {
-    "name": "Pokedex - Shellder",
+    "name": "Pokedex - KID BUU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_091": {
-    "name": "Pokedex - Cloyster",
+    "name": "Pokedex - KAIOSHIN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_092": {
-    "name": "Pokedex - Gastly",
+    "name": "Pokedex - KIBITO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_093": {
-    "name": "Pokedex - Haunter",
+    "name": "Pokedex - KIBITOSHIN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_094": {
-    "name": "Pokedex - Gengar",
+    "name": "Pokedex - AQUA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_095": {
-    "name": "Pokedex - Onix",
+    "name": "Pokedex - TORBI",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_096": {
-    "name": "Pokedex - Drowzee",
+    "name": "Pokedex - OLIBU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_097": {
-    "name": "Pokedex - Hypno",
+    "name": "Pokedex - PIKKON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_098": {
-    "name": "Pokedex - Krabby",
+    "name": "Pokedex - JANEMBA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_099": {
-    "name": "Pokedex - Kingler",
+    "name": "Pokedex - SP JANEMBA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_100": {
-    "name": "Pokedex - Voltorb",
+    "name": "Pokedex - HIRUDEGARN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_101": {
-    "name": "Pokedex - Electrode",
+    "name": "Pokedex - HIRUDEGAN2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_102": {
-    "name": "Pokedex - Exeggcute",
+    "name": "Pokedex - TAPION",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_103": {
-    "name": "Pokedex - Exeggutor",
+    "name": "Pokedex - GOTEN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_104": {
-    "name": "Pokedex - Cubone",
+    "name": "Pokedex - SSJ GOTEN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_105": {
-    "name": "Pokedex - Marowak",
+    "name": "Pokedex - TRUNKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_106": {
-    "name": "Pokedex - Hitmonlee",
+    "name": "Pokedex - SSJ TRUNKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_107": {
-    "name": "Pokedex - Hitmonchan",
+    "name": "Pokedex - GOTENKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_108": {
-    "name": "Pokedex - Lickitung",
+    "name": "Pokedex - GOTENKS 2",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_109": {
-    "name": "Pokedex - Koffing",
+    "name": "Pokedex - GOTENKS 3",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_110": {
-    "name": "Pokedex - Weezing",
+    "name": "Pokedex - GOGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_111": {
-    "name": "Pokedex - Rhyhorn",
+    "name": "Pokedex - SSJ GOGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_112": {
-    "name": "Pokedex - Rhydon",
+    "name": "Pokedex - VEGETO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_113": {
-    "name": "Pokedex - Chansey",
+    "name": "Pokedex - SSJ VEGETO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_114": {
-    "name": "Pokedex - Tangela",
+    "name": "Pokedex - SHENRON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_115": {
-    "name": "Pokedex - Kangaskhan",
+    "name": "Pokedex - BEERUS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_116": {
-    "name": "Pokedex - Horsea",
+    "name": "Pokedex - UUB",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_117": {
-    "name": "Pokedex - Seadra",
+    "name": "Pokedex - SUPER UUB",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_118": {
-    "name": "Pokedex - Goldeen",
+    "name": "Pokedex - LEDGIC",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_119": {
-    "name": "Pokedex - Seaking",
+    "name": "Pokedex - SIGMA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_120": {
-    "name": "Pokedex - Staryu",
+    "name": "Pokedex - RILD",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_121": {
-    "name": "Pokedex - Starmie",
+    "name": "Pokedex - MEGA RILD",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_122": {
-    "name": "Pokedex - Mr. Mime",
+    "name": "Pokedex - METAL RILD",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_123": {
-    "name": "Pokedex - Scyther",
+    "name": "Pokedex - BABY",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_124": {
-    "name": "Pokedex - Jynx",
+    "name": "Pokedex - SUPER C-17",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_125": {
-    "name": "Pokedex - Electabuzz",
+    "name": "Pokedex - SSJ4 GOKU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_126": {
-    "name": "Pokedex - Magmar",
+    "name": "Pokedex - SS4 VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_127": {
-    "name": "Pokedex - Pinsir",
+    "name": "Pokedex - SS4 GOGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_128": {
-    "name": "Pokedex - Tauros",
+    "name": "Pokedex - SU SHENRON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_129": {
-    "name": "Pokedex - Magikarp",
+    "name": "Pokedex - SANSHENRON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_130": {
-    "name": "Pokedex - Gyarados",
+    "name": "Pokedex - LI SHENRON",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_131": {
-    "name": "Pokedex - Lapras",
+    "name": "Pokedex - WHIS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_132": {
-    "name": "Pokedex - Ditto",
+    "name": "Pokedex - G-FRIEZA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_133": {
-    "name": "Pokedex - Eevee",
+    "name": "Pokedex - BABYVEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_134": {
-    "name": "Pokedex - Vaporeon",
+    "name": "Pokedex - SSB GOKU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_135": {
-    "name": "Pokedex - Jolteon",
+    "name": "Pokedex - SS BARDOCK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_136": {
-    "name": "Pokedex - Flareon",
+    "name": "Pokedex - G-OOSARU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_137": {
-    "name": "Pokedex - Porygon",
+    "name": "Pokedex - HIT",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_138": {
-    "name": "Pokedex - Omanyte",
+    "name": "Pokedex - SSB GOHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_139": {
-    "name": "Pokedex - Omastar",
+    "name": "Pokedex - SSG VEGETA",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_140": {
-    "name": "Pokedex - Kabuto",
+    "name": "Pokedex - SSB VEGETO",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_141": {
-    "name": "Pokedex - Kabutops",
+    "name": "Pokedex - BLACK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_142": {
-    "name": "Pokedex - Aerodactyl",
+    "name": "Pokedex - SSR BLACK",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_143": {
-    "name": "Pokedex - Snorlax",
+    "name": "Pokedex - ZAMASU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_144": {
-    "name": "Pokedex - Articuno",
+    "name": "Pokedex - M-ZAMASU",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_145": {
-    "name": "Pokedex - Zapdos",
+    "name": "Pokedex - BUUTENKS",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_146": {
-    "name": "Pokedex - Moltres",
+    "name": "Pokedex - BUUHAN",
     "tags": ["Pokedex Entries", "Kanto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
@@ -8897,187 +8897,187 @@
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_152": {
-    "name": "Pokedex - Chikorita",
+    "name": "Pokedex - FROST",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_153": {
-    "name": "Pokedex - Bayleef",
+    "name": "Pokedex - FROST 2",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_154": {
-    "name": "Pokedex - Meganium",
+    "name": "Pokedex - FROST 3",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_155": {
-    "name": "Pokedex - Cyndaquil",
+    "name": "Pokedex - SSR TRUNKS",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_156": {
-    "name": "Pokedex - Quilava",
+    "name": "Pokedex - G-APE BABY",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_157": {
-    "name": "Pokedex - Typhlosion",
+    "name": "Pokedex - LUUD",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_158": {
-    "name": "Pokedex - Totodile",
+    "name": "Pokedex - GT GOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_159": {
-    "name": "Pokedex - Croconaw",
+    "name": "Pokedex - SSJGT GOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_160": {
-    "name": "Pokedex - Feraligatr",
+    "name": "Pokedex - SSJ3GTGOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_161": {
-    "name": "Pokedex - Sentret",
+    "name": "Pokedex - BASIL",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_162": {
-    "name": "Pokedex - Furret",
+    "name": "Pokedex - LAVENDER",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_163": {
-    "name": "Pokedex - Hoothoot",
+    "name": "Pokedex - BERGAMO",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_164": {
-    "name": "Pokedex - Noctowl",
+    "name": "Pokedex - DYSPO",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_165": {
-    "name": "Pokedex - Ledyba",
+    "name": "Pokedex - TOPPO",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_166": {
-    "name": "Pokedex - Ledian",
+    "name": "Pokedex - JIREN",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_167": {
-    "name": "Pokedex - Spinarak",
+    "name": "Pokedex - ULTRA GOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_168": {
-    "name": "Pokedex - Ariados",
+    "name": "Pokedex - MUI GOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_169": {
-    "name": "Pokedex - Crobat",
+    "name": "Pokedex - SSB2VEGETA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_170": {
-    "name": "Pokedex - Chinchou",
+    "name": "Pokedex - JIMIZU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_171": {
-    "name": "Pokedex - Lanturn",
+    "name": "Pokedex - CABBA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_172": {
-    "name": "Pokedex - Pichu",
+    "name": "Pokedex - SSJ CABBA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_173": {
-    "name": "Pokedex - Cleffa",
+    "name": "Pokedex - SSJ2 CABBA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_174": {
-    "name": "Pokedex - Igglybuff",
+    "name": "Pokedex - CAULIFLA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_175": {
-    "name": "Pokedex - Togepi",
+    "name": "Pokedex - SSJ CLFLA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_176": {
-    "name": "Pokedex - Togetic",
+    "name": "Pokedex - SSJ2 CLFLA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_177": {
-    "name": "Pokedex - Natu",
+    "name": "Pokedex - KALE",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_178": {
-    "name": "Pokedex - Xatu",
+    "name": "Pokedex - BRSK KALE",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_179": {
-    "name": "Pokedex - Mareep",
+    "name": "Pokedex - MBSK KALE",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_180": {
-    "name": "Pokedex - Flaaffy",
+    "name": "Pokedex - KEFLA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_181": {
-    "name": "Pokedex - Ampharos",
+    "name": "Pokedex - MBSK KEFLA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_182": {
-    "name": "Pokedex - Bellossom",
+    "name": "Pokedex - DAMON",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
@@ -9443,19 +9443,19 @@
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_243": {
-    "name": "Pokedex - Raikou",
+    "name": "Pokedex - SSG GOHAN",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_244": {
-    "name": "Pokedex - Entei",
+    "name": "Pokedex - SSG GOKU",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]
   },
   "POKEDEX_REWARD_245": {
-    "name": "Pokedex - Suicune",
+    "name": "Pokedex - SSB VEGETA",
     "tags": ["Pokedex Entries", "Johto Pokedex Entries"],
     "category": "POKEDEX",
     "include": ["Dexsanity"]

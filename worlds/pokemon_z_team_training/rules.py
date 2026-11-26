@@ -876,7 +876,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
     location_rules["Route 12 - Hidden Item Under Snorlax"] = Has("Itemfinder")
     location_rules["Route 12 - Rocker Luca Rematch Reward (4 Badges/Gyms)"] = TrainerRematch(4)
     location_rules["Route 12 Fishing House - Fishing Guru Gift (Show Magikarp)"] = (
-        Has("Magikarp") & Has("Pokedex")
+        Has("SANSHENRON") & Has("Pokedex")
     )
 
     entrance_rules["Route 12 West Exit"] = (
@@ -1451,7 +1451,7 @@ def set_rules(world: "PokemonFRLGWorld") -> None:
 
     # Water Labyrinth
     location_rules["Water Labyrinth - Gentleman Info"] = (
-        (Has("Togepi") | Has("Togetic")) & Has("Pokedex")
+        (Has("SSJ CLFLA") | Has("SSJ2 CLFLA")) & Has("Pokedex")
     )
     location_rules["Water Labyrinth - Pokemon Breeder Alize Rematch Reward (8 Badges/Gyms)"] = TrainerRematch(8)
 

@@ -1,6 +1,6 @@
 # Pokemon Z Team Training Tracker
 
-A port of the Pokémon FireRed/LeafGreen tracker pack by Vyneras for the Pokemon Z Team Training Archipelago world. Locations, logic and autotracking are unchanged (the world uses the same Archipelago map logic); species show the hack's names and icons, with the Archipelago name in brackets, e.g. `GOKU (Bulbasaur)`.
+A port of the Pokémon FireRed/LeafGreen tracker pack by Vyneras for the Pokemon Z Team Training Archipelago world. Locations, logic and autotracking are unchanged (the world uses the same Archipelago map logic); species show the hack's names and icons, the same names the world uses.
 
 For Universal Tracker, set `ut_poptracker_path` under `pokemon_z_team_training_settings` in host.yaml to this zip.
 

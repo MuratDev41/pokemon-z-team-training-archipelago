@@ -14,7 +14,8 @@ when you open your `.apztt` patch file.
 - 180 species replaced by Dragon Ball characters (Goku, Vegeta, Gohan, Piccolo, Frieza, Cell, Buu, Broly, Jiren...),
   with their names, front/back sprites, shiny palettes, icons, footprints, Pokédex entries, base stats, types,
   abilities, evolutions, level-up learnsets and TM compatibility. See [species names](species_names.md).
-- 151 reworked moves (names, power, accuracy, type, effects, descriptions) and their battle animations.
+- 151 reworked moves (names, power, accuracy, type, effects, descriptions), their battle animations, and the hack's
+  rewritten move effect (a triple stat boost for SSB KAIOKEN and SAIYAN POWER).
 - Item names, descriptions and icons (Capsules, Senzu, Dragon Balls...), wherever Archipelago doesn't use the item itself.
 - Trainer names, classes, sprites and parties, ability names and descriptions, the type chart.
 - Wild encounter tables and in-game trades.
@@ -23,22 +24,27 @@ when you open your `.apztt` patch file.
 
 ## What stays from Pokémon FireRed and LeafGreen (Archipelago)
 
-Archipelago needs the map layouts, events and scripts it was built around, so these keep the Archipelago FireRed version:
+Archipelago's logic is built around FireRed's maps, events and scripts, so these keep the Archipelago version:
 
-- **Maps, events and story.** The hack rebuilt many maps and scripted its own story. Those layouts and scripts are not
-  used: you walk the Archipelago version of Kanto and the Sevii Islands, with all of its item locations, roadblock options
-  and entrance randomization. Towns and buildings whose maps the hack rebuilt keep FireRed's tileset graphics, so they
-  don't show the hack's art on a layout it wasn't drawn for.
-- **Shop, prize and gift scripts** are Archipelago's (Archipelago fills them with items).
-- **Cries** stay FireRed's: the hack points the new characters at a cry that isn't valid sound data.
-- A handful of hack-only features driven by its story scripts (a custom-moveset gift routine, script-selected battle
-  backgrounds) are left out because nothing in the Archipelago game triggers them.
+- **Maps, events and story.** The hack rebuilt many maps (new collision, warps and buildings) and scripted its own
+  story. Using them would change where items are and what blocks the way, so you walk the Archipelago version of Kanto
+  and the Sevii Islands, with all of its locations, roadblock options and entrance randomization. Edited map areas are
+  taken from the hack wherever collision and tile behaviour are unchanged. Towns the hack rebuilt keep FireRed's
+  tileset art, because the hack redrew those tilesets for its own layouts and they look broken on FireRed's.
+- **Shop, prize and gift scripts** are Archipelago's, which fills them with items.
+- **Pokédex numbering** stays FireRed's. The hack renumbers the dex and even gives five species the same numbers as
+  Gen 3 Pokémon, which would break Pokédex checks. Every character still gets its own Pokédex entry.
+- **Cries** stay FireRed's. The hack doesn't add cries: it points every new character at a picture in the ROM, which
+  plays as noise.
+- Two hack features are only started by its own story scripts (special-moveset gifts and story battle backgrounds), so
+  nothing in this game triggers them.
 
 ## Names in Archipelago
 
-Item, location, option and hint names keep the original Pokémon names (for example `Pokedex - Bulbasaur` is Goku's
-Pokédex entry), so YAMLs, trackers and the existing logic stay compatible. The [species names](species_names.md) page
-lists every renamed species. In game, everything shows the Pokemon Z Team Training names.
+Archipelago uses the in-game names: hints, items and locations say `GOKU`, `Pokedex - SSJ GOKU`, `Static BUUHAN`, and
+YAML species lists (starter or legendary blacklists, for example) take the same names. The
+[species names](species_names.md) page maps them to the original Pokémon. Items use the hack's names as well
+(CAPSULE, SENZU, HOLY WATER, DRAGONBALL 1...), except the few items Archipelago itself renames or repurposes.
 
 ## What does randomization do to this game?
 

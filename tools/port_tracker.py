@@ -6,7 +6,7 @@ Port the Pokemon FireRed/LeafGreen PopTracker pack to Pokemon Z Team Training.
 Locations, logic, maps and autotracking are unchanged: the world uses the same Archipelago map logic,
 datastorage keys and tracker checksum. What changes:
   - manifest: game name / uid / title, so PopTracker pairs it with "Pokemon Z Team Training" slots
-  - species display names: the in-game name plus the Archipelago name, e.g. "GOKU (Bulbasaur)"
+  - species display names: the in-game names, which the world uses too
   - species images: the hack's own 32x32 menu icons, rendered from the ROM
 """
 import json
@@ -19,7 +19,7 @@ import zipfile
 from PIL import Image
 
 from core import Ctx, ROM, u16, u32
-from paths import WORLD, TRACKER as OUT, DIST, HACK_BPS, AP_BASE_PATCH, FINAL_BASE_ROM
+from paths import WORLD, TRACKER as OUT, DIST, HACK_BPS, AP_BASE_PATCH, FINAL_BASE_ROM, UPSTREAM_WORLD
 from evolutions import all_species
 from gba_text import dec
 
@@ -39,7 +39,7 @@ m = json.load(open(mpath, encoding="utf-8-sig"))
 m["name"] = "Pokemon Z Team Training Tracker"
 m["game_name"] = "Pokemon Z Team Training"
 m["package_uid"] = "pokemon_z_team_training"
-m["package_version"] = "1.0.0"
+m["package_version"] = "1.1.0"
 m["author"] = "Vyneras, MuratDeveloper"
 m.pop("versions_url", None)   # the upstream URL would offer FRLG updates
 json.dump(m, open(mpath, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
@@ -47,7 +47,7 @@ json.dump(m, open(mpath, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 # ---------- species: code -> species id ----------
 src = open(os.path.join(OUT, "scripts", "autotracking", "pokemon_mapping.lua"), encoding="utf-8").read()
 dex_to_code = {int(a): b for a, b in re.findall(r'\[(\d+)\]\s*=\s*"([a-z0-9_]+)"', src)}
-species = all_species(WORLD)
+species = all_species(UPSTREAM_WORLD)
 dex_to_species = {}
 dex_to_apname = {}
 for const, name, dex in species:
@@ -101,7 +101,7 @@ for dex, code in dex_to_code.items():
     game_name = dec(final, names_a + 11 * sid, 11)
     vanilla_name = dec(ctx.V, names_v + 11 * sid, 11)
     if game_name != vanilla_name:
-        code_to_label[code] = "%s (%s)" % (game_name, dex_to_apname[dex])
+        code_to_label[code] = game_name   # the world uses the in-game names too
     if icon_changed(sid):
         render_icon(sid).save(os.path.join(OUT, "images", "pokemon", code + ".png"))
         icons += 1
@@ -125,7 +125,7 @@ open(rpath, "w", encoding="utf-8").write(
     "# Pokemon Z Team Training Tracker\n\n"
     "A port of the Pokémon FireRed/LeafGreen tracker pack by Vyneras for the Pokemon Z Team Training Archipelago "
     "world. Locations, logic and autotracking are unchanged (the world uses the same Archipelago map logic); "
-    "species show the hack's names and icons, with the Archipelago name in brackets, e.g. `GOKU (Bulbasaur)`.\n\n"
+    "species show the hack's names and icons, the same names the world uses.\n\n"
     "For Universal Tracker, set `ut_poptracker_path` under `pokemon_z_team_training_settings` in host.yaml to this zip.\n\n"
     "---\n\n" + readme)
 

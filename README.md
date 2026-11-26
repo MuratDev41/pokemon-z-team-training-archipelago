@@ -53,14 +53,17 @@ The plan and the regenerated generation data (`data/extracted_data.json`, evolut
 
 ## Known limitations
 
-- The hack's own map layouts, story events and scripts are not used. Towns whose maps the hack rebuilt keep
-  FireRed's tileset graphics, so the hack's art isn't drawn onto a layout it wasn't made for.
-- The national Pokédex keeps FireRed's numbering (the hack renumbers it), because Archipelago tracks Pokédex
-  checks by number. Each character's Pokédex entry is moved to its slot.
-- Cries stay FireRed's: the hack points the new characters at invalid sound data.
-- Item, location and option names keep the original Pokémon names (`Pokedex - Bulbasaur` is Goku's entry).
-- Not ported: the hack's custom "Sunny Day" battle script, two features only its story scripts trigger
-  (custom-moveset gifts, scripted battle backgrounds), one malformed move animation and one malformed shiny palette.
+These come from how the hack is built, not from missing work:
+
+- **Maps and story.** The hack rebuilt many maps (collision, warps, buildings) and wrote its own story scripts.
+  Archipelago's locations and logic are tied to FireRed's maps, so those stay. Edited areas are taken from the hack
+  wherever collision and tile behaviour match; towns the hack rebuilt keep FireRed's tileset art, since the hack's art
+  only fits its own layouts.
+- **Pokédex numbering** stays FireRed's: the hack's numbering gives five species the same numbers as Gen 3 Pokémon,
+  which would break Pokédex checks. Each character still gets its own entry.
+- **Cries** stay FireRed's: the hack points the new characters at a picture, not at sound data.
+- **Story-only features** (special-moveset gifts, story battle backgrounds) are started only by the hack's scripts.
+- **Shiny PICCOLO** uses its normal palette: the hack's shiny palette for it is empty.
 
 ## Credits
 

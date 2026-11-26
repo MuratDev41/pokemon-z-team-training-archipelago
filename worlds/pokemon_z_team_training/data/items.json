@@ -192,7 +192,7 @@
     "tags": ["Key Items", "Unique Items"]
   },
   "ITEM_FIRE_STONE": {
-    "name": "Fire Stone",
+    "name": "GOD STONE",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Evolution Items"]
   },
@@ -477,7 +477,7 @@
     "tags": ["Key Items", "Unique Items"]
   },
   "ITEM_WATER_STONE": {
-    "name": "Water Stone",
+    "name": "APE TAIL",
     "classification": "PROGRESSION",
     "tags": ["Key Items", "Evolution Items"]
   },
@@ -584,27 +584,27 @@
   },
 
   "ITEM_MASTER_BALL": {
-    "name": "Master Ball",
+    "name": "GOLDEN CAPS.",
     "classification": "USEFUL",
     "tags": ["Balls"]
   },
   "ITEM_ULTRA_BALL": {
-    "name": "Ultra Ball",
+    "name": "ULTRA CAPS.",
     "classification": "FILLER",
     "tags": ["Balls"]
   },
   "ITEM_GREAT_BALL": {
-    "name": "Great Ball",
+    "name": "GREAT CAPS.",
     "classification": "FILLER",
     "tags": ["Balls"]
   },
   "ITEM_POKE_BALL": {
-    "name": "Poke Ball",
+    "name": "CAPSULE",
     "classification": "FILLER",
     "tags": ["Balls"]
   },
   "ITEM_SAFARI_BALL": {
-    "name": "Safari Ball",
+    "name": "BABIDI CAPS.",
     "classification": "FILLER",
     "tags": ["Balls"]
   },
@@ -645,7 +645,7 @@
   },
 
   "ITEM_POTION": {
-    "name": "Potion",
+    "name": "ONIGIRI",
     "classification": "FILLER",
     "tags": ["Healing Items", "HP Healing Items"]
   },
@@ -675,7 +675,7 @@
     "tags": ["Healing Items", "Status Healing Items"]
   },
   "ITEM_FULL_RESTORE": {
-    "name": "Full Restore",
+    "name": "SENZU",
     "classification": "FILLER",
     "tags": ["Healing Items", "HP Healing Items", "Status Healing Items"]
   },
@@ -685,12 +685,12 @@
     "tags": ["Healing Items", "HP Healing Items"]
   },
   "ITEM_HYPER_POTION": {
-    "name": "Hyper Potion",
+    "name": "Z-DRINK",
     "classification": "FILLER",
     "tags": ["Healing Items", "HP Healing Items"]
   },
   "ITEM_SUPER_POTION": {
-    "name": "Super Potion",
+    "name": "SATAN DRINK",
     "classification": "FILLER",
     "tags": ["Healing Items", "HP Healing Items"]
   },
@@ -700,12 +700,12 @@
     "tags": ["Healing Items", "Status Healing Items"]
   },
   "ITEM_REVIVE": {
-    "name": "Revive",
+    "name": "CRYSTAL",
     "classification": "FILLER",
     "tags": ["Healing Items", "Revival Items"]
   },
   "ITEM_MAX_REVIVE": {
-    "name": "Max Revive",
+    "name": "SHENRONSCALE",
     "classification": "FILLER",
     "tags": ["Healing Items", "Revival Items"]
   },
@@ -725,7 +725,7 @@
     "tags": ["Healing Items", "HP Healing Items"]
   },
   "ITEM_MOOMOO_MILK": {
-    "name": "Moomoo Milk",
+    "name": "MILK",
     "classification": "FILLER",
     "tags": ["Healing Items", "HP Healing Items"]
   },
@@ -857,7 +857,7 @@
     "tags": ["Vitamins", "Power-Up Items"]
   },
   "ITEM_RARE_CANDY": {
-    "name": "Rare Candy",
+    "name": "HOLY WATER",
     "classification": "USEFUL",
     "tags": ["Power-Up Items"]
   },
@@ -924,7 +924,7 @@
     "tags": ["Field Items"]
   },
   "ITEM_POKE_DOLL": {
-    "name": "Poke Doll",
+    "name": "SMOKE CAPS.",
     "classification": "FILLER",
     "tags": ["Battle Items"]
   },
@@ -1002,37 +1002,37 @@
     "tags": ["Mails"]
   },
   "ITEM_HARBOR_MAIL": {
-    "name": "Harbor Mail",
+    "name": "DRAGONBALL 1",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_GLITTER_MAIL": {
-    "name": "Glitter Mail",
+    "name": "DRAGONBALL 2",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_MECH_MAIL": {
-    "name": "Mech Mail",
+    "name": "DRAGONBALL 3",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_WOOD_MAIL": {
-    "name": "Wood Mail",
+    "name": "DRAGONBALL 4",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_WAVE_MAIL": {
-    "name": "Wave Mail",
+    "name": "DRAGONBALL 5",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_BEAD_MAIL": {
-    "name": "Bead Mail",
+    "name": "DRAGONBALL 6",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
   "ITEM_SHADOW_MAIL": {
-    "name": "Shadow Mail",
+    "name": "DRAGONBALL 7",
     "classification": "FILLER",
     "tags": ["Mails"]
   },
@@ -1279,12 +1279,12 @@
     "tags": ["Held Items"]
   },
   "ITEM_MACHO_BRACE": {
-    "name": "Macho Brace",
+    "name": "WEIGHTS",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
   "ITEM_QUICK_CLAW": {
-    "name": "Quick Claw",
+    "name": "BATTLE BOOTS",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
@@ -1304,7 +1304,7 @@
     "tags": ["Held Items"]
   },
   "ITEM_KINGS_ROCK": {
-    "name": "King's Rock",
+    "name": "Z-SWORD",
     "classification": "USEFUL",
     "tags": ["Held Items", "Evolution Items"]
   },
@@ -1354,12 +1354,12 @@
     "tags": ["Held Items"]
   },
   "ITEM_LUCKY_EGG": {
-    "name": "Lucky Egg",
+    "name": "TURTLE SUIT",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
   "ITEM_SCOPE_LENS": {
-    "name": "Scope Lens",
+    "name": "NEO-SCOUTER",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
@@ -1404,7 +1404,7 @@
     "tags": ["Held Items"]
   },
   "ITEM_BLACK_BELT": {
-    "name": "Black Belt",
+    "name": "BATTLEGLOVES",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
@@ -1424,7 +1424,7 @@
     "tags": ["Held Items"]
   },
   "ITEM_POISON_BARB": {
-    "name": "Poison Barb",
+    "name": "BATTLE ARMOR",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
@@ -1444,7 +1444,7 @@
     "tags": ["Held Items"]
   },
   "ITEM_CHARCOAL": {
-    "name": "Charcoal",
+    "name": "POTARA",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },
@@ -1454,7 +1454,7 @@
     "tags": ["Held Items"]
   },
   "ITEM_SILK_SCARF": {
-    "name": "Silk Scarf",
+    "name": "NYOIBO",
     "classification": "USEFUL",
     "tags": ["Held Items"]
   },

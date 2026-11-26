@@ -1,6 +1,6 @@
 [
   {
-    "name": "C-19 (Abra)",
+    "name": "C-19",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "SSR BLACK (Aerodactyl)",
+    "name": "SSR BLACK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "name": "BUG CELL (Alakazam)",
+    "name": "BUG CELL",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "name": "MBSK KEFLA (Ampharos)",
+    "name": "MBSK KEFLA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "name": "SAIBAMEN (Arbok)",
+    "name": "SAIBAMEN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "name": "C-15 (Arcanine)",
+    "name": "C-15",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "name": "MUI GOKU (Ariados)",
+    "name": "MUI GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "name": "M-ZAMASU (Articuno)",
+    "name": "M-ZAMASU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "name": "FROST 2 (Bayleef)",
+    "name": "FROST 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "name": "CHIAOTZU (Beedrill)",
+    "name": "CHIAOTZU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "name": "DAMON (Bellossom)",
+    "name": "DAMON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -520,7 +520,7 @@
     ]
   },
   {
-    "name": "BROLY (Bellsprout)",
+    "name": "BROLY",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "name": "ULTM GOHAN (Blastoise)",
+    "name": "ULTM GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -620,7 +620,7 @@
     ]
   },
   {
-    "name": "GOKU (Bulbasaur)",
+    "name": "GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "name": "KRILLIN (Butterfree)",
+    "name": "KRILLIN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "name": "PICCOLO (Caterpie)",
+    "name": "PICCOLO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -820,7 +820,7 @@
     ]
   },
   {
-    "name": "SSJ VEGETO (Chansey)",
+    "name": "SSJ VEGETO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "name": "MJN VEGETA (Charizard)",
+    "name": "MJN VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "name": "VEGETA (Charmander)",
+    "name": "VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -880,7 +880,7 @@
     ]
   },
   {
-    "name": "SSJ VEGETA (Charmeleon)",
+    "name": "SSJ VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "name": "FROST (Chikorita)",
+    "name": "FROST",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "name": "JIMIZU (Chinchou)",
+    "name": "JIMIZU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1000,7 +1000,7 @@
     ]
   },
   {
-    "name": "GULDO (Clefable)",
+    "name": "GULDO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1020,7 +1020,7 @@
     ]
   },
   {
-    "name": "ZARBON 2 (Clefairy)",
+    "name": "ZARBON 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1040,7 +1040,7 @@
     ]
   },
   {
-    "name": "SSJ2 CABBA (Cleffa)",
+    "name": "SSJ2 CABBA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "name": "KAIOSHIN (Cloyster)",
+    "name": "KAIOSHIN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "name": "SSB2VEGETA (Crobat)",
+    "name": "SSB2VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1200,7 +1200,7 @@
     ]
   },
   {
-    "name": "SSJGT GOKU (Croconaw)",
+    "name": "SSJGT GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "name": "SSJ GOTEN (Cubone)",
+    "name": "SSJ GOTEN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "name": "SSR TRUNKS (Cyndaquil)",
+    "name": "SSR TRUNKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1320,7 +1320,7 @@
     ]
   },
   {
-    "name": "MAJIN BUU (Dewgong)",
+    "name": "MAJIN BUU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1340,7 +1340,7 @@
     ]
   },
   {
-    "name": "NAIL (Diglett)",
+    "name": "NAIL",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1360,7 +1360,7 @@
     ]
   },
   {
-    "name": "G-FRIEZA (Ditto)",
+    "name": "G-FRIEZA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1380,7 +1380,7 @@
     ]
   },
   {
-    "name": "YAKON (Dodrio)",
+    "name": "YAKON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1400,7 +1400,7 @@
     ]
   },
   {
-    "name": "PUI PUI (Doduo)",
+    "name": "PUI PUI",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "name": "OLIBU (Drowzee)",
+    "name": "OLIBU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "name": "SLUG (Dugtrio)",
+    "name": "SLUG",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1620,7 +1620,7 @@
     ]
   },
   {
-    "name": "BABYVEGETA (Eevee)",
+    "name": "BABYVEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1640,7 +1640,7 @@
     ]
   },
   {
-    "name": "KG PICCOLO (Ekans)",
+    "name": "KG PICCOLO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1660,7 +1660,7 @@
     ]
   },
   {
-    "name": "SSJ4 GOKU (Electabuzz)",
+    "name": "SSJ4 GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1700,7 +1700,7 @@
     ]
   },
   {
-    "name": "HIRUDEGAN2 (Electrode)",
+    "name": "HIRUDEGAN2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1740,7 +1740,7 @@
     ]
   },
   {
-    "name": "SSG GOKU (Entei)",
+    "name": "SSG GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1780,7 +1780,7 @@
     ]
   },
   {
-    "name": "TAPION (Exeggcute)",
+    "name": "TAPION",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1800,7 +1800,7 @@
     ]
   },
   {
-    "name": "GOTEN (Exeggutor)",
+    "name": "GOTEN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "name": "YAMU (Farfetch'd)",
+    "name": "YAMU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1860,7 +1860,7 @@
     ]
   },
   {
-    "name": "TANBARIN (Fearow)",
+    "name": "TANBARIN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1900,7 +1900,7 @@
     ]
   },
   {
-    "name": "SSJ3GTGOKU (Feraligatr)",
+    "name": "SSJ3GTGOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1920,7 +1920,7 @@
     ]
   },
   {
-    "name": "KEFLA (Flaaffy)",
+    "name": "KEFLA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -1940,7 +1940,7 @@
     ]
   },
   {
-    "name": "G-OOSARU (Flareon)",
+    "name": "G-OOSARU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2000,7 +2000,7 @@
     ]
   },
   {
-    "name": "LAVENDER (Furret)",
+    "name": "LAVENDER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "name": "KIBITO (Gastly)",
+    "name": "KIBITO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2060,7 +2060,7 @@
     ]
   },
   {
-    "name": "AQUA (Gengar)",
+    "name": "AQUA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2080,7 +2080,7 @@
     ]
   },
   {
-    "name": "ZANGYA (Geodude)",
+    "name": "ZANGYA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2160,7 +2160,7 @@
     ]
   },
   {
-    "name": "FRIEZA 4 (Gloom)",
+    "name": "FRIEZA 4",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2180,7 +2180,7 @@
     ]
   },
   {
-    "name": "FRIEZA 2 (Golbat)",
+    "name": "FRIEZA 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2200,7 +2200,7 @@
     ]
   },
   {
-    "name": "LEDGIC (Goldeen)",
+    "name": "LEDGIC",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2220,7 +2220,7 @@
     ]
   },
   {
-    "name": "WILO (Golduck)",
+    "name": "WILO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2240,7 +2240,7 @@
     ]
   },
   {
-    "name": "HATCHIYACK (Golem)",
+    "name": "HATCHIYACK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2300,7 +2300,7 @@
     ]
   },
   {
-    "name": "BUJIN (Graveler)",
+    "name": "BUJIN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2320,7 +2320,7 @@
     ]
   },
   {
-    "name": "EVIL BUU (Grimer)",
+    "name": "EVIL BUU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2380,7 +2380,7 @@
     ]
   },
   {
-    "name": "C-14 (Growlithe)",
+    "name": "C-14",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2440,7 +2440,7 @@
     ]
   },
   {
-    "name": "LI SHENRON (Gyarados)",
+    "name": "LI SHENRON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2480,7 +2480,7 @@
     ]
   },
   {
-    "name": "KIBITOSHIN (Haunter)",
+    "name": "KIBITOSHIN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2520,7 +2520,7 @@
     ]
   },
   {
-    "name": "GOTENKS (Hitmonchan)",
+    "name": "GOTENKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2540,7 +2540,7 @@
     ]
   },
   {
-    "name": "SSJ TRUNKS (Hitmonlee)",
+    "name": "SSJ TRUNKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2580,7 +2580,7 @@
     ]
   },
   {
-    "name": "BERGAMO (Hoothoot)",
+    "name": "BERGAMO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2620,7 +2620,7 @@
     ]
   },
   {
-    "name": "UUB (Horsea)",
+    "name": "UUB",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2720,7 +2720,7 @@
     ]
   },
   {
-    "name": "PIKKON (Hypno)",
+    "name": "PIKKON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2740,7 +2740,7 @@
     ]
   },
   {
-    "name": "CAULIFLA (Igglybuff)",
+    "name": "CAULIFLA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2780,7 +2780,7 @@
     ]
   },
   {
-    "name": "SSJ GOKU (Ivysaur)",
+    "name": "SSJ GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2800,7 +2800,7 @@
     ]
   },
   {
-    "name": "BURTER (Jigglypuff)",
+    "name": "BURTER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2840,7 +2840,7 @@
     ]
   },
   {
-    "name": "SS BARDOCK (Jolteon)",
+    "name": "SS BARDOCK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2880,7 +2880,7 @@
     ]
   },
   {
-    "name": "SUPER C-17 (Jynx)",
+    "name": "SUPER C-17",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2900,7 +2900,7 @@
     ]
   },
   {
-    "name": "SSB VEGETO (Kabuto)",
+    "name": "SSB VEGETO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2920,7 +2920,7 @@
     ]
   },
   {
-    "name": "BLACK (Kabutops)",
+    "name": "BLACK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2940,7 +2940,7 @@
     ]
   },
   {
-    "name": "C-20 (Kadabra)",
+    "name": "C-20",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2960,7 +2960,7 @@
     ]
   },
   {
-    "name": "TENSHINHAN (Kakuna)",
+    "name": "TENSHINHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -2980,7 +2980,7 @@
     ]
   },
   {
-    "name": "BEERUS (Kangaskhan)",
+    "name": "BEERUS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3040,7 +3040,7 @@
     ]
   },
   {
-    "name": "SP JANEMBA (Kingler)",
+    "name": "SP JANEMBA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3080,7 +3080,7 @@
     ]
   },
   {
-    "name": "GOTENKS 3 (Koffing)",
+    "name": "GOTENKS 3",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3100,7 +3100,7 @@
     ]
   },
   {
-    "name": "JANEMBA (Krabby)",
+    "name": "JANEMBA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3160,7 +3160,7 @@
     ]
   },
   {
-    "name": "CABBA (Lanturn)",
+    "name": "CABBA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3180,7 +3180,7 @@
     ]
   },
   {
-    "name": "WHIS (Lapras)",
+    "name": "WHIS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3260,7 +3260,7 @@
     ]
   },
   {
-    "name": "JIREN (Ledian)",
+    "name": "JIREN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3280,7 +3280,7 @@
     ]
   },
   {
-    "name": "TOPPO (Ledyba)",
+    "name": "TOPPO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3300,7 +3300,7 @@
     ]
   },
   {
-    "name": "GOTENKS 2 (Lickitung)",
+    "name": "GOTENKS 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3500,7 +3500,7 @@
     ]
   },
   {
-    "name": "CELL JR. (Machamp)",
+    "name": "CELL JR.",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3520,7 +3520,7 @@
     ]
   },
   {
-    "name": "PRFCT CELL (Machoke)",
+    "name": "PRFCT CELL",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3540,7 +3540,7 @@
     ]
   },
   {
-    "name": "IMPFT CELL (Machop)",
+    "name": "IMPFT CELL",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3600,7 +3600,7 @@
     ]
   },
   {
-    "name": "SANSHENRON (Magikarp)",
+    "name": "SANSHENRON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3620,7 +3620,7 @@
     ]
   },
   {
-    "name": "SS4 VEGETA (Magmar)",
+    "name": "SS4 VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3640,7 +3640,7 @@
     ]
   },
   {
-    "name": "SSJ2 GOHAN (Magnemite)",
+    "name": "SSJ2 GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3660,7 +3660,7 @@
     ]
   },
   {
-    "name": "SPOPOVICH (Magneton)",
+    "name": "SPOPOVICH",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3720,7 +3720,7 @@
     ]
   },
   {
-    "name": "C-13 (Mankey)",
+    "name": "C-13",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3760,7 +3760,7 @@
     ]
   },
   {
-    "name": "MBSK KALE (Mareep)",
+    "name": "MBSK KALE",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3800,7 +3800,7 @@
     ]
   },
   {
-    "name": "TRUNKS (Marowak)",
+    "name": "TRUNKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3920,7 +3920,7 @@
     ]
   },
   {
-    "name": "FROST 3 (Meganium)",
+    "name": "FROST 3",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -3940,7 +3940,7 @@
     ]
   },
   {
-    "name": "GARLIC (Meowth)",
+    "name": "GARLIC",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4000,7 +4000,7 @@
     ]
   },
   {
-    "name": "SP PICCOLO (Metapod)",
+    "name": "SP PICCOLO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4160,7 +4160,7 @@
     ]
   },
   {
-    "name": "BUUHAN (Moltres)",
+    "name": "BUUHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4180,7 +4180,7 @@
     ]
   },
   {
-    "name": "METAL RILD (Mr. Mime)",
+    "name": "METAL RILD",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4220,7 +4220,7 @@
     ]
   },
   {
-    "name": "SUPER BUU (Muk)",
+    "name": "SUPER BUU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4260,7 +4260,7 @@
     ]
   },
   {
-    "name": "KALE (Natu)",
+    "name": "KALE",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4280,7 +4280,7 @@
     ]
   },
   {
-    "name": "ZARBON (Nidoking)",
+    "name": "ZARBON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4300,7 +4300,7 @@
     ]
   },
   {
-    "name": "OOSARU (Nidoqueen)",
+    "name": "OOSARU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4320,7 +4320,7 @@
     ]
   },
   {
-    "name": "KG VEGETA (Nidoran F)",
+    "name": "KG VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4340,7 +4340,7 @@
     ]
   },
   {
-    "name": "KIWI (Nidoran M)",
+    "name": "KIWI",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4360,7 +4360,7 @@
     ]
   },
   {
-    "name": "KID GOHAN (Nidorina)",
+    "name": "KID GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4380,7 +4380,7 @@
     ]
   },
   {
-    "name": "DODORIA (Nidorino)",
+    "name": "DODORIA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4420,7 +4420,7 @@
     ]
   },
   {
-    "name": "JEICE (Ninetales)",
+    "name": "JEICE",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4460,7 +4460,7 @@
     ]
   },
   {
-    "name": "DYSPO (Noctowl)",
+    "name": "DYSPO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4560,7 +4560,7 @@
     ]
   },
   {
-    "name": "FRIEZA 3 (Oddish)",
+    "name": "FRIEZA 3",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4580,7 +4580,7 @@
     ]
   },
   {
-    "name": "SSB GOHAN (Omanyte)",
+    "name": "SSB GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4600,7 +4600,7 @@
     ]
   },
   {
-    "name": "SSG VEGETA (Omastar)",
+    "name": "SSG VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4620,7 +4620,7 @@
     ]
   },
   {
-    "name": "TORBI (Onix)",
+    "name": "TORBI",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4640,7 +4640,7 @@
     ]
   },
   {
-    "name": "COOLER (Paras)",
+    "name": "COOLER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4660,7 +4660,7 @@
     ]
   },
   {
-    "name": "SPR COOLER (Parasect)",
+    "name": "SPR COOLER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4700,7 +4700,7 @@
     ]
   },
   {
-    "name": "GARLIC 2 (Persian)",
+    "name": "GARLIC 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4740,7 +4740,7 @@
     ]
   },
   {
-    "name": "SSJ CABBA (Pichu)",
+    "name": "SSJ CABBA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4760,7 +4760,7 @@
     ]
   },
   {
-    "name": "BUYON (Pidgeot)",
+    "name": "BUYON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4780,7 +4780,7 @@
     ]
   },
   {
-    "name": "GIRAN (Pidgeotto)",
+    "name": "GIRAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4800,7 +4800,7 @@
     ]
   },
   {
-    "name": "BEAR THIEF (Pidgey)",
+    "name": "BEAR THIEF",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4820,7 +4820,7 @@
     ]
   },
   {
-    "name": "RADITZ (Pikachu)",
+    "name": "RADITZ",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4880,7 +4880,7 @@
     ]
   },
   {
-    "name": "SS4 GOGETA (Pinsir)",
+    "name": "SS4 GOGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4940,7 +4940,7 @@
     ]
   },
   {
-    "name": "C-16 (Poliwag)",
+    "name": "C-16",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4960,7 +4960,7 @@
     ]
   },
   {
-    "name": "C-17 (Poliwhirl)",
+    "name": "C-17",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -4980,7 +4980,7 @@
     ]
   },
   {
-    "name": "C-18 (Poliwrath)",
+    "name": "C-18",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5000,7 +5000,7 @@
     ]
   },
   {
-    "name": "F-TRUNKS (Ponyta)",
+    "name": "F-TRUNKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5040,7 +5040,7 @@
     ]
   },
   {
-    "name": "HIT (Porygon)",
+    "name": "HIT",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5080,7 +5080,7 @@
     ]
   },
   {
-    "name": "SUPER C-13 (Primeape)",
+    "name": "SUPER C-13",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5100,7 +5100,7 @@
     ]
   },
   {
-    "name": "BIOMEN (Psyduck)",
+    "name": "BIOMEN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5160,7 +5160,7 @@
     ]
   },
   {
-    "name": "G-APE BABY (Quilava)",
+    "name": "G-APE BABY",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5200,7 +5200,7 @@
     ]
   },
   {
-    "name": "NAPPA (Raichu)",
+    "name": "NAPPA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5220,7 +5220,7 @@
     ]
   },
   {
-    "name": "SSG GOHAN (Raikou)",
+    "name": "SSG GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5260,7 +5260,7 @@
     ]
   },
   {
-    "name": "SSF TRUNKS (Rapidash)",
+    "name": "SSF TRUNKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5280,7 +5280,7 @@
     ]
   },
   {
-    "name": "TAOPAIPAI (Raticate)",
+    "name": "TAOPAIPAI",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5300,7 +5300,7 @@
     ]
   },
   {
-    "name": "EIGHTER (Rattata)",
+    "name": "EIGHTER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5440,7 +5440,7 @@
     ]
   },
   {
-    "name": "VEGETO (Rhydon)",
+    "name": "VEGETO",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5460,7 +5460,7 @@
     ]
   },
   {
-    "name": "SSJ GOGETA (Rhyhorn)",
+    "name": "SSJ GOGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5540,7 +5540,7 @@
     ]
   },
   {
-    "name": "TURLES (Sandshrew)",
+    "name": "TURLES",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5560,7 +5560,7 @@
     ]
   },
   {
-    "name": "BARDOCK (Sandslash)",
+    "name": "BARDOCK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5620,7 +5620,7 @@
     ]
   },
   {
-    "name": "BABY (Scyther)",
+    "name": "BABY",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5640,7 +5640,7 @@
     ]
   },
   {
-    "name": "SUPER UUB (Seadra)",
+    "name": "SUPER UUB",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5660,7 +5660,7 @@
     ]
   },
   {
-    "name": "SIGMA (Seaking)",
+    "name": "SIGMA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5720,7 +5720,7 @@
     ]
   },
   {
-    "name": "DABURA (Seel)",
+    "name": "DABURA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5740,7 +5740,7 @@
     ]
   },
   {
-    "name": "BASIL (Sentret)",
+    "name": "BASIL",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -5840,7 +5840,7 @@
     ]
   },
   {
-    "name": "KID BUU (Shellder)",
+    "name": "KID BUU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6060,7 +6060,7 @@
     ]
   },
   {
-    "name": "SS T.GOHAN (Slowbro)",
+    "name": "SS T.GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6100,7 +6100,7 @@
     ]
   },
   {
-    "name": "TEEN GOHAN (Slowpoke)",
+    "name": "TEEN GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6200,7 +6200,7 @@
     ]
   },
   {
-    "name": "ZAMASU (Snorlax)",
+    "name": "ZAMASU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6280,7 +6280,7 @@
     ]
   },
   {
-    "name": "DRUM (Spearow)",
+    "name": "DRUM",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6320,7 +6320,7 @@
     ]
   },
   {
-    "name": "ULTRA GOKU (Spinarak)",
+    "name": "ULTRA GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6380,7 +6380,7 @@
     ]
   },
   {
-    "name": "GOHAN (Squirtle)",
+    "name": "GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6420,7 +6420,7 @@
     ]
   },
   {
-    "name": "MEGA RILD (Starmie)",
+    "name": "MEGA RILD",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6440,7 +6440,7 @@
     ]
   },
   {
-    "name": "RILD (Staryu)",
+    "name": "RILD",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6500,7 +6500,7 @@
     ]
   },
   {
-    "name": "SSB VEGETA (Suicune)",
+    "name": "SSB VEGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6700,7 +6700,7 @@
     ]
   },
   {
-    "name": "SHENRON (Tangela)",
+    "name": "SHENRON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6720,7 +6720,7 @@
     ]
   },
   {
-    "name": "SU SHENRON (Tauros)",
+    "name": "SU SHENRON",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6760,7 +6760,7 @@
     ]
   },
   {
-    "name": "BOJACK (Tentacool)",
+    "name": "BOJACK",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6780,7 +6780,7 @@
     ]
   },
   {
-    "name": "BOJACK 2 (Tentacruel)",
+    "name": "BOJACK 2",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6800,7 +6800,7 @@
     ]
   },
   {
-    "name": "SSJ CLFLA (Togepi)",
+    "name": "SSJ CLFLA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6820,7 +6820,7 @@
     ]
   },
   {
-    "name": "SSJ2 CLFLA (Togetic)",
+    "name": "SSJ2 CLFLA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6880,7 +6880,7 @@
     ]
   },
   {
-    "name": "GT GOKU (Totodile)",
+    "name": "GT GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -6960,7 +6960,7 @@
     ]
   },
   {
-    "name": "LUUD (Typhlosion)",
+    "name": "LUUD",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7080,7 +7080,7 @@
     ]
   },
   {
-    "name": "SSB GOKU (Vaporeon)",
+    "name": "SSB GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7100,7 +7100,7 @@
     ]
   },
   {
-    "name": "COLD (Venomoth)",
+    "name": "COLD",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7120,7 +7120,7 @@
     ]
   },
   {
-    "name": "MTL COOLER (Venonat)",
+    "name": "MTL COOLER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7140,7 +7140,7 @@
     ]
   },
   {
-    "name": "SSJ3 GOKU (Venusaur)",
+    "name": "SSJ3 GOKU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7180,7 +7180,7 @@
     ]
   },
   {
-    "name": "LSSJ BROLY (Victreebel)",
+    "name": "LSSJ BROLY",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7220,7 +7220,7 @@
     ]
   },
   {
-    "name": "SAUZER (Vileplume)",
+    "name": "SAUZER",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7260,7 +7260,7 @@
     ]
   },
   {
-    "name": "HIRUDEGARN (Voltorb)",
+    "name": "HIRUDEGARN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7280,7 +7280,7 @@
     ]
   },
   {
-    "name": "RECOOME (Vulpix)",
+    "name": "RECOOME",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7360,7 +7360,7 @@
     ]
   },
   {
-    "name": "SSJ GOHAN (Wartortle)",
+    "name": "SSJ GOHAN",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7380,7 +7380,7 @@
     ]
   },
   {
-    "name": "YAMCHA (Weedle)",
+    "name": "YAMCHA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7400,7 +7400,7 @@
     ]
   },
   {
-    "name": "SSJ BROLY (Weepinbell)",
+    "name": "SSJ BROLY",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7420,7 +7420,7 @@
     ]
   },
   {
-    "name": "GOGETA (Weezing)",
+    "name": "GOGETA",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7480,7 +7480,7 @@
     ]
   },
   {
-    "name": "GINYU (Wigglytuff)",
+    "name": "GINYU",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7600,7 +7600,7 @@
     ]
   },
   {
-    "name": "BRSK KALE (Xatu)",
+    "name": "BRSK KALE",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7660,7 +7660,7 @@
     ]
   },
   {
-    "name": "BUUTENKS (Zapdos)",
+    "name": "BUUTENKS",
     "type": "progressive_toggle",
     "stages": [
       {
@@ -7700,7 +7700,7 @@
     ]
   },
   {
-    "name": "FRIEZA (Zubat)",
+    "name": "FRIEZA",
     "type": "progressive_toggle",
     "stages": [
       {
